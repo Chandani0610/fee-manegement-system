@@ -1,0 +1,165 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Signup - CollegeSync Fees</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+            font-family: Arial, sans-serif;
+        }
+        body {
+            background: linear-gradient(135deg, #e0f2f1, #80cbc4);
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            min-height: 100vh;
+        }
+        .container {
+            background: #fff;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+            max-width: 500px;
+            width: 100%;
+        }
+        h2 {
+            color: #004d40;
+            text-align: center;
+            margin-bottom: 20px;
+        }
+        .tabs {
+            display: flex;
+            justify-content: space-around;
+            margin-bottom: 20px;
+        }
+        .tab {
+            padding: 10px 20px;
+            cursor: pointer;
+            color: #00695c;
+            font-weight: bold;
+            border-bottom: 2px solid transparent;
+        }
+        .tab.active {
+            border-bottom: 2px solid #00695c;
+            color: #004d40;
+        }
+        .form {
+            display: none;
+        }
+        .form.active {
+            display: block;
+        }
+        label {
+            display: block;
+            color: #004d40;
+            margin-bottom: 5px;
+        }
+        input, select {
+            width: 100%;
+            padding: 10px;
+            margin-bottom: 15px;
+            border: 1px solid #b0bec5;
+            border-radius: 5px;
+        }
+        button {
+            width: 100%;
+            padding: 12px;
+            background: #00695c;
+            color: #fff;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+        }
+        button:hover {
+            background: #004d40;
+        }
+        .error {
+            color: #d32f2f;
+            margin-bottom: 10px;
+            padding: 5px;
+            background: #ffebee;
+            border-radius: 5px;
+            display: none;
+            text-align: center;
+        }
+        a {
+            color: #00695c;
+            text-decoration: none;
+            display: block;
+            text-align: center;
+            margin-top: 15px;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+        @media (max-width: 600px) {
+            .container {
+                margin: 10px;
+                padding: 15px;
+            }
+            .tabs {
+                flex-direction: column;
+                align-items: center;
+            }
+            .tab {
+                margin-bottom: 10px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h2>Signup</h2>
+        <div class="tabs">
+            <div class="tab active" data-tab="student">Student</div>
+            <div class="tab" data-tab="admin">Admin</div>
+        </div>
+        <div id="error" class="error"></div>
+        <form id="student-signup-form" class="form active">
+            <label>Name</label>
+            <input type="text" id="student-name" required>
+            <label>Father's Name</label>
+            <input type="text" id="father-name" required>
+            <label>Date of Birth</label>
+            <input type="date" id="dob" required>
+            <label>Semester</label>
+            <select id="semester" required>
+                <option value="1st">1st</option>
+                <option value="2nd">2nd</option>
+                <option value="3rd">3rd</option>
+                <option value="4th">4th</option>
+                <option value="5th">5th</option>
+                <option value="6th">6th</option>
+                <option value="7th">7th</option>
+                <option value="8th">8th</option>
+            </select>
+            <label>Branch</label>
+            <input type="text" id="branch" required placeholder="e.g., CSE">
+            <label>Course</label>
+            <input type="text" id="course" required placeholder="e.g., BTech">
+            <label>Batch</label>
+            <input type="text" id="batch" required placeholder="e.g., 2023">
+            <label>Email</label>
+            <input type="email" id="student-email" required>
+            <label>Password</label>
+            <input type="password" id="student-password" required>
+            <button type="submit">Sign Up</button>
+            <a href="student_login.html">Already have an account? Login</a>
+        </form>
+        <form id="admin-signup-form" class="form">
+            <label>Username</label>
+            <input type="text" id="admin-username" required>
+            <label>Password</label>
+            <input type="password" id="admin-password" required>
+            <button type="submit">Sign Up</button>
+            <a href="admin_login.html">Already have an account? Login</a>
+        </form>
+    </div>
+    <script src="../js/jquery.min.js"></script>
+    <script src="../js/main.js"></script>
+</body>
+</html>

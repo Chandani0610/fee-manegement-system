@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Student Profile - CollegeSync Fees</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+            font-family: Arial, sans-serif;
+        }
+        body {
+            background: linear-gradient(135deg, #e0f2f1, #80cbc4);
+        }
+        .container {
+            max-width: 500px;
+            margin: 50px auto;
+            padding: 20px;
+            background: #fff;
+            border-radius: 8px;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+        }
+        h2 {
+            text-align: center;
+            color: #004d40;
+            margin-bottom: 20px;
+        }
+        .form label {
+            display: block;
+            color: #004d40;
+            margin-bottom: 5px;
+        }
+        .form input, .form select {
+            width: 100%;
+            padding: 10px;
+            margin-bottom: 15px;
+            border: 1px solid #b0bec5;
+            border-radius: 5px;
+        }
+        .form button {
+            width: 100%;
+            padding: 12px;
+            background: #00695c;
+            color: #fff;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+        }
+        .form button:hover {
+            background: #004d40;
+        }
+        .error {
+            color: #d32f2f;
+            text-align: center;
+            margin-bottom: 15px;
+            padding: 10px;
+            background: #ffebee;
+            border-radius: 5px;
+            display: none;
+        }
+        .nav {
+            text-align: center;
+            margin-bottom: 20px;
+        }
+        .nav a {
+            margin: 0 10px;
+            color: #00695c;
+            text-decoration: none;
+        }
+        .nav a:hover {
+            text-decoration: underline;
+        }
+        @media (max-width: 400px) {
+            .container {
+                margin: 20px;
+                padding: 15px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="nav">
+            <a href="student_dashboard.html">Dashboard</a>
+            <a href="fees_history.html">Fees History</a>
+            <a href="notifications.html">Notifications</a>
+            <a href="#" onclick="logout()">Logout</a>
+        </div>
+        <h2>Update Profile</h2>
+        <div id="error" class="error"></div>
+        <form id="profile-form" class="form">
+            <label>Name</label>
+            <input type="text" id="name" required>
+            <label>Father's Name</label>
+            <input type="text" id="father-name" required>
+            <label>Date of Birth</label>
+            <input type="date" id="dob" required>
+            <label>Semester</label>
+            <select id="semester" required>
+                <option value="1st">1st</option>
+                <option value="2nd">2nd</option>
+                <option value="3rd">3rd</option>
+                <option value="4th">4th</option>
+                <option value="5th">5th</option>
+                <option value="6th">6th</option>
+                <option value="7th">7th</option>
+                <option value="8th">8th</option>
+            </select>
+            <label>Branch</label>
+            <input type="text" id="branch" required>
+            <label>Course</label>
+            <input type="text" id="course" required>
+            <label>Batch</label>
+            <input type="text" id="batch" required>
+            <button type="submit">Update Profile</button>
+        </form>
+    </div>
+    <script src="../js/jquery.min.js"></script>
+    <script src="../js/main.js"></script>
+</body>
+</html>

@@ -1,0 +1,1669 @@
+[16-May-2025 19:39:32 Europe/Berlin] Login failed for john@example.com (type: student)
+[16-May-2025 19:46:54 Europe/Berlin] Login failed for admin (type: admin)
+[17-May-2025 18:38:52 Europe/Berlin] Login failed for student1@gmail.com (type: student)
+[17-May-2025 20:06:39 Europe/Berlin] Admin login: username=admin1
+[17-May-2025 20:07:19 Europe/Berlin] Fees assigned: class=, fee_type=Tuition
+[17-May-2025 20:07:37 Europe/Berlin] Fees assigned: class=, fee_type=Tuition
+[17-May-2025 20:07:50 Europe/Berlin] PHP Warning:  Undefined array key "filter" in C:\xampp\htdocs\FMS\backend\notifications.php on line 31
+[17-May-2025 20:07:50 Europe/Berlin] PHP Warning:  Undefined array key "value" in C:\xampp\htdocs\FMS\backend\notifications.php on line 32
+[17-May-2025 20:07:50 Europe/Berlin] Notification sent: filter=, value=
+[17-May-2025 20:08:10 Europe/Berlin] Student login: email=student1@gmail.com
+[17-May-2025 20:08:30 Europe/Berlin] Student login: email=student1@gmail.com
+[17-May-2025 20:09:31 Europe/Berlin] Student signup: email=student2@gmail.com
+[17-May-2025 20:10:00 Europe/Berlin] Student login: email=student2@gmail.com
+[17-May-2025 20:12:01 Europe/Berlin] Fetched fees for user_id=3: 0 records
+[17-May-2025 20:12:02 Europe/Berlin] Fetched fees for user_id=3: 0 records
+[17-May-2025 20:12:02 Europe/Berlin] Fetched fees for user_id=3: 0 records
+[17-May-2025 20:12:03 Europe/Berlin] Fetched fees for user_id=3: 0 records
+[17-May-2025 20:12:03 Europe/Berlin] Fetched fees for user_id=3: 0 records
+[17-May-2025 20:14:33 Europe/Berlin] Fetched fees for user_id=3: 0 records
+[17-May-2025 20:14:34 Europe/Berlin] Fetched fees for user_id=3: 0 records
+[17-May-2025 20:14:34 Europe/Berlin] Fetched fees for user_id=3: 0 records
+[17-May-2025 20:14:34 Europe/Berlin] Fetched fees for user_id=3: 0 records
+[17-May-2025 20:14:34 Europe/Berlin] Fetched fees for user_id=3: 0 records
+[17-May-2025 20:14:34 Europe/Berlin] Fetched fees for user_id=3: 0 records
+[17-May-2025 20:14:35 Europe/Berlin] Fetched fees for user_id=3: 0 records
+[17-May-2025 20:14:45 Europe/Berlin] Admin login: username=admin1
+[17-May-2025 20:19:39 Europe/Berlin] Student login: email=student1@gmail.com
+[17-May-2025 20:19:39 Europe/Berlin] Fetched fees for user_id=2: 1 records
+[17-May-2025 20:19:49 Europe/Berlin] Token generated: fee_id=1, token=b4780428174fc1e10957ede6f93c6e12
+[17-May-2025 20:25:38 Europe/Berlin] Admin login: username=admin1
+[17-May-2025 20:27:10 Europe/Berlin] Fees assigned: class=, fee_type=Bus
+[17-May-2025 20:27:42 Europe/Berlin] PHP Warning:  Undefined array key "filter" in C:\xampp\htdocs\FMS\backend\notifications.php on line 31
+[17-May-2025 20:27:42 Europe/Berlin] PHP Warning:  Undefined array key "value" in C:\xampp\htdocs\FMS\backend\notifications.php on line 32
+[17-May-2025 20:27:42 Europe/Berlin] Notification sent: filter=, value=
+[17-May-2025 20:29:55 Europe/Berlin] Student login: email=student2@gmail.com
+[17-May-2025 20:29:55 Europe/Berlin] Fetched fees for user_id=3: 0 records
+[18-May-2025 07:44:28 Europe/Berlin] Admin login: username=admin1
+[18-May-2025 07:45:02 Europe/Berlin] Token approved: token_id=1, fee_id=1
+[18-May-2025 07:45:25 Europe/Berlin] Student login: email=student1@gmail.com
+[18-May-2025 07:45:25 Europe/Berlin] Fetched fees for user_id=2: 1 records
+[18-May-2025 07:46:04 Europe/Berlin] Admin login: username=admin1
+[18-May-2025 07:46:51 Europe/Berlin] Notification sent: filter=all, value=
+[18-May-2025 07:47:55 Europe/Berlin] Fees assigned: class=, fee_type=Bus
+[18-May-2025 07:49:41 Europe/Berlin] Student login: email=student1@gmail.com
+[18-May-2025 07:49:41 Europe/Berlin] Fetched fees for user_id=2: 1 records
+[18-May-2025 07:49:56 Europe/Berlin] Fetched fees for user_id=2: 1 records
+[18-May-2025 07:52:31 Europe/Berlin] Admin login: username=admin1
+[18-May-2025 08:10:32 Europe/Berlin] Admin login: username=admin1
+[18-May-2025 08:10:32 Europe/Berlin] PHP Warning:  require(db.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\FMS\backend\admin.php on line 10
+[18-May-2025 08:10:32 Europe/Berlin] PHP Fatal error:  Uncaught Error: Failed opening required 'db.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\FMS\backend\admin.php:10
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\FMS\backend\admin.php on line 10
+[18-May-2025 08:10:42 Europe/Berlin] PHP Warning:  require(db.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\FMS\backend\admin.php on line 10
+[18-May-2025 08:10:42 Europe/Berlin] PHP Fatal error:  Uncaught Error: Failed opening required 'db.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\FMS\backend\admin.php:10
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\FMS\backend\admin.php on line 10
+[18-May-2025 08:11:44 Europe/Berlin] Unauthorized access to admin.php
+[18-May-2025 08:11:49 Europe/Berlin] Unauthorized access to admin.php
+[18-May-2025 08:12:10 Europe/Berlin] Admin login: username=admin1
+[18-May-2025 08:12:10 Europe/Berlin] Unauthorized access to admin.php
+[18-May-2025 08:18:17 Europe/Berlin] Student login: email=student1@gmail.com
+[18-May-2025 08:18:17 Europe/Berlin] PHP Warning:  require(db.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\FMS\backend\notifications.php on line 10
+[18-May-2025 08:18:17 Europe/Berlin] PHP Fatal error:  Uncaught Error: Failed opening required 'db.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\FMS\backend\notifications.php:10
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\FMS\backend\notifications.php on line 10
+[18-May-2025 08:18:17 Europe/Berlin] PHP Warning:  require(db.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\FMS\backend\fees.php on line 10
+[18-May-2025 08:18:17 Europe/Berlin] PHP Fatal error:  Uncaught Error: Failed opening required 'db.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\FMS\backend\fees.php:10
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\FMS\backend\fees.php on line 10
+[18-May-2025 08:18:52 Europe/Berlin] Admin login: username=admin1
+[18-May-2025 08:18:52 Europe/Berlin] Unauthorized access to admin.php
+[18-May-2025 09:36:50 Europe/Berlin] Unauthorized access to admin.php: session_id=p5hbt7va24l77pj7m6gksb8kc9, session_data={"user_id":2,"user_type":"admin"}
+[18-May-2025 09:36:56 Europe/Berlin] Logout requested: Destroying session
+[18-May-2025 09:40:47 Europe/Berlin] Student registered: unique_id=STU0001
+[18-May-2025 09:41:01 Europe/Berlin] Login attempt: type=student, email=student1@gmail.com
+[18-May-2025 09:41:01 Europe/Berlin] Student login failed: Invalid credentials for email=student1@gmail.com
+[18-May-2025 09:41:49 Europe/Berlin] Login attempt: type=student, email=student1@gmail.com
+[18-May-2025 09:41:49 Europe/Berlin] Student login failed: Invalid credentials for email=student1@gmail.com
+[18-May-2025 09:48:29 Europe/Berlin] Unauthorized access to admin.php: session_id=p5hbt7va24l77pj7m6gksb8kc9, session_data=[]
+[18-May-2025 09:48:45 Europe/Berlin] Unauthorized access to fees.php
+[18-May-2025 09:49:42 Europe/Berlin] Unauthorized access to admin.php: session_id=p5hbt7va24l77pj7m6gksb8kc9, session_data=[]
+[18-May-2025 09:49:43 Europe/Berlin] PHP Warning:  session_set_cookie_params(): Session cookie parameters cannot be changed when a session is active in C:\xampp\htdocs\FMS\backend\login.php on line 13
+[18-May-2025 09:49:43 Europe/Berlin] Logout requested: Destroying session, session_id=p5hbt7va24l77pj7m6gksb8kc9
+[18-May-2025 09:51:09 Europe/Berlin] Student registered: unique_id=STU0002
+[18-May-2025 09:51:23 Europe/Berlin] PHP Warning:  session_set_cookie_params(): Session cookie parameters cannot be changed when a session is active in C:\xampp\htdocs\FMS\backend\login.php on line 13
+[18-May-2025 09:51:23 Europe/Berlin] Login attempt: type=student, email=student2@gmail.com, session_id=p5hbt7va24l77pj7m6gksb8kc9
+[18-May-2025 09:51:23 Europe/Berlin] Student login query result: Found
+[18-May-2025 09:51:23 Europe/Berlin] Student login successful: user_id=STU0002, session_id=ptk04ja0g9drfkuj84sb3js30g
+[18-May-2025 09:51:23 Europe/Berlin] Fees fetched: 0
+[18-May-2025 09:51:24 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined method PDO::fetchColumn() in C:\xampp\htdocs\FMS\backend\notifications.php:40
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\FMS\backend\notifications.php on line 40
+[18-May-2025 09:51:32 Europe/Berlin] Fees history fetched: 0
+[18-May-2025 09:51:37 Europe/Berlin] Unauthorized access to admin.php: session_id=ptk04ja0g9drfkuj84sb3js30g, session_data={"user_id":"STU0002","user_type":"student"}
+[18-May-2025 09:51:39 Europe/Berlin] Fees history fetched: 0
+[18-May-2025 09:51:41 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined method PDO::fetchColumn() in C:\xampp\htdocs\FMS\backend\notifications.php:40
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\FMS\backend\notifications.php on line 40
+[18-May-2025 09:51:41 Europe/Berlin] Fees fetched: 0
+[18-May-2025 09:51:47 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined method PDO::fetchColumn() in C:\xampp\htdocs\FMS\backend\notifications.php:40
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\FMS\backend\notifications.php on line 40
+[18-May-2025 09:51:49 Europe/Berlin] Fees fetched: 0
+[18-May-2025 09:51:49 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined method PDO::fetchColumn() in C:\xampp\htdocs\FMS\backend\notifications.php:40
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\FMS\backend\notifications.php on line 40
+[18-May-2025 09:51:51 Europe/Berlin] Fees history fetched: 0
+[18-May-2025 09:51:53 Europe/Berlin] Fees fetched: 0
+[18-May-2025 09:51:53 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined method PDO::fetchColumn() in C:\xampp\htdocs\FMS\backend\notifications.php:40
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\FMS\backend\notifications.php on line 40
+[18-May-2025 09:51:56 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined method PDO::fetchColumn() in C:\xampp\htdocs\FMS\backend\notifications.php:40
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\FMS\backend\notifications.php on line 40
+[18-May-2025 09:51:59 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined method PDO::fetchColumn() in C:\xampp\htdocs\FMS\backend\notifications.php:40
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\FMS\backend\notifications.php on line 40
+[18-May-2025 09:51:59 Europe/Berlin] Fees fetched: 0
+[18-May-2025 09:52:05 Europe/Berlin] PHP Warning:  session_set_cookie_params(): Session cookie parameters cannot be changed when a session is active in C:\xampp\htdocs\FMS\backend\login.php on line 13
+[18-May-2025 09:52:05 Europe/Berlin] Logout requested: Destroying session, session_id=ptk04ja0g9drfkuj84sb3js30g
+[18-May-2025 09:58:51 Europe/Berlin] Login attempt: type=student, email=student1@gmail.com, session_id=ptk04ja0g9drfkuj84sb3js30g
+[18-May-2025 09:58:51 Europe/Berlin] Student login query result: Found
+[18-May-2025 09:58:51 Europe/Berlin] Student login failed: Invalid credentials for email=student1@gmail.com
+[18-May-2025 09:59:01 Europe/Berlin] Login attempt: type=student, email=student1@gmail.com, session_id=ptk04ja0g9drfkuj84sb3js30g
+[18-May-2025 09:59:01 Europe/Berlin] Student login query result: Found
+[18-May-2025 09:59:02 Europe/Berlin] Student login failed: Invalid credentials for email=student1@gmail.com
+[18-May-2025 10:01:07 Europe/Berlin] Login attempt: type=student, email=student1@gmail.com, session_id=ptk04ja0g9drfkuj84sb3js30g
+[18-May-2025 10:01:07 Europe/Berlin] Student login query result: Found
+[18-May-2025 10:01:08 Europe/Berlin] Student login failed: Invalid credentials for email=student1@gmail.com
+[18-May-2025 10:05:10 Europe/Berlin] Database connection successful
+[18-May-2025 10:05:10 Europe/Berlin] Login attempt: type=student, email=student1@gmail.com, session_id=ptk04ja0g9drfkuj84sb3js30g
+[18-May-2025 10:05:10 Europe/Berlin] Student login query result: Found, unique_id=STU0001
+[18-May-2025 10:05:10 Europe/Berlin] Student login failed: Incorrect password for email=student1@gmail.com
+[18-May-2025 10:05:32 Europe/Berlin] Database connection successful
+[18-May-2025 10:05:32 Europe/Berlin] Login attempt: type=student, email=student2@gmail.com, session_id=ptk04ja0g9drfkuj84sb3js30g
+[18-May-2025 10:05:32 Europe/Berlin] Student login query result: Found, unique_id=STU0002
+[18-May-2025 10:05:32 Europe/Berlin] Student login successful: user_id=STU0002, session_id=njodrk13t0amfhmkb7fc1cgpil
+[18-May-2025 10:05:32 Europe/Berlin] Database connection successful
+[18-May-2025 10:05:32 Europe/Berlin] Fees fetched: 0
+[18-May-2025 10:05:32 Europe/Berlin] Database connection successful
+[18-May-2025 10:05:32 Europe/Berlin] Notifications access: student_id=STU0002, method=GET
+[18-May-2025 10:05:32 Europe/Berlin] Notifications fetched: 0, unread_count=0
+[18-May-2025 10:05:36 Europe/Berlin] Database connection successful
+[18-May-2025 10:05:36 Europe/Berlin] Notifications access: student_id=STU0002, method=GET
+[18-May-2025 10:05:36 Europe/Berlin] Notifications fetched: 0, unread_count=0
+[18-May-2025 10:05:38 Europe/Berlin] Database connection successful
+[18-May-2025 10:05:38 Europe/Berlin] Fees fetched: 0
+[18-May-2025 10:05:38 Europe/Berlin] Database connection successful
+[18-May-2025 10:05:38 Europe/Berlin] Notifications access: student_id=STU0002, method=GET
+[18-May-2025 10:05:38 Europe/Berlin] Notifications fetched: 0, unread_count=0
+[18-May-2025 10:05:43 Europe/Berlin] Database connection successful
+[18-May-2025 10:05:43 Europe/Berlin] Logout requested: Destroying session, session_id=njodrk13t0amfhmkb7fc1cgpil
+[18-May-2025 10:05:54 Europe/Berlin] Database connection successful
+[18-May-2025 10:05:54 Europe/Berlin] Login attempt: type=admin, email=admin1, session_id=njodrk13t0amfhmkb7fc1cgpil
+[18-May-2025 10:05:54 Europe/Berlin] Admin login query result: Not found
+[18-May-2025 10:05:54 Europe/Berlin] Admin login failed: Invalid credentials for username=admin1
+[18-May-2025 10:11:14 Europe/Berlin] Database connection successful
+[18-May-2025 10:11:14 Europe/Berlin] Admin access: admin_id=none, method=POST
+[18-May-2025 10:11:14 Europe/Berlin] Admin POST: action=admin_signup, data={"action":"admin_signup","username":"admin1","password":"admin1"}
+[18-May-2025 10:11:14 Europe/Berlin] Admin registered: username=admin1
+[18-May-2025 10:11:33 Europe/Berlin] Database connection successful
+[18-May-2025 10:11:33 Europe/Berlin] Login attempt: type=admin, email=admin1, session_id=njodrk13t0amfhmkb7fc1cgpil
+[18-May-2025 10:11:33 Europe/Berlin] Admin login query result: Found, id=1
+[18-May-2025 10:11:33 Europe/Berlin] Admin login successful: admin_id=1, session_id=gpdcm4pbub2l197st4do5ocqds
+[18-May-2025 10:11:33 Europe/Berlin] Database connection successful
+[18-May-2025 10:11:33 Europe/Berlin] Admin access: admin_id=1, method=GET
+[18-May-2025 10:11:33 Europe/Berlin] Admin GET: Retrieved 2 students, 0 payments, 0 tokens
+[18-May-2025 10:11:53 Europe/Berlin] Database connection successful
+[18-May-2025 10:11:53 Europe/Berlin] Admin access: admin_id=1, method=POST
+[18-May-2025 10:11:53 Europe/Berlin] Admin POST: action=assign_fees, data={"action":"assign_fees","filter":"semester","value":"1st","fee_type":"Tuition","amount":"45000","due_date":"2025-05-31"}
+[18-May-2025 10:11:53 Europe/Berlin] Assigning fees: filter=semester, value=1st, fee_type=Tuition, amount=45000, due_date=2025-05-31
+[18-May-2025 10:11:53 Europe/Berlin] Students found: 2
+[18-May-2025 10:11:53 Europe/Berlin] Fees assigned to 2 students
+[18-May-2025 10:11:55 Europe/Berlin] Database connection successful
+[18-May-2025 10:11:55 Europe/Berlin] Admin access: admin_id=1, method=GET
+[18-May-2025 10:11:55 Europe/Berlin] Admin GET: Retrieved 2 students, 2 payments, 0 tokens
+[18-May-2025 10:11:59 Europe/Berlin] Database connection successful
+[18-May-2025 10:11:59 Europe/Berlin] Logout requested: Destroying session, session_id=gpdcm4pbub2l197st4do5ocqds
+[18-May-2025 10:12:13 Europe/Berlin] Database connection successful
+[18-May-2025 10:12:13 Europe/Berlin] Login attempt: type=student, email=student2@gmail.com, session_id=gpdcm4pbub2l197st4do5ocqds
+[18-May-2025 10:12:13 Europe/Berlin] Student login query result: Found, unique_id=STU0002
+[18-May-2025 10:12:14 Europe/Berlin] Student login successful: user_id=STU0002, session_id=68jml4c3q4ohfrmb5rbg9n6ghl
+[18-May-2025 10:12:14 Europe/Berlin] Database connection successful
+[18-May-2025 10:12:14 Europe/Berlin] Notifications access: student_id=STU0002, method=GET
+[18-May-2025 10:12:14 Europe/Berlin] Notifications fetched: 0, unread_count=0
+[18-May-2025 10:12:14 Europe/Berlin] Database connection successful
+[18-May-2025 10:12:14 Europe/Berlin] Fees fetched: 1
+[18-May-2025 10:12:16 Europe/Berlin] Database connection successful
+[18-May-2025 10:12:16 Europe/Berlin] Token generated: token=1b83e0c19d6fdedf4522
+[18-May-2025 10:12:39 Europe/Berlin] Database connection successful
+[18-May-2025 10:12:39 Europe/Berlin] Notifications access: student_id=STU0002, method=GET
+[18-May-2025 10:12:39 Europe/Berlin] Notifications fetched: 0, unread_count=0
+[18-May-2025 10:12:41 Europe/Berlin] Database connection successful
+[18-May-2025 10:12:41 Europe/Berlin] Logout requested: Destroying session, session_id=68jml4c3q4ohfrmb5rbg9n6ghl
+[18-May-2025 10:12:51 Europe/Berlin] Database connection successful
+[18-May-2025 10:12:51 Europe/Berlin] Login attempt: type=admin, email=admin1, session_id=68jml4c3q4ohfrmb5rbg9n6ghl
+[18-May-2025 10:12:51 Europe/Berlin] Admin login query result: Found, id=1
+[18-May-2025 10:12:51 Europe/Berlin] Admin login successful: admin_id=1, session_id=fj1ntama6tv1gm9eb0eus8o8eg
+[18-May-2025 10:12:51 Europe/Berlin] Database connection successful
+[18-May-2025 10:12:51 Europe/Berlin] Admin access: admin_id=1, method=GET
+[18-May-2025 10:12:51 Europe/Berlin] Admin GET: Retrieved 2 students, 2 payments, 1 tokens
+[18-May-2025 10:13:16 Europe/Berlin] Database connection successful
+[18-May-2025 10:13:16 Europe/Berlin] Fees history fetched: 1
+[18-May-2025 10:13:52 Europe/Berlin] Database connection successful
+[18-May-2025 10:13:52 Europe/Berlin] Unauthorized access to notifications.php: session_id=fj1ntama6tv1gm9eb0eus8o8eg
+[18-May-2025 10:14:00 Europe/Berlin] Database connection successful
+[18-May-2025 10:14:00 Europe/Berlin] Unauthorized access to notifications.php: session_id=fj1ntama6tv1gm9eb0eus8o8eg
+[18-May-2025 10:14:08 Europe/Berlin] Database connection successful
+[18-May-2025 10:14:08 Europe/Berlin] Unauthorized access to notifications.php: session_id=fj1ntama6tv1gm9eb0eus8o8eg
+[18-May-2025 10:33:09 Europe/Berlin] Database connection successful
+[18-May-2025 10:33:09 Europe/Berlin] Logout requested: Destroying session, session_id=fj1ntama6tv1gm9eb0eus8o8eg
+[18-May-2025 10:33:26 Europe/Berlin] Database connection successful
+[18-May-2025 10:33:26 Europe/Berlin] Login attempt: type=admin, email=admin2, session_id=fj1ntama6tv1gm9eb0eus8o8eg
+[18-May-2025 10:33:26 Europe/Berlin] Admin login query result: Not found
+[18-May-2025 10:33:26 Europe/Berlin] Admin login failed: Invalid credentials for username=admin2
+[18-May-2025 10:33:35 Europe/Berlin] Database connection successful
+[18-May-2025 10:33:35 Europe/Berlin] Login attempt: type=admin, email=admin1, session_id=fj1ntama6tv1gm9eb0eus8o8eg
+[18-May-2025 10:33:35 Europe/Berlin] Admin login query result: Found, id=1
+[18-May-2025 10:33:35 Europe/Berlin] Admin login successful: admin_id=1, session_id=lucqi3ihckbapp9jt5k6otesgv
+[18-May-2025 10:33:36 Europe/Berlin] Auth check successful: session_id=lucqi3ihckbapp9jt5k6otesgv, user_id=1
+[18-May-2025 10:33:36 Europe/Berlin] Database connection successful
+[18-May-2025 10:33:36 Europe/Berlin] Admin access: admin_id=1, method=GET
+[18-May-2025 10:33:36 Europe/Berlin] Admin GET: Retrieved 2 students, 2 payments, 1 tokens
+[18-May-2025 10:33:46 Europe/Berlin] Database connection successful
+[18-May-2025 10:33:46 Europe/Berlin] Unauthorized access to notifications.php: session_id=lucqi3ihckbapp9jt5k6otesgv, session_data={"admin_id":1,"user_type":"admin"}
+[18-May-2025 10:35:04 Europe/Berlin] Database connection successful
+[18-May-2025 10:35:04 Europe/Berlin] Admin access: admin_id=1, method=POST
+[18-May-2025 10:35:04 Europe/Berlin] Admin POST: action=add_student, data={"action":"add_student","name":"student3","father_name":"father","dob":"2004-10-16","semester":"2nd","branch":"ME","course":"Btech","batch":"2023","email":"student3@gmail.com","password":"student3"}
+[18-May-2025 10:35:04 Europe/Berlin] Student added: unique_id=STU0003
+[18-May-2025 10:35:06 Europe/Berlin] Database connection successful
+[18-May-2025 10:35:06 Europe/Berlin] Admin access: admin_id=1, method=GET
+[18-May-2025 10:35:06 Europe/Berlin] Admin GET: Retrieved 3 students, 2 payments, 1 tokens
+[18-May-2025 10:35:32 Europe/Berlin] Database connection successful
+[18-May-2025 10:35:32 Europe/Berlin] Admin access: admin_id=1, method=POST
+[18-May-2025 10:35:32 Europe/Berlin] Admin POST: action=assign_fees, data={"action":"assign_fees","filter":"semester","value":"2nd","fee_type":"Miscellaneous","amount":"15000","due_date":"2025-06-19"}
+[18-May-2025 10:35:32 Europe/Berlin] Assigning fees: filter=semester, value=2nd, fee_type=Miscellaneous, amount=15000, due_date=2025-06-19
+[18-May-2025 10:35:32 Europe/Berlin] Students found: 1
+[18-May-2025 10:35:32 Europe/Berlin] Fees assigned to 1 students
+[18-May-2025 10:35:35 Europe/Berlin] Database connection successful
+[18-May-2025 10:35:35 Europe/Berlin] Admin access: admin_id=1, method=GET
+[18-May-2025 10:35:35 Europe/Berlin] Admin GET: Retrieved 3 students, 3 payments, 1 tokens
+[18-May-2025 10:35:40 Europe/Berlin] Database connection successful
+[18-May-2025 10:35:40 Europe/Berlin] Unauthorized access to notifications.php: session_id=lucqi3ihckbapp9jt5k6otesgv, session_data={"admin_id":1,"user_type":"admin"}
+[18-May-2025 10:42:55 Europe/Berlin] Auth check successful: session_id=lucqi3ihckbapp9jt5k6otesgv, user_id=1
+[18-May-2025 10:42:55 Europe/Berlin] Database connection successful
+[18-May-2025 10:42:55 Europe/Berlin] Admin access: admin_id=1, method=GET
+[18-May-2025 10:42:55 Europe/Berlin] Admin GET: Retrieved 3 students, 3 payments, 1 tokens
+[18-May-2025 10:43:16 Europe/Berlin] Auth check successful: session_id=lucqi3ihckbapp9jt5k6otesgv, user_id=1
+[18-May-2025 10:43:16 Europe/Berlin] Database connection successful
+[18-May-2025 10:43:16 Europe/Berlin] Admin access: admin_id=1, method=GET
+[18-May-2025 10:43:16 Europe/Berlin] Admin GET: Retrieved 3 students, 3 payments, 1 tokens
+[18-May-2025 10:43:45 Europe/Berlin] Database connection successful
+[18-May-2025 10:43:45 Europe/Berlin] Admin access: admin_id=1, method=POST
+[18-May-2025 10:43:45 Europe/Berlin] Admin POST: action=assign_fees, data={"action":"assign_fees","filter":"all","value":"","fee_type":"Library","amount":"5000","due_date":"2025-06-19"}
+[18-May-2025 10:43:45 Europe/Berlin] Assigning fees: filter=all, value=, fee_type=Library, amount=5000, due_date=2025-06-19
+[18-May-2025 10:43:45 Europe/Berlin] Students found: 3
+[18-May-2025 10:43:45 Europe/Berlin] Fees assigned to 3 students
+[18-May-2025 10:43:47 Europe/Berlin] Database connection successful
+[18-May-2025 10:43:47 Europe/Berlin] Admin access: admin_id=1, method=GET
+[18-May-2025 10:43:47 Europe/Berlin] Admin GET: Retrieved 3 students, 6 payments, 1 tokens
+[18-May-2025 10:43:50 Europe/Berlin] Database connection successful
+[18-May-2025 10:43:50 Europe/Berlin] Logout requested: Destroying session, session_id=lucqi3ihckbapp9jt5k6otesgv
+[18-May-2025 10:43:59 Europe/Berlin] Database connection successful
+[18-May-2025 10:43:59 Europe/Berlin] Login attempt: type=student, email=student3@gmail.com, session_id=lucqi3ihckbapp9jt5k6otesgv
+[18-May-2025 10:43:59 Europe/Berlin] Student login query result: Found, unique_id=STU0003
+[18-May-2025 10:44:00 Europe/Berlin] Student login successful: user_id=STU0003, session_id=489ianb380bdaatm1pmcok4psk
+[18-May-2025 10:44:00 Europe/Berlin] Auth check successful: session_id=489ianb380bdaatm1pmcok4psk, user_id=STU0003
+[18-May-2025 10:44:00 Europe/Berlin] Database connection successful
+[18-May-2025 10:44:00 Europe/Berlin] Fees fetched: 2
+[18-May-2025 10:44:00 Europe/Berlin] Database connection successful
+[18-May-2025 10:44:00 Europe/Berlin] Notifications access: student_id=STU0003, method=GET, session_id=489ianb380bdaatm1pmcok4psk
+[18-May-2025 10:44:00 Europe/Berlin] Notifications fetched: count=0, unread_count=0, student_id=STU0003
+[18-May-2025 10:44:12 Europe/Berlin] Auth check successful: session_id=489ianb380bdaatm1pmcok4psk, user_id=STU0003
+[18-May-2025 10:44:12 Europe/Berlin] Database connection successful
+[18-May-2025 10:44:12 Europe/Berlin] Fees history fetched: 2
+[18-May-2025 10:44:31 Europe/Berlin] Auth check successful: session_id=489ianb380bdaatm1pmcok4psk, user_id=STU0003
+[18-May-2025 10:44:31 Europe/Berlin] Database connection successful
+[18-May-2025 10:44:31 Europe/Berlin] Fees history fetched: 2
+[18-May-2025 10:44:39 Europe/Berlin] Auth check successful: session_id=489ianb380bdaatm1pmcok4psk, user_id=STU0003
+[18-May-2025 10:44:39 Europe/Berlin] Database connection successful
+[18-May-2025 10:44:39 Europe/Berlin] Unauthorized access to admin.php: session_id=489ianb380bdaatm1pmcok4psk, session_data={"user_id":"STU0003","user_type":"student"}
+[18-May-2025 10:44:52 Europe/Berlin] Auth check successful: session_id=489ianb380bdaatm1pmcok4psk, user_id=STU0003
+[18-May-2025 10:44:52 Europe/Berlin] Database connection successful
+[18-May-2025 10:44:52 Europe/Berlin] Fees history fetched: 2
+[18-May-2025 10:46:38 Europe/Berlin] Auth check successful: session_id=489ianb380bdaatm1pmcok4psk, user_id=STU0003
+[18-May-2025 10:46:38 Europe/Berlin] Database connection successful
+[18-May-2025 10:46:38 Europe/Berlin] Unauthorized access to admin.php: session_id=489ianb380bdaatm1pmcok4psk, session_data={"user_id":"STU0003","user_type":"student"}
+[18-May-2025 10:46:40 Europe/Berlin] Auth check successful: session_id=489ianb380bdaatm1pmcok4psk, user_id=STU0003
+[18-May-2025 10:46:40 Europe/Berlin] Database connection successful
+[18-May-2025 10:46:40 Europe/Berlin] Fees history fetched: 2
+[18-May-2025 10:46:51 Europe/Berlin] Auth check successful: session_id=489ianb380bdaatm1pmcok4psk, user_id=STU0003
+[18-May-2025 10:46:51 Europe/Berlin] Database connection successful
+[18-May-2025 10:46:51 Europe/Berlin] Notifications access: student_id=STU0003, method=GET, session_id=489ianb380bdaatm1pmcok4psk
+[18-May-2025 10:46:51 Europe/Berlin] Notifications fetched: count=0, unread_count=0, student_id=STU0003
+[18-May-2025 10:46:51 Europe/Berlin] Database connection successful
+[18-May-2025 10:46:51 Europe/Berlin] Fees fetched: 2
+[18-May-2025 10:46:59 Europe/Berlin] Database connection successful
+[18-May-2025 10:46:59 Europe/Berlin] Token generated: token=669f7517b339dd6cbf48
+[18-May-2025 10:48:02 Europe/Berlin] Auth check successful: session_id=489ianb380bdaatm1pmcok4psk, user_id=STU0003
+[18-May-2025 10:48:02 Europe/Berlin] Database connection successful
+[18-May-2025 10:48:04 Europe/Berlin] Database connection successful
+[18-May-2025 10:48:04 Europe/Berlin] Logout requested: Destroying session, session_id=489ianb380bdaatm1pmcok4psk
+[18-May-2025 10:48:25 Europe/Berlin] Database connection successful
+[18-May-2025 10:48:25 Europe/Berlin] Login attempt: type=student, email=student2@gmail.com, session_id=489ianb380bdaatm1pmcok4psk
+[18-May-2025 10:48:25 Europe/Berlin] Student login query result: Found, unique_id=STU0002
+[18-May-2025 10:48:25 Europe/Berlin] Student login successful: user_id=STU0002, session_id=oc6iqpd5cu1ijlpsef0t0oqgof
+[18-May-2025 10:48:26 Europe/Berlin] Auth check successful: session_id=oc6iqpd5cu1ijlpsef0t0oqgof, user_id=STU0002
+[18-May-2025 10:48:26 Europe/Berlin] Database connection successful
+[18-May-2025 10:48:26 Europe/Berlin] Fees fetched: 2
+[18-May-2025 10:48:26 Europe/Berlin] Database connection successful
+[18-May-2025 10:48:26 Europe/Berlin] Notifications access: student_id=STU0002, method=GET, session_id=oc6iqpd5cu1ijlpsef0t0oqgof
+[18-May-2025 10:48:26 Europe/Berlin] Notifications fetched: count=0, unread_count=0, student_id=STU0002
+[18-May-2025 10:48:29 Europe/Berlin] Auth check successful: session_id=oc6iqpd5cu1ijlpsef0t0oqgof, user_id=STU0002
+[18-May-2025 10:48:29 Europe/Berlin] Database connection successful
+[18-May-2025 10:48:29 Europe/Berlin] Fees history fetched: 2
+[18-May-2025 10:48:34 Europe/Berlin] Auth check successful: session_id=oc6iqpd5cu1ijlpsef0t0oqgof, user_id=STU0002
+[18-May-2025 10:48:35 Europe/Berlin] Database connection successful
+[18-May-2025 10:48:35 Europe/Berlin] Unauthorized access to admin.php: session_id=oc6iqpd5cu1ijlpsef0t0oqgof, session_data={"user_id":"STU0002","user_type":"student"}
+[18-May-2025 10:49:06 Europe/Berlin] Auth check successful: session_id=oc6iqpd5cu1ijlpsef0t0oqgof, user_id=STU0002
+[18-May-2025 10:49:06 Europe/Berlin] Database connection successful
+[18-May-2025 10:49:06 Europe/Berlin] Fees history fetched: 2
+[18-May-2025 10:49:10 Europe/Berlin] Auth check successful: session_id=oc6iqpd5cu1ijlpsef0t0oqgof, user_id=STU0002
+[18-May-2025 10:49:10 Europe/Berlin] Database connection successful
+[18-May-2025 10:49:10 Europe/Berlin] Unauthorized access to admin.php: session_id=oc6iqpd5cu1ijlpsef0t0oqgof, session_data={"user_id":"STU0002","user_type":"student"}
+[18-May-2025 10:49:50 Europe/Berlin] Auth check successful: session_id=oc6iqpd5cu1ijlpsef0t0oqgof, user_id=STU0002
+[18-May-2025 10:49:51 Europe/Berlin] Database connection successful
+[18-May-2025 10:49:51 Europe/Berlin] Unauthorized access to admin.php: session_id=oc6iqpd5cu1ijlpsef0t0oqgof, session_data={"user_id":"STU0002","user_type":"student"}
+[18-May-2025 10:49:53 Europe/Berlin] Database connection successful
+[18-May-2025 10:49:53 Europe/Berlin] Logout requested: Destroying session, session_id=oc6iqpd5cu1ijlpsef0t0oqgof
+[18-May-2025 10:50:03 Europe/Berlin] Database connection successful
+[18-May-2025 10:50:03 Europe/Berlin] Login attempt: type=student, email=student2@gmail.com, session_id=oc6iqpd5cu1ijlpsef0t0oqgof
+[18-May-2025 10:50:03 Europe/Berlin] Student login query result: Found, unique_id=STU0002
+[18-May-2025 10:50:03 Europe/Berlin] Student login successful: user_id=STU0002, session_id=04dkvjaj7lh9cn9c64dhkl0r3k
+[18-May-2025 10:50:03 Europe/Berlin] Auth check successful: session_id=04dkvjaj7lh9cn9c64dhkl0r3k, user_id=STU0002
+[18-May-2025 10:50:04 Europe/Berlin] Database connection successful
+[18-May-2025 10:50:04 Europe/Berlin] Fees fetched: 2
+[18-May-2025 10:50:04 Europe/Berlin] Database connection successful
+[18-May-2025 10:50:04 Europe/Berlin] Notifications access: student_id=STU0002, method=GET, session_id=04dkvjaj7lh9cn9c64dhkl0r3k
+[18-May-2025 10:50:04 Europe/Berlin] Notifications fetched: count=0, unread_count=0, student_id=STU0002
+[18-May-2025 10:50:06 Europe/Berlin] Auth check successful: session_id=04dkvjaj7lh9cn9c64dhkl0r3k, user_id=STU0002
+[18-May-2025 10:50:06 Europe/Berlin] Database connection successful
+[18-May-2025 10:50:06 Europe/Berlin] Fees history fetched: 2
+[18-May-2025 10:50:21 Europe/Berlin] Auth check successful: session_id=04dkvjaj7lh9cn9c64dhkl0r3k, user_id=STU0002
+[18-May-2025 10:50:21 Europe/Berlin] Database connection successful
+[18-May-2025 10:50:21 Europe/Berlin] Unauthorized access to admin.php: session_id=04dkvjaj7lh9cn9c64dhkl0r3k, session_data={"user_id":"STU0002","user_type":"student"}
+[18-May-2025 10:50:41 Europe/Berlin] Database connection successful
+[18-May-2025 10:50:41 Europe/Berlin] Logout requested: Destroying session, session_id=04dkvjaj7lh9cn9c64dhkl0r3k
+[18-May-2025 10:50:50 Europe/Berlin] Database connection successful
+[18-May-2025 10:50:50 Europe/Berlin] Login attempt: type=student, email=student2@gmail.com, session_id=04dkvjaj7lh9cn9c64dhkl0r3k
+[18-May-2025 10:50:50 Europe/Berlin] Student login query result: Found, unique_id=STU0002
+[18-May-2025 10:50:50 Europe/Berlin] Student login successful: user_id=STU0002, session_id=cb57a80rv2h1a1rs5tmnr47ma6
+[18-May-2025 10:50:50 Europe/Berlin] Auth check successful: session_id=cb57a80rv2h1a1rs5tmnr47ma6, user_id=STU0002
+[18-May-2025 10:50:50 Europe/Berlin] Database connection successful
+[18-May-2025 10:50:50 Europe/Berlin] Fees fetched: 2
+[18-May-2025 10:50:51 Europe/Berlin] Database connection successful
+[18-May-2025 10:50:51 Europe/Berlin] Notifications access: student_id=STU0002, method=GET, session_id=cb57a80rv2h1a1rs5tmnr47ma6
+[18-May-2025 10:50:51 Europe/Berlin] Notifications fetched: count=0, unread_count=0, student_id=STU0002
+[18-May-2025 10:50:52 Europe/Berlin] Auth check successful: session_id=cb57a80rv2h1a1rs5tmnr47ma6, user_id=STU0002
+[18-May-2025 10:50:53 Europe/Berlin] Database connection successful
+[18-May-2025 10:50:53 Europe/Berlin] Fees history fetched: 2
+[18-May-2025 10:50:57 Europe/Berlin] Auth check successful: session_id=cb57a80rv2h1a1rs5tmnr47ma6, user_id=STU0002
+[18-May-2025 10:50:57 Europe/Berlin] Database connection successful
+[18-May-2025 10:50:57 Europe/Berlin] Fees history fetched: 2
+[18-May-2025 10:51:00 Europe/Berlin] Auth check successful: session_id=cb57a80rv2h1a1rs5tmnr47ma6, user_id=STU0002
+[18-May-2025 10:51:00 Europe/Berlin] Database connection successful
+[18-May-2025 10:51:00 Europe/Berlin] Fees fetched: 2
+[18-May-2025 10:51:00 Europe/Berlin] Database connection successful
+[18-May-2025 10:51:00 Europe/Berlin] Notifications access: student_id=STU0002, method=GET, session_id=cb57a80rv2h1a1rs5tmnr47ma6
+[18-May-2025 10:51:00 Europe/Berlin] Notifications fetched: count=0, unread_count=0, student_id=STU0002
+[18-May-2025 10:51:03 Europe/Berlin] Auth check successful: session_id=cb57a80rv2h1a1rs5tmnr47ma6, user_id=STU0002
+[18-May-2025 10:51:03 Europe/Berlin] Auth check successful: session_id=cb57a80rv2h1a1rs5tmnr47ma6, user_id=STU0002
+[18-May-2025 10:51:03 Europe/Berlin] Database connection successful
+[18-May-2025 10:51:03 Europe/Berlin] Notifications access: student_id=STU0002, method=GET, session_id=cb57a80rv2h1a1rs5tmnr47ma6
+[18-May-2025 10:51:03 Europe/Berlin] Notifications fetched: count=0, unread_count=0, student_id=STU0002
+[18-May-2025 10:51:11 Europe/Berlin] Auth check successful: session_id=cb57a80rv2h1a1rs5tmnr47ma6, user_id=STU0002
+[18-May-2025 10:51:11 Europe/Berlin] Database connection successful
+[18-May-2025 10:51:11 Europe/Berlin] Notifications access: student_id=STU0002, method=GET, session_id=cb57a80rv2h1a1rs5tmnr47ma6
+[18-May-2025 10:51:11 Europe/Berlin] Notifications fetched: count=0, unread_count=0, student_id=STU0002
+[18-May-2025 10:51:11 Europe/Berlin] Database connection successful
+[18-May-2025 10:51:11 Europe/Berlin] Fees fetched: 2
+[18-May-2025 10:51:14 Europe/Berlin] Auth check successful: session_id=cb57a80rv2h1a1rs5tmnr47ma6, user_id=STU0002
+[18-May-2025 10:51:14 Europe/Berlin] Auth check successful: session_id=cb57a80rv2h1a1rs5tmnr47ma6, user_id=STU0002
+[18-May-2025 10:51:14 Europe/Berlin] Database connection successful
+[18-May-2025 10:51:14 Europe/Berlin] Notifications access: student_id=STU0002, method=GET, session_id=cb57a80rv2h1a1rs5tmnr47ma6
+[18-May-2025 10:51:14 Europe/Berlin] Notifications fetched: count=0, unread_count=0, student_id=STU0002
+[18-May-2025 10:51:18 Europe/Berlin] Auth check successful: session_id=cb57a80rv2h1a1rs5tmnr47ma6, user_id=STU0002
+[18-May-2025 10:51:18 Europe/Berlin] Database connection successful
+[18-May-2025 10:51:18 Europe/Berlin] Fees history fetched: 2
+[18-May-2025 10:51:29 Europe/Berlin] Database connection successful
+[18-May-2025 10:51:29 Europe/Berlin] Logout requested: Destroying session, session_id=cb57a80rv2h1a1rs5tmnr47ma6
+[18-May-2025 10:51:49 Europe/Berlin] Database connection successful
+[18-May-2025 10:51:49 Europe/Berlin] Login attempt: type=student, email=student3@gmail.com, session_id=cb57a80rv2h1a1rs5tmnr47ma6
+[18-May-2025 10:51:49 Europe/Berlin] Student login query result: Found, unique_id=STU0003
+[18-May-2025 10:51:49 Europe/Berlin] Student login successful: user_id=STU0003, session_id=i1h7ifoh9604kivb5f49mmlv7m
+[18-May-2025 10:51:49 Europe/Berlin] Auth check successful: session_id=i1h7ifoh9604kivb5f49mmlv7m, user_id=STU0003
+[18-May-2025 10:51:49 Europe/Berlin] Database connection successful
+[18-May-2025 10:51:49 Europe/Berlin] Fees fetched: 2
+[18-May-2025 10:51:49 Europe/Berlin] Database connection successful
+[18-May-2025 10:51:49 Europe/Berlin] Notifications access: student_id=STU0003, method=GET, session_id=i1h7ifoh9604kivb5f49mmlv7m
+[18-May-2025 10:51:49 Europe/Berlin] Notifications fetched: count=0, unread_count=0, student_id=STU0003
+[18-May-2025 10:51:53 Europe/Berlin] Auth check successful: session_id=i1h7ifoh9604kivb5f49mmlv7m, user_id=STU0003
+[18-May-2025 10:51:53 Europe/Berlin] Database connection successful
+[18-May-2025 10:51:53 Europe/Berlin] Fees history fetched: 2
+[18-May-2025 10:51:57 Europe/Berlin] Auth check successful: session_id=i1h7ifoh9604kivb5f49mmlv7m, user_id=STU0003
+[18-May-2025 10:51:57 Europe/Berlin] Database connection successful
+[18-May-2025 10:51:57 Europe/Berlin] Notifications access: student_id=STU0003, method=GET, session_id=i1h7ifoh9604kivb5f49mmlv7m
+[18-May-2025 10:51:57 Europe/Berlin] Notifications fetched: count=0, unread_count=0, student_id=STU0003
+[18-May-2025 10:51:57 Europe/Berlin] Database connection successful
+[18-May-2025 10:51:57 Europe/Berlin] Fees fetched: 2
+[18-May-2025 10:52:06 Europe/Berlin] Database connection successful
+[18-May-2025 10:52:06 Europe/Berlin] Logout requested: Destroying session, session_id=i1h7ifoh9604kivb5f49mmlv7m
+[18-May-2025 10:52:18 Europe/Berlin] Database connection successful
+[18-May-2025 10:52:18 Europe/Berlin] Login attempt: type=admin, email=admin1, session_id=i1h7ifoh9604kivb5f49mmlv7m
+[18-May-2025 10:52:18 Europe/Berlin] Admin login query result: Found, id=1
+[18-May-2025 10:52:18 Europe/Berlin] Admin login successful: admin_id=1, session_id=rdif8da39ji1fctvp8pg7e1ocj
+[18-May-2025 10:52:18 Europe/Berlin] Auth check successful: session_id=rdif8da39ji1fctvp8pg7e1ocj, user_id=1
+[18-May-2025 10:52:18 Europe/Berlin] Database connection successful
+[18-May-2025 10:52:18 Europe/Berlin] Admin access: admin_id=1, method=GET
+[18-May-2025 10:52:18 Europe/Berlin] Admin GET: Retrieved 3 students, 6 payments, 2 tokens
+[18-May-2025 10:52:47 Europe/Berlin] Database connection successful
+[18-May-2025 10:52:47 Europe/Berlin] Unauthorized access to notifications.php: session_id=rdif8da39ji1fctvp8pg7e1ocj, session_data={"admin_id":1,"user_type":"admin"}
+[18-May-2025 10:53:07 Europe/Berlin] Database connection successful
+[18-May-2025 10:53:07 Europe/Berlin] Admin access: admin_id=1, method=POST
+[18-May-2025 10:53:07 Europe/Berlin] Admin POST: action=assign_fees, data={"action":"assign_fees","filter":"all","value":"","fee_type":"Hostel","amount":"10000","due_date":"2025-05-31"}
+[18-May-2025 10:53:07 Europe/Berlin] Assigning fees: filter=all, value=, fee_type=Hostel, amount=10000, due_date=2025-05-31
+[18-May-2025 10:53:07 Europe/Berlin] Students found: 3
+[18-May-2025 10:53:07 Europe/Berlin] Fees assigned to 3 students
+[18-May-2025 10:53:09 Europe/Berlin] Database connection successful
+[18-May-2025 10:53:09 Europe/Berlin] Admin access: admin_id=1, method=GET
+[18-May-2025 10:53:09 Europe/Berlin] Admin GET: Retrieved 3 students, 9 payments, 2 tokens
+[18-May-2025 10:53:14 Europe/Berlin] Database connection successful
+[18-May-2025 10:53:14 Europe/Berlin] Logout requested: Destroying session, session_id=rdif8da39ji1fctvp8pg7e1ocj
+[18-May-2025 10:53:24 Europe/Berlin] Database connection successful
+[18-May-2025 10:53:24 Europe/Berlin] Login attempt: type=admin, email=admin1, session_id=rdif8da39ji1fctvp8pg7e1ocj
+[18-May-2025 10:53:24 Europe/Berlin] Admin login query result: Found, id=1
+[18-May-2025 10:53:24 Europe/Berlin] Admin login successful: admin_id=1, session_id=fjggauslhfcs1iq0llml86qtii
+[18-May-2025 10:53:24 Europe/Berlin] Auth check successful: session_id=fjggauslhfcs1iq0llml86qtii, user_id=1
+[18-May-2025 10:53:24 Europe/Berlin] Database connection successful
+[18-May-2025 10:53:24 Europe/Berlin] Admin access: admin_id=1, method=GET
+[18-May-2025 10:53:24 Europe/Berlin] Admin GET: Retrieved 3 students, 9 payments, 2 tokens
+[18-May-2025 10:53:44 Europe/Berlin] Database connection successful
+[18-May-2025 10:53:45 Europe/Berlin] Token updated: id=1, status=Approved
+[18-May-2025 10:53:47 Europe/Berlin] Database connection successful
+[18-May-2025 10:53:47 Europe/Berlin] Admin access: admin_id=1, method=GET
+[18-May-2025 10:53:47 Europe/Berlin] Admin GET: Retrieved 3 students, 9 payments, 2 tokens
+[18-May-2025 10:53:49 Europe/Berlin] Database connection successful
+[18-May-2025 10:53:49 Europe/Berlin] Token updated: id=1, status=Approved
+[18-May-2025 10:53:51 Europe/Berlin] Database connection successful
+[18-May-2025 10:53:51 Europe/Berlin] Admin access: admin_id=1, method=GET
+[18-May-2025 10:53:51 Europe/Berlin] Admin GET: Retrieved 3 students, 9 payments, 2 tokens
+[18-May-2025 10:54:42 Europe/Berlin] Database connection successful
+[18-May-2025 10:54:42 Europe/Berlin] Token updated: id=2, status=Rejected
+[18-May-2025 10:54:43 Europe/Berlin] Database connection successful
+[18-May-2025 10:54:43 Europe/Berlin] Admin access: admin_id=1, method=GET
+[18-May-2025 10:54:43 Europe/Berlin] Admin GET: Retrieved 3 students, 9 payments, 2 tokens
+[18-May-2025 10:54:49 Europe/Berlin] Database connection successful
+[18-May-2025 10:54:49 Europe/Berlin] Logout requested: Destroying session, session_id=fjggauslhfcs1iq0llml86qtii
+[18-May-2025 10:55:02 Europe/Berlin] Database connection successful
+[18-May-2025 10:55:02 Europe/Berlin] Login attempt: type=student, email=student2@gmail.com, session_id=fjggauslhfcs1iq0llml86qtii
+[18-May-2025 10:55:02 Europe/Berlin] Student login query result: Found, unique_id=STU0002
+[18-May-2025 10:55:02 Europe/Berlin] Student login successful: user_id=STU0002, session_id=s0rdu1fhnech98l3dri4p4mt9c
+[18-May-2025 10:55:02 Europe/Berlin] Auth check successful: session_id=s0rdu1fhnech98l3dri4p4mt9c, user_id=STU0002
+[18-May-2025 10:55:02 Europe/Berlin] Database connection successful
+[18-May-2025 10:55:02 Europe/Berlin] Fees fetched: 2
+[18-May-2025 10:55:02 Europe/Berlin] Database connection successful
+[18-May-2025 10:55:02 Europe/Berlin] Notifications access: student_id=STU0002, method=GET, session_id=s0rdu1fhnech98l3dri4p4mt9c
+[18-May-2025 10:55:02 Europe/Berlin] Notifications fetched: count=0, unread_count=0, student_id=STU0002
+[18-May-2025 10:55:10 Europe/Berlin] Auth check successful: session_id=s0rdu1fhnech98l3dri4p4mt9c, user_id=STU0002
+[18-May-2025 10:55:10 Europe/Berlin] Database connection successful
+[18-May-2025 10:55:15 Europe/Berlin] Auth check successful: session_id=s0rdu1fhnech98l3dri4p4mt9c, user_id=STU0002
+[18-May-2025 10:55:15 Europe/Berlin] Database connection successful
+[18-May-2025 10:55:15 Europe/Berlin] Fees fetched: 2
+[18-May-2025 10:55:15 Europe/Berlin] Database connection successful
+[18-May-2025 10:55:15 Europe/Berlin] Notifications access: student_id=STU0002, method=GET, session_id=s0rdu1fhnech98l3dri4p4mt9c
+[18-May-2025 10:55:15 Europe/Berlin] Notifications fetched: count=0, unread_count=0, student_id=STU0002
+[18-May-2025 10:55:16 Europe/Berlin] Auth check successful: session_id=s0rdu1fhnech98l3dri4p4mt9c, user_id=STU0002
+[18-May-2025 10:55:16 Europe/Berlin] Database connection successful
+[18-May-2025 10:55:16 Europe/Berlin] Fees history fetched: 3
+[18-May-2025 10:55:30 Europe/Berlin] Auth check successful: session_id=s0rdu1fhnech98l3dri4p4mt9c, user_id=STU0002
+[18-May-2025 10:55:30 Europe/Berlin] Database connection successful
+[18-May-2025 10:55:30 Europe/Berlin] Fees fetched: 2
+[18-May-2025 10:55:30 Europe/Berlin] Database connection successful
+[18-May-2025 10:55:30 Europe/Berlin] Notifications access: student_id=STU0002, method=GET, session_id=s0rdu1fhnech98l3dri4p4mt9c
+[18-May-2025 10:55:30 Europe/Berlin] Notifications fetched: count=0, unread_count=0, student_id=STU0002
+[18-May-2025 11:01:03 Europe/Berlin] Auth check successful: session_id=s0rdu1fhnech98l3dri4p4mt9c, user_id=STU0002
+[18-May-2025 11:01:03 Europe/Berlin] Database connection successful
+[18-May-2025 11:01:03 Europe/Berlin] Fees history fetched: 3
+[18-May-2025 11:01:05 Europe/Berlin] Auth check successful: session_id=s0rdu1fhnech98l3dri4p4mt9c, user_id=STU0002
+[18-May-2025 11:01:05 Europe/Berlin] Database connection successful
+[18-May-2025 11:01:05 Europe/Berlin] Fees history fetched: 3
+[18-May-2025 11:01:16 Europe/Berlin] Auth check successful: session_id=s0rdu1fhnech98l3dri4p4mt9c, user_id=STU0002
+[18-May-2025 11:01:16 Europe/Berlin] Database connection successful
+[18-May-2025 11:01:16 Europe/Berlin] Fees history fetched: 3
+[18-May-2025 11:04:22 Europe/Berlin] Database connection successful
+[18-May-2025 11:04:22 Europe/Berlin] Logout requested: Destroying session, session_id=s0rdu1fhnech98l3dri4p4mt9c
+[18-May-2025 11:04:34 Europe/Berlin] Database connection successful
+[18-May-2025 11:04:34 Europe/Berlin] Login attempt: type=student, email=student2@gmail.com, session_id=s0rdu1fhnech98l3dri4p4mt9c
+[18-May-2025 11:04:34 Europe/Berlin] Student login query result: Found, unique_id=STU0002
+[18-May-2025 11:04:34 Europe/Berlin] Student login successful: user_id=STU0002, session_id=7fgoalb63bfa729l8ad3gh7a72
+[18-May-2025 11:04:34 Europe/Berlin] Auth check successful: session_id=7fgoalb63bfa729l8ad3gh7a72, user_id=STU0002
+[18-May-2025 11:04:34 Europe/Berlin] Database connection successful
+[18-May-2025 11:04:34 Europe/Berlin] Fees fetched: 2
+[18-May-2025 11:04:34 Europe/Berlin] Database connection successful
+[18-May-2025 11:04:34 Europe/Berlin] Notifications access: student_id=STU0002, method=GET, session_id=7fgoalb63bfa729l8ad3gh7a72
+[18-May-2025 11:04:34 Europe/Berlin] Notifications fetched: count=0, unread_count=0, student_id=STU0002
+[18-May-2025 11:04:53 Europe/Berlin] Auth check successful: session_id=7fgoalb63bfa729l8ad3gh7a72, user_id=STU0002
+[18-May-2025 11:04:53 Europe/Berlin] Database connection successful
+[18-May-2025 11:04:53 Europe/Berlin] Fees history fetched: 3
+[18-May-2025 11:05:02 Europe/Berlin] Auth check successful: session_id=7fgoalb63bfa729l8ad3gh7a72, user_id=STU0002
+[18-May-2025 11:05:02 Europe/Berlin] Database connection successful
+[18-May-2025 11:05:02 Europe/Berlin] Fees fetched: 2
+[18-May-2025 11:05:02 Europe/Berlin] Database connection successful
+[18-May-2025 11:05:02 Europe/Berlin] Notifications access: student_id=STU0002, method=GET, session_id=7fgoalb63bfa729l8ad3gh7a72
+[18-May-2025 11:05:02 Europe/Berlin] Notifications fetched: count=0, unread_count=0, student_id=STU0002
+[18-May-2025 11:05:06 Europe/Berlin] Database connection successful
+[18-May-2025 11:05:06 Europe/Berlin] Logout requested: Destroying session, session_id=7fgoalb63bfa729l8ad3gh7a72
+[18-May-2025 11:05:15 Europe/Berlin] Database connection successful
+[18-May-2025 11:05:15 Europe/Berlin] Login attempt: type=admin, email=admin1, session_id=7fgoalb63bfa729l8ad3gh7a72
+[18-May-2025 11:05:15 Europe/Berlin] Admin login query result: Found, id=1
+[18-May-2025 11:05:15 Europe/Berlin] Admin login successful: admin_id=1, session_id=dsqtu06nrjh1cla0o4pi3vu49f
+[18-May-2025 11:05:15 Europe/Berlin] Auth check successful: session_id=dsqtu06nrjh1cla0o4pi3vu49f, user_id=1
+[18-May-2025 11:05:15 Europe/Berlin] Database connection successful
+[18-May-2025 11:05:15 Europe/Berlin] Admin access: admin_id=1, method=GET
+[18-May-2025 11:05:15 Europe/Berlin] Admin GET: Retrieved 3 students, 9 payments, 2 tokens
+[18-May-2025 11:05:51 Europe/Berlin] Database connection successful
+[18-May-2025 11:05:51 Europe/Berlin] Unauthorized access to notifications.php: session_id=dsqtu06nrjh1cla0o4pi3vu49f, session_data={"admin_id":1,"user_type":"admin"}
+[18-May-2025 11:06:18 Europe/Berlin] Database connection successful
+[18-May-2025 11:06:18 Europe/Berlin] Admin access: admin_id=1, method=POST
+[18-May-2025 11:06:18 Europe/Berlin] Admin POST: action=assign_fees, data={"action":"assign_fees","filter":"semester","value":"2nd","fee_type":"Miscellaneous","amount":"1500","due_date":"2025-05-19"}
+[18-May-2025 11:06:18 Europe/Berlin] Assigning fees: filter=semester, value=2nd, fee_type=Miscellaneous, amount=1500, due_date=2025-05-19
+[18-May-2025 11:06:18 Europe/Berlin] Students found: 1
+[18-May-2025 11:06:18 Europe/Berlin] Fees assigned to 1 students
+[18-May-2025 11:06:20 Europe/Berlin] Database connection successful
+[18-May-2025 11:06:20 Europe/Berlin] Admin access: admin_id=1, method=GET
+[18-May-2025 11:06:20 Europe/Berlin] Admin GET: Retrieved 3 students, 10 payments, 2 tokens
+[18-May-2025 11:06:24 Europe/Berlin] Database connection successful
+[18-May-2025 11:06:24 Europe/Berlin] Logout requested: Destroying session, session_id=dsqtu06nrjh1cla0o4pi3vu49f
+[18-May-2025 11:06:33 Europe/Berlin] Database connection successful
+[18-May-2025 11:06:33 Europe/Berlin] Login attempt: type=student, email=student2@gmail.com, session_id=dsqtu06nrjh1cla0o4pi3vu49f
+[18-May-2025 11:06:33 Europe/Berlin] Student login query result: Found, unique_id=STU0002
+[18-May-2025 11:06:33 Europe/Berlin] Student login successful: user_id=STU0002, session_id=kinr0tk3bcg0t931t9e7a1eppg
+[18-May-2025 11:06:33 Europe/Berlin] Auth check successful: session_id=kinr0tk3bcg0t931t9e7a1eppg, user_id=STU0002
+[18-May-2025 11:06:33 Europe/Berlin] Database connection successful
+[18-May-2025 11:06:33 Europe/Berlin] Fees fetched: 2
+[18-May-2025 11:06:33 Europe/Berlin] Database connection successful
+[18-May-2025 11:06:33 Europe/Berlin] Notifications access: student_id=STU0002, method=GET, session_id=kinr0tk3bcg0t931t9e7a1eppg
+[18-May-2025 11:06:33 Europe/Berlin] Notifications fetched: count=0, unread_count=0, student_id=STU0002
+[18-May-2025 11:06:37 Europe/Berlin] Auth check successful: session_id=kinr0tk3bcg0t931t9e7a1eppg, user_id=STU0002
+[18-May-2025 11:06:37 Europe/Berlin] Database connection successful
+[18-May-2025 11:06:39 Europe/Berlin] Database connection successful
+[18-May-2025 11:06:39 Europe/Berlin] Logout requested: Destroying session, session_id=kinr0tk3bcg0t931t9e7a1eppg
+[18-May-2025 11:06:50 Europe/Berlin] Database connection successful
+[18-May-2025 11:06:50 Europe/Berlin] Login attempt: type=student, email=student3@gmail.com, session_id=kinr0tk3bcg0t931t9e7a1eppg
+[18-May-2025 11:06:50 Europe/Berlin] Student login query result: Found, unique_id=STU0003
+[18-May-2025 11:06:50 Europe/Berlin] Student login successful: user_id=STU0003, session_id=2sf36q7ihoekd75e0vt8pnrcfs
+[18-May-2025 11:06:50 Europe/Berlin] Auth check successful: session_id=2sf36q7ihoekd75e0vt8pnrcfs, user_id=STU0003
+[18-May-2025 11:06:50 Europe/Berlin] Database connection successful
+[18-May-2025 11:06:50 Europe/Berlin] Fees fetched: 4
+[18-May-2025 11:06:50 Europe/Berlin] Database connection successful
+[18-May-2025 11:06:50 Europe/Berlin] Notifications access: student_id=STU0003, method=GET, session_id=2sf36q7ihoekd75e0vt8pnrcfs
+[18-May-2025 11:06:50 Europe/Berlin] Notifications fetched: count=0, unread_count=0, student_id=STU0003
+[18-May-2025 11:18:41 Europe/Berlin] Auth check successful: session_id=2sf36q7ihoekd75e0vt8pnrcfs, user_id=STU0003
+[18-May-2025 11:18:41 Europe/Berlin] Database connection successful
+[18-May-2025 11:18:41 Europe/Berlin] Fees fetched: 4
+[18-May-2025 11:18:41 Europe/Berlin] Database connection successful
+[18-May-2025 11:18:41 Europe/Berlin] Notifications access: student_id=STU0003, method=GET, session_id=2sf36q7ihoekd75e0vt8pnrcfs
+[18-May-2025 11:18:41 Europe/Berlin] Notifications fetched: count=0, unread_count=0, student_id=STU0003
+[18-May-2025 11:18:44 Europe/Berlin] Auth check successful: session_id=2sf36q7ihoekd75e0vt8pnrcfs, user_id=STU0003
+[18-May-2025 11:18:44 Europe/Berlin] Database connection successful
+[18-May-2025 11:18:44 Europe/Berlin] Fees history fetched: 4
+[18-May-2025 11:29:28 Europe/Berlin] Auth check successful: session_id=2sf36q7ihoekd75e0vt8pnrcfs, user_id=STU0003
+[18-May-2025 11:29:28 Europe/Berlin] Database connection successful
+[18-May-2025 11:29:28 Europe/Berlin] Fees history fetched: 4
+[18-May-2025 11:29:31 Europe/Berlin] Auth check successful: session_id=2sf36q7ihoekd75e0vt8pnrcfs, user_id=STU0003
+[18-May-2025 11:29:31 Europe/Berlin] Database connection successful
+[18-May-2025 11:29:31 Europe/Berlin] Fees fetched: 4
+[18-May-2025 11:29:32 Europe/Berlin] Database connection successful
+[18-May-2025 11:29:32 Europe/Berlin] Notifications access: student_id=STU0003, method=GET, session_id=2sf36q7ihoekd75e0vt8pnrcfs
+[18-May-2025 11:29:32 Europe/Berlin] Notifications fetched: count=0, unread_count=0, student_id=STU0003
+[18-May-2025 11:31:40 Europe/Berlin] Auth check successful: session_id=2sf36q7ihoekd75e0vt8pnrcfs, user_id=STU0003
+[18-May-2025 11:31:40 Europe/Berlin] Database connection successful
+[18-May-2025 11:31:40 Europe/Berlin] Fees fetched: 4
+[18-May-2025 11:31:40 Europe/Berlin] Database connection successful
+[18-May-2025 11:31:40 Europe/Berlin] Notifications access: student_id=STU0003, method=GET, session_id=2sf36q7ihoekd75e0vt8pnrcfs
+[18-May-2025 11:31:40 Europe/Berlin] Notifications fetched: count=0, unread_count=0, student_id=STU0003
+[18-May-2025 11:31:55 Europe/Berlin] Auth check successful: session_id=2sf36q7ihoekd75e0vt8pnrcfs, user_id=STU0003
+[18-May-2025 11:31:55 Europe/Berlin] Database connection successful
+[18-May-2025 11:31:55 Europe/Berlin] Notifications access: student_id=STU0003, method=GET, session_id=2sf36q7ihoekd75e0vt8pnrcfs
+[18-May-2025 11:31:55 Europe/Berlin] Notifications fetched: count=0, unread_count=0, student_id=STU0003
+[18-May-2025 11:31:55 Europe/Berlin] Database connection successful
+[18-May-2025 11:31:55 Europe/Berlin] Fees fetched: 4
+[18-May-2025 11:32:23 Europe/Berlin] Auth check successful: session_id=2sf36q7ihoekd75e0vt8pnrcfs, user_id=STU0003
+[18-May-2025 11:32:23 Europe/Berlin] Database connection successful
+[18-May-2025 11:32:23 Europe/Berlin] Notifications access: student_id=STU0003, method=GET, session_id=2sf36q7ihoekd75e0vt8pnrcfs
+[18-May-2025 11:32:23 Europe/Berlin] Notifications fetched: count=0, unread_count=0, student_id=STU0003
+[18-May-2025 11:32:23 Europe/Berlin] Database connection successful
+[18-May-2025 11:32:23 Europe/Berlin] Fees fetched: 4
+[18-May-2025 11:35:05 Europe/Berlin] Auth check successful: session_id=2sf36q7ihoekd75e0vt8pnrcfs, user_id=STU0003
+[18-May-2025 11:35:05 Europe/Berlin] Database connection successful
+[18-May-2025 11:35:05 Europe/Berlin] Fees fetched: 4
+[18-May-2025 11:35:06 Europe/Berlin] Database connection successful
+[18-May-2025 11:35:06 Europe/Berlin] Notifications access: student_id=STU0003, method=GET, session_id=2sf36q7ihoekd75e0vt8pnrcfs
+[18-May-2025 11:35:06 Europe/Berlin] Notifications fetched: count=0, unread_count=0, student_id=STU0003
+[18-May-2025 11:38:19 Europe/Berlin] Database connection successful
+[18-May-2025 11:38:19 Europe/Berlin] Logout requested: Destroying session, session_id=2sf36q7ihoekd75e0vt8pnrcfs
+[18-May-2025 11:38:29 Europe/Berlin] Database connection successful
+[18-May-2025 11:38:29 Europe/Berlin] Login attempt: type=admin, email=admin1, session_id=2sf36q7ihoekd75e0vt8pnrcfs
+[18-May-2025 11:38:29 Europe/Berlin] Admin login query result: Found, id=1
+[18-May-2025 11:38:29 Europe/Berlin] Admin login successful: admin_id=1, session_id=go5e6fv1ron7aq2ngffejmmmbv
+[18-May-2025 11:38:29 Europe/Berlin] Auth check successful: session_id=go5e6fv1ron7aq2ngffejmmmbv, user_id=1
+[18-May-2025 11:38:29 Europe/Berlin] Database connection successful
+[18-May-2025 11:38:29 Europe/Berlin] Admin access: admin_id=1, method=GET
+[18-May-2025 11:38:29 Europe/Berlin] Admin GET: Retrieved 3 students, 10 payments, 2 tokens
+[18-May-2025 11:45:23 Europe/Berlin] Auth check successful: session_id=go5e6fv1ron7aq2ngffejmmmbv, user_id=1
+[18-May-2025 11:45:23 Europe/Berlin] Auth check successful: session_id=go5e6fv1ron7aq2ngffejmmmbv, user_id=1
+[18-May-2025 11:45:28 Europe/Berlin] Auth check successful: session_id=go5e6fv1ron7aq2ngffejmmmbv, user_id=1
+[18-May-2025 11:45:28 Europe/Berlin] Auth check successful: session_id=go5e6fv1ron7aq2ngffejmmmbv, user_id=1
+[18-May-2025 11:45:30 Europe/Berlin] Database connection successful
+[18-May-2025 11:45:30 Europe/Berlin] Logout requested: Destroying session, session_id=go5e6fv1ron7aq2ngffejmmmbv
+[18-May-2025 11:45:50 Europe/Berlin] Database connection successful
+[18-May-2025 11:45:50 Europe/Berlin] Login attempt: type=student, email=student2@gmail.com, session_id=go5e6fv1ron7aq2ngffejmmmbv
+[18-May-2025 11:45:50 Europe/Berlin] Student login query result: Found, unique_id=STU0002
+[18-May-2025 11:45:50 Europe/Berlin] Student login successful: user_id=STU0002, session_id=qh58f2o72f1u4nr0pmf7df0urh
+[18-May-2025 11:45:50 Europe/Berlin] Auth check successful: session_id=qh58f2o72f1u4nr0pmf7df0urh, user_id=STU0002
+[18-May-2025 11:45:50 Europe/Berlin] Database connection successful
+[18-May-2025 11:45:51 Europe/Berlin] Fees fetched: 2
+[18-May-2025 11:45:51 Europe/Berlin] Database connection successful
+[18-May-2025 11:45:51 Europe/Berlin] Notifications access: student_id=STU0002, method=GET, session_id=qh58f2o72f1u4nr0pmf7df0urh
+[18-May-2025 11:45:51 Europe/Berlin] Notifications fetched: count=0, unread_count=0, student_id=STU0002
+[18-May-2025 11:46:02 Europe/Berlin] Auth check successful: session_id=qh58f2o72f1u4nr0pmf7df0urh, user_id=STU0002
+[18-May-2025 11:46:02 Europe/Berlin] Database connection successful
+[18-May-2025 11:46:02 Europe/Berlin] Fees history fetched: 3
+[18-May-2025 11:46:13 Europe/Berlin] Database connection successful
+[18-May-2025 11:46:13 Europe/Berlin] Logout requested: Destroying session, session_id=qh58f2o72f1u4nr0pmf7df0urh
+[18-May-2025 11:46:22 Europe/Berlin] Database connection successful
+[18-May-2025 11:46:22 Europe/Berlin] Login attempt: type=admin, email=admin1, session_id=qh58f2o72f1u4nr0pmf7df0urh
+[18-May-2025 11:46:22 Europe/Berlin] Admin login query result: Found, id=1
+[18-May-2025 11:46:22 Europe/Berlin] Admin login successful: admin_id=1, session_id=gq0o7g8nffo0oa87rlhidj1hlq
+[18-May-2025 11:46:22 Europe/Berlin] Auth check successful: session_id=gq0o7g8nffo0oa87rlhidj1hlq, user_id=1
+[18-May-2025 11:46:22 Europe/Berlin] Auth check successful: session_id=gq0o7g8nffo0oa87rlhidj1hlq, user_id=1
+[18-May-2025 11:50:29 Europe/Berlin] Auth check successful: session_id=gq0o7g8nffo0oa87rlhidj1hlq, user_id=1
+[18-May-2025 11:50:29 Europe/Berlin] Auth check successful: session_id=gq0o7g8nffo0oa87rlhidj1hlq, user_id=1
+[18-May-2025 11:50:43 Europe/Berlin] Database connection successful
+[18-May-2025 11:50:43 Europe/Berlin] Unauthorized access to notifications.php: session_id=gq0o7g8nffo0oa87rlhidj1hlq, session_data={"admin_id":1,"user_type":"admin"}
+[18-May-2025 11:50:52 Europe/Berlin] Database connection successful
+[18-May-2025 11:50:52 Europe/Berlin] Logout requested: Destroying session, session_id=gq0o7g8nffo0oa87rlhidj1hlq
+[18-May-2025 11:51:00 Europe/Berlin] Database connection successful
+[18-May-2025 11:51:00 Europe/Berlin] Login attempt: type=student, email=student2@gmail.com, session_id=gq0o7g8nffo0oa87rlhidj1hlq
+[18-May-2025 11:51:00 Europe/Berlin] Student login query result: Found, unique_id=STU0002
+[18-May-2025 11:51:01 Europe/Berlin] Student login successful: user_id=STU0002, session_id=i91miaja7fq0higmn9g4jj79ui
+[18-May-2025 11:51:01 Europe/Berlin] Auth check successful: session_id=i91miaja7fq0higmn9g4jj79ui, user_id=STU0002
+[18-May-2025 11:51:01 Europe/Berlin] Database connection successful
+[18-May-2025 11:51:01 Europe/Berlin] Fees fetched: 2
+[18-May-2025 11:51:01 Europe/Berlin] Database connection successful
+[18-May-2025 11:51:01 Europe/Berlin] Notifications access: student_id=STU0002, method=GET, session_id=i91miaja7fq0higmn9g4jj79ui
+[18-May-2025 11:51:01 Europe/Berlin] Notifications fetched: count=0, unread_count=0, student_id=STU0002
+[18-May-2025 11:51:59 Europe/Berlin] Auth check successful: session_id=i91miaja7fq0higmn9g4jj79ui, user_id=STU0002
+[18-May-2025 11:51:59 Europe/Berlin] Database connection successful
+[18-May-2025 11:51:59 Europe/Berlin] Fees fetched: 2
+[18-May-2025 11:51:59 Europe/Berlin] Database connection successful
+[18-May-2025 11:51:59 Europe/Berlin] Notifications access: student_id=STU0002, method=GET, session_id=i91miaja7fq0higmn9g4jj79ui
+[18-May-2025 11:51:59 Europe/Berlin] Notifications fetched: count=0, unread_count=0, student_id=STU0002
+[18-May-2025 11:59:59 Europe/Berlin] Auth check successful: session_id=i91miaja7fq0higmn9g4jj79ui, user_id=STU0002
+[18-May-2025 12:00:09 Europe/Berlin] Database connection successful
+[18-May-2025 12:00:09 Europe/Berlin] Login attempt: type=student, email=student2@gmail.com, session_id=i91miaja7fq0higmn9g4jj79ui
+[18-May-2025 12:00:09 Europe/Berlin] Student login query result: Found, unique_id=STU0002
+[18-May-2025 12:00:09 Europe/Berlin] Student login successful: user_id=STU0002, session_id=34j6m88hd8rahiihe3pmvfk8ni
+[18-May-2025 12:00:09 Europe/Berlin] Auth check successful: session_id=34j6m88hd8rahiihe3pmvfk8ni, user_id=STU0002
+[18-May-2025 12:00:22 Europe/Berlin] Database connection successful
+[18-May-2025 12:00:22 Europe/Berlin] Login attempt: type=student, email=student2@gmail.com, session_id=34j6m88hd8rahiihe3pmvfk8ni
+[18-May-2025 12:00:22 Europe/Berlin] Student login query result: Found, unique_id=STU0002
+[18-May-2025 12:00:22 Europe/Berlin] Student login successful: user_id=STU0002, session_id=dn3fptff6ojnn27hnb0oujet50
+[18-May-2025 12:00:22 Europe/Berlin] Auth check successful: session_id=dn3fptff6ojnn27hnb0oujet50, user_id=STU0002
+[18-May-2025 12:01:07 Europe/Berlin] Database connection successful
+[18-May-2025 12:01:07 Europe/Berlin] Login attempt: type=student, email=student2@gmail.com, session_id=dn3fptff6ojnn27hnb0oujet50
+[18-May-2025 12:01:07 Europe/Berlin] Student login query result: Found, unique_id=STU0002
+[18-May-2025 12:01:07 Europe/Berlin] Student login successful: user_id=STU0002, session_id=28euqffq3f15jipn8hg7m9o5sj
+[18-May-2025 12:01:07 Europe/Berlin] Auth check successful: session_id=28euqffq3f15jipn8hg7m9o5sj, user_id=STU0002
+[18-May-2025 12:01:07 Europe/Berlin] Database connection successful
+[18-May-2025 12:01:07 Europe/Berlin] Fees fetched: 2
+[18-May-2025 12:01:07 Europe/Berlin] Database connection successful
+[18-May-2025 12:01:07 Europe/Berlin] Notifications access: student_id=STU0002, method=GET, session_id=28euqffq3f15jipn8hg7m9o5sj
+[18-May-2025 12:01:07 Europe/Berlin] Notifications fetched: count=0, unread_count=0, student_id=STU0002
+[18-May-2025 12:01:28 Europe/Berlin] Database connection successful
+[18-May-2025 12:01:28 Europe/Berlin] Logout requested: Destroying session, session_id=28euqffq3f15jipn8hg7m9o5sj
+[18-May-2025 12:01:37 Europe/Berlin] Database connection successful
+[18-May-2025 12:01:37 Europe/Berlin] Login attempt: type=admin, email=admin1, session_id=28euqffq3f15jipn8hg7m9o5sj
+[18-May-2025 12:01:37 Europe/Berlin] Admin login query result: Found, id=1
+[18-May-2025 12:01:37 Europe/Berlin] Admin login successful: admin_id=1, session_id=sbnb3e002gc9tr86arrf7kkina
+[18-May-2025 12:01:37 Europe/Berlin] Auth check successful: session_id=sbnb3e002gc9tr86arrf7kkina, user_id=1
+[18-May-2025 12:01:37 Europe/Berlin] Auth check successful: session_id=sbnb3e002gc9tr86arrf7kkina, user_id=1
+[18-May-2025 12:01:54 Europe/Berlin] Database connection successful
+[18-May-2025 12:01:54 Europe/Berlin] Unauthorized access to notifications.php: session_id=sbnb3e002gc9tr86arrf7kkina, session_data={"admin_id":1,"user_type":"admin"}
+[18-May-2025 12:03:38 Europe/Berlin] Database connection successful
+[18-May-2025 12:03:38 Europe/Berlin] Unauthorized access to notifications.php: session_id=sbnb3e002gc9tr86arrf7kkina, session_data={"admin_id":1,"user_type":"admin"}
+[18-May-2025 12:06:37 Europe/Berlin] Auth check successful: session_id=sbnb3e002gc9tr86arrf7kkina, user_id=1
+[18-May-2025 12:06:37 Europe/Berlin] Auth check successful: session_id=sbnb3e002gc9tr86arrf7kkina, user_id=1
+[18-May-2025 12:06:47 Europe/Berlin] Database connection successful
+[18-May-2025 12:06:47 Europe/Berlin] Notifications.php accessed: method=POST, session_id=sbnb3e002gc9tr86arrf7kkina, session_data={"admin_id":1,"user_type":"admin"}
+[18-May-2025 12:06:47 Europe/Berlin] Broadcast notification attempt: filter=semester, value=2nd, message_length=3, type=Info, admin_id=1
+[18-May-2025 12:06:47 Europe/Berlin] Broadcast notifications sent: count=1, filter=semester, value=2nd, admin_id=1
+[18-May-2025 12:06:53 Europe/Berlin] Database connection successful
+[18-May-2025 12:06:53 Europe/Berlin] Logout requested: Destroying session, session_id=sbnb3e002gc9tr86arrf7kkina
+[18-May-2025 12:07:02 Europe/Berlin] Database connection successful
+[18-May-2025 12:07:02 Europe/Berlin] Login attempt: type=student, email=student3@gmail.com, session_id=sbnb3e002gc9tr86arrf7kkina
+[18-May-2025 12:07:02 Europe/Berlin] Student login query result: Found, unique_id=STU0003
+[18-May-2025 12:07:02 Europe/Berlin] Student login successful: user_id=STU0003, session_id=muj2vobb7cgqt9vd60j6niqofv
+[18-May-2025 12:07:02 Europe/Berlin] Auth check successful: session_id=muj2vobb7cgqt9vd60j6niqofv, user_id=STU0003
+[18-May-2025 12:07:02 Europe/Berlin] Database connection successful
+[18-May-2025 12:07:02 Europe/Berlin] Notifications.php accessed: method=GET, session_id=muj2vobb7cgqt9vd60j6niqofv, session_data={"user_id":"STU0003","user_type":"student"}
+[18-May-2025 12:07:02 Europe/Berlin] Notifications fetched: count=1, unread_count=1, student_id=STU0003
+[18-May-2025 12:07:02 Europe/Berlin] Database connection successful
+[18-May-2025 12:07:02 Europe/Berlin] Fees fetched: 4
+[18-May-2025 12:07:04 Europe/Berlin] Auth check successful: session_id=muj2vobb7cgqt9vd60j6niqofv, user_id=STU0003
+[18-May-2025 12:07:04 Europe/Berlin] Auth check successful: session_id=muj2vobb7cgqt9vd60j6niqofv, user_id=STU0003
+[18-May-2025 12:07:04 Europe/Berlin] Database connection successful
+[18-May-2025 12:07:04 Europe/Berlin] Notifications.php accessed: method=GET, session_id=muj2vobb7cgqt9vd60j6niqofv, session_data={"user_id":"STU0003","user_type":"student"}
+[18-May-2025 12:07:04 Europe/Berlin] Notifications fetched: count=1, unread_count=1, student_id=STU0003
+[18-May-2025 12:07:06 Europe/Berlin] Auth check successful: session_id=muj2vobb7cgqt9vd60j6niqofv, user_id=STU0003
+[18-May-2025 12:07:06 Europe/Berlin] Database connection successful
+[18-May-2025 12:07:06 Europe/Berlin] Notifications.php accessed: method=PUT, session_id=muj2vobb7cgqt9vd60j6niqofv, session_data={"user_id":"STU0003","user_type":"student"}
+[18-May-2025 12:07:06 Europe/Berlin] Marking notification read: notification_id=1, student_id=STU0003
+[18-May-2025 12:07:06 Europe/Berlin] Notification marked as read: notification_id=1, student_id=STU0003
+[18-May-2025 12:07:06 Europe/Berlin] Auth check successful: session_id=muj2vobb7cgqt9vd60j6niqofv, user_id=STU0003
+[18-May-2025 12:07:06 Europe/Berlin] Database connection successful
+[18-May-2025 12:07:06 Europe/Berlin] Notifications.php accessed: method=GET, session_id=muj2vobb7cgqt9vd60j6niqofv, session_data={"user_id":"STU0003","user_type":"student"}
+[18-May-2025 12:07:06 Europe/Berlin] Notifications fetched: count=1, unread_count=0, student_id=STU0003
+[18-May-2025 12:07:08 Europe/Berlin] Auth check successful: session_id=muj2vobb7cgqt9vd60j6niqofv, user_id=STU0003
+[18-May-2025 12:07:08 Europe/Berlin] Database connection successful
+[18-May-2025 12:07:08 Europe/Berlin] Fees fetched: 4
+[18-May-2025 12:07:08 Europe/Berlin] Database connection successful
+[18-May-2025 12:07:08 Europe/Berlin] Notifications.php accessed: method=GET, session_id=muj2vobb7cgqt9vd60j6niqofv, session_data={"user_id":"STU0003","user_type":"student"}
+[18-May-2025 12:07:08 Europe/Berlin] Notifications fetched: count=1, unread_count=0, student_id=STU0003
+[18-May-2025 12:08:21 Europe/Berlin] Auth check successful: session_id=muj2vobb7cgqt9vd60j6niqofv, user_id=STU0003
+[18-May-2025 12:08:21 Europe/Berlin] Auth check successful: session_id=muj2vobb7cgqt9vd60j6niqofv, user_id=STU0003
+[18-May-2025 12:08:21 Europe/Berlin] Database connection successful
+[18-May-2025 12:08:21 Europe/Berlin] Notifications.php accessed: method=GET, session_id=muj2vobb7cgqt9vd60j6niqofv, session_data={"user_id":"STU0003","user_type":"student"}
+[18-May-2025 12:08:21 Europe/Berlin] Notifications fetched: count=1, unread_count=0, student_id=STU0003
+[18-May-2025 12:08:23 Europe/Berlin] Auth check successful: session_id=muj2vobb7cgqt9vd60j6niqofv, user_id=STU0003
+[18-May-2025 12:08:23 Europe/Berlin] Database connection successful
+[18-May-2025 12:08:23 Europe/Berlin] Fees fetched: 4
+[18-May-2025 12:08:23 Europe/Berlin] Database connection successful
+[18-May-2025 12:08:23 Europe/Berlin] Notifications.php accessed: method=GET, session_id=muj2vobb7cgqt9vd60j6niqofv, session_data={"user_id":"STU0003","user_type":"student"}
+[18-May-2025 12:08:23 Europe/Berlin] Notifications fetched: count=1, unread_count=0, student_id=STU0003
+[18-May-2025 12:11:25 Europe/Berlin] Auth check successful: session_id=muj2vobb7cgqt9vd60j6niqofv, user_id=STU0003
+[18-May-2025 12:11:25 Europe/Berlin] Database connection successful
+[18-May-2025 12:11:25 Europe/Berlin] Fees history fetched: 4
+[18-May-2025 12:11:30 Europe/Berlin] Database connection successful
+[18-May-2025 12:11:30 Europe/Berlin] Logout requested: Destroying session, session_id=muj2vobb7cgqt9vd60j6niqofv
+[18-May-2025 12:11:39 Europe/Berlin] Database connection successful
+[18-May-2025 12:11:39 Europe/Berlin] Login attempt: type=admin, email=admin1, session_id=muj2vobb7cgqt9vd60j6niqofv
+[18-May-2025 12:11:39 Europe/Berlin] Admin login query result: Found, id=1
+[18-May-2025 12:11:40 Europe/Berlin] Admin login successful: admin_id=1, session_id=5t5g8flo48g9uenar30a6jgtfu
+[18-May-2025 12:11:40 Europe/Berlin] Auth check successful: session_id=5t5g8flo48g9uenar30a6jgtfu, user_id=1
+[18-May-2025 12:11:40 Europe/Berlin] Auth check successful: session_id=5t5g8flo48g9uenar30a6jgtfu, user_id=1
+[18-May-2025 12:11:54 Europe/Berlin] Database connection successful
+[18-May-2025 12:11:54 Europe/Berlin] Logout requested: Destroying session, session_id=5t5g8flo48g9uenar30a6jgtfu
+[18-May-2025 12:12:59 Europe/Berlin] Database connection successful
+[18-May-2025 12:12:59 Europe/Berlin] Login attempt: type=student, email=student1@gmail.com, session_id=5t5g8flo48g9uenar30a6jgtfu
+[18-May-2025 12:12:59 Europe/Berlin] Student login query result: Found, unique_id=STU0001
+[18-May-2025 12:12:59 Europe/Berlin] Student login failed: Incorrect password for email=student1@gmail.com
+[18-May-2025 12:13:05 Europe/Berlin] Database connection successful
+[18-May-2025 12:13:05 Europe/Berlin] Login attempt: type=student, email=student2@gmail.com, session_id=5t5g8flo48g9uenar30a6jgtfu
+[18-May-2025 12:13:05 Europe/Berlin] Student login query result: Found, unique_id=STU0002
+[18-May-2025 12:13:05 Europe/Berlin] Student login successful: user_id=STU0002, session_id=6h8unq4b92bp87ef2v6ghumca5
+[18-May-2025 12:13:06 Europe/Berlin] Auth check successful: session_id=6h8unq4b92bp87ef2v6ghumca5, user_id=STU0002
+[18-May-2025 12:13:06 Europe/Berlin] Database connection successful
+[18-May-2025 12:13:06 Europe/Berlin] Fees fetched: 2
+[18-May-2025 12:13:06 Europe/Berlin] Database connection successful
+[18-May-2025 12:13:06 Europe/Berlin] Notifications.php accessed: method=GET, session_id=6h8unq4b92bp87ef2v6ghumca5, session_data={"user_id":"STU0002","user_type":"student"}
+[18-May-2025 12:13:06 Europe/Berlin] Notifications fetched: count=0, unread_count=0, student_id=STU0002
+[18-May-2025 12:22:31 Europe/Berlin] Auth check successful: session_id=6h8unq4b92bp87ef2v6ghumca5, user_id=STU0002
+[18-May-2025 12:22:31 Europe/Berlin] Database connection successful
+[18-May-2025 12:22:31 Europe/Berlin] Fees fetched: 2
+[18-May-2025 12:22:31 Europe/Berlin] Database connection successful
+[18-May-2025 12:22:31 Europe/Berlin] Notifications.php accessed: method=GET, session_id=6h8unq4b92bp87ef2v6ghumca5, session_data={"user_id":"STU0002","user_type":"student"}
+[18-May-2025 12:22:31 Europe/Berlin] Notifications fetched: count=0, unread_count=0, student_id=STU0002
+[18-May-2025 12:23:22 Europe/Berlin] Auth check successful: session_id=6h8unq4b92bp87ef2v6ghumca5, user_id=STU0002
+[18-May-2025 12:23:22 Europe/Berlin] Database connection successful
+[18-May-2025 12:23:22 Europe/Berlin] Fees history fetched: 3
+[18-May-2025 12:23:25 Europe/Berlin] Auth check successful: session_id=6h8unq4b92bp87ef2v6ghumca5, user_id=STU0002
+[18-May-2025 12:23:25 Europe/Berlin] Database connection successful
+[18-May-2025 12:23:25 Europe/Berlin] Fees fetched: 2
+[18-May-2025 12:23:25 Europe/Berlin] Database connection successful
+[18-May-2025 12:23:25 Europe/Berlin] Notifications.php accessed: method=GET, session_id=6h8unq4b92bp87ef2v6ghumca5, session_data={"user_id":"STU0002","user_type":"student"}
+[18-May-2025 12:23:25 Europe/Berlin] Notifications fetched: count=0, unread_count=0, student_id=STU0002
+[18-May-2025 12:25:23 Europe/Berlin] Database connection successful
+[18-May-2025 12:25:26 Europe/Berlin] Payment not captured for payment_id: pay_QWMFmiNqckKPwQ
+[18-May-2025 12:36:32 Europe/Berlin] Database connection successful
+[18-May-2025 12:36:32 Europe/Berlin] Logout requested: Destroying session, session_id=6h8unq4b92bp87ef2v6ghumca5
+[18-May-2025 12:36:42 Europe/Berlin] Database connection successful
+[18-May-2025 12:36:42 Europe/Berlin] Login attempt: type=student, email=student2@gmail.com, session_id=6h8unq4b92bp87ef2v6ghumca5
+[18-May-2025 12:36:42 Europe/Berlin] Student login query result: Found, unique_id=STU0002
+[18-May-2025 12:36:42 Europe/Berlin] Student login successful: user_id=STU0002, session_id=tmal925frf0k23sdqa033t6p50
+[18-May-2025 12:36:42 Europe/Berlin] Auth check successful: session_id=tmal925frf0k23sdqa033t6p50, user_id=STU0002
+[18-May-2025 12:36:42 Europe/Berlin] Database connection successful
+[18-May-2025 12:36:42 Europe/Berlin] Fees fetched: 2
+[18-May-2025 12:36:42 Europe/Berlin] Database connection successful
+[18-May-2025 12:36:42 Europe/Berlin] Notifications.php accessed: method=GET, session_id=tmal925frf0k23sdqa033t6p50, session_data={"user_id":"STU0002","user_type":"student"}
+[18-May-2025 12:36:42 Europe/Berlin] Notifications fetched: count=0, unread_count=0, student_id=STU0002
+[18-May-2025 12:37:01 Europe/Berlin] Auth check successful: session_id=tmal925frf0k23sdqa033t6p50, user_id=STU0002
+[18-May-2025 12:37:01 Europe/Berlin] Database connection successful
+[18-May-2025 12:37:01 Europe/Berlin] Fees history fetched: 3
+[18-May-2025 12:37:03 Europe/Berlin] Auth check successful: session_id=tmal925frf0k23sdqa033t6p50, user_id=STU0002
+[18-May-2025 12:37:03 Europe/Berlin] Database connection successful
+[18-May-2025 12:37:03 Europe/Berlin] Notifications.php accessed: method=GET, session_id=tmal925frf0k23sdqa033t6p50, session_data={"user_id":"STU0002","user_type":"student"}
+[18-May-2025 12:37:03 Europe/Berlin] Notifications fetched: count=0, unread_count=0, student_id=STU0002
+[18-May-2025 12:37:03 Europe/Berlin] Database connection successful
+[18-May-2025 12:37:03 Europe/Berlin] Fees fetched: 2
+[18-May-2025 12:37:04 Europe/Berlin] Auth check successful: session_id=tmal925frf0k23sdqa033t6p50, user_id=STU0002
+[18-May-2025 12:37:04 Europe/Berlin] Database connection successful
+[18-May-2025 12:37:08 Europe/Berlin] Auth check successful: session_id=tmal925frf0k23sdqa033t6p50, user_id=STU0002
+[18-May-2025 12:37:08 Europe/Berlin] Auth check successful: session_id=tmal925frf0k23sdqa033t6p50, user_id=STU0002
+[18-May-2025 12:37:08 Europe/Berlin] Database connection successful
+[18-May-2025 12:37:08 Europe/Berlin] Notifications.php accessed: method=GET, session_id=tmal925frf0k23sdqa033t6p50, session_data={"user_id":"STU0002","user_type":"student"}
+[18-May-2025 12:37:08 Europe/Berlin] Notifications fetched: count=0, unread_count=0, student_id=STU0002
+[18-May-2025 12:37:15 Europe/Berlin] Database connection successful
+[18-May-2025 12:37:15 Europe/Berlin] Logout requested: Destroying session, session_id=tmal925frf0k23sdqa033t6p50
+[18-May-2025 12:37:26 Europe/Berlin] Database connection successful
+[18-May-2025 12:37:26 Europe/Berlin] Login attempt: type=admin, email=admin1, session_id=tmal925frf0k23sdqa033t6p50
+[18-May-2025 12:37:26 Europe/Berlin] Admin login query result: Found, id=1
+[18-May-2025 12:37:26 Europe/Berlin] Admin login successful: admin_id=1, session_id=8hr822duq2ftmtjip787oflo2l
+[18-May-2025 12:37:26 Europe/Berlin] Auth check successful: session_id=8hr822duq2ftmtjip787oflo2l, user_id=1
+[18-May-2025 12:37:26 Europe/Berlin] Auth check successful: session_id=8hr822duq2ftmtjip787oflo2l, user_id=1
+[18-May-2025 12:38:39 Europe/Berlin] Database connection successful
+[18-May-2025 12:38:39 Europe/Berlin] Notifications.php accessed: method=POST, session_id=8hr822duq2ftmtjip787oflo2l, session_data={"admin_id":1,"user_type":"admin"}
+[18-May-2025 12:38:39 Europe/Berlin] Broadcast notification attempt: filter=semester, value=2nd, message_length=27, type=Info, admin_id=1
+[18-May-2025 12:38:39 Europe/Berlin] Broadcast notifications sent: count=1, filter=semester, value=2nd, admin_id=1
+[18-May-2025 12:38:50 Europe/Berlin] Database connection successful
+[18-May-2025 12:38:50 Europe/Berlin] Logout requested: Destroying session, session_id=8hr822duq2ftmtjip787oflo2l
+[18-May-2025 12:39:01 Europe/Berlin] Database connection successful
+[18-May-2025 12:39:01 Europe/Berlin] Login attempt: type=student, email=student3@gmail.com, session_id=8hr822duq2ftmtjip787oflo2l
+[18-May-2025 12:39:01 Europe/Berlin] Student login query result: Found, unique_id=STU0003
+[18-May-2025 12:39:01 Europe/Berlin] Student login successful: user_id=STU0003, session_id=g77ogd84iol7v0csfkub70bga1
+[18-May-2025 12:39:01 Europe/Berlin] Auth check successful: session_id=g77ogd84iol7v0csfkub70bga1, user_id=STU0003
+[18-May-2025 12:39:01 Europe/Berlin] Database connection successful
+[18-May-2025 12:39:01 Europe/Berlin] Fees fetched: 4
+[18-May-2025 12:39:01 Europe/Berlin] Database connection successful
+[18-May-2025 12:39:01 Europe/Berlin] Notifications.php accessed: method=GET, session_id=g77ogd84iol7v0csfkub70bga1, session_data={"user_id":"STU0003","user_type":"student"}
+[18-May-2025 12:39:01 Europe/Berlin] Notifications fetched: count=2, unread_count=1, student_id=STU0003
+[18-May-2025 12:39:10 Europe/Berlin] Auth check successful: session_id=g77ogd84iol7v0csfkub70bga1, user_id=STU0003
+[18-May-2025 12:39:10 Europe/Berlin] Auth check successful: session_id=g77ogd84iol7v0csfkub70bga1, user_id=STU0003
+[18-May-2025 12:39:10 Europe/Berlin] Database connection successful
+[18-May-2025 12:39:10 Europe/Berlin] Notifications.php accessed: method=GET, session_id=g77ogd84iol7v0csfkub70bga1, session_data={"user_id":"STU0003","user_type":"student"}
+[18-May-2025 12:39:10 Europe/Berlin] Notifications fetched: count=2, unread_count=1, student_id=STU0003
+[18-May-2025 12:39:16 Europe/Berlin] Auth check successful: session_id=g77ogd84iol7v0csfkub70bga1, user_id=STU0003
+[18-May-2025 12:39:16 Europe/Berlin] Database connection successful
+[18-May-2025 12:39:16 Europe/Berlin] Notifications.php accessed: method=PUT, session_id=g77ogd84iol7v0csfkub70bga1, session_data={"user_id":"STU0003","user_type":"student"}
+[18-May-2025 12:39:16 Europe/Berlin] Marking notification read: notification_id=2, student_id=STU0003
+[18-May-2025 12:39:16 Europe/Berlin] Notification marked as read: notification_id=2, student_id=STU0003
+[18-May-2025 12:39:17 Europe/Berlin] Auth check successful: session_id=g77ogd84iol7v0csfkub70bga1, user_id=STU0003
+[18-May-2025 12:39:17 Europe/Berlin] Database connection successful
+[18-May-2025 12:39:17 Europe/Berlin] Notifications.php accessed: method=GET, session_id=g77ogd84iol7v0csfkub70bga1, session_data={"user_id":"STU0003","user_type":"student"}
+[18-May-2025 12:39:17 Europe/Berlin] Notifications fetched: count=2, unread_count=0, student_id=STU0003
+[18-May-2025 12:39:19 Europe/Berlin] Auth check successful: session_id=g77ogd84iol7v0csfkub70bga1, user_id=STU0003
+[18-May-2025 12:39:19 Europe/Berlin] Database connection successful
+[18-May-2025 12:39:19 Europe/Berlin] Fees history fetched: 4
+[18-May-2025 12:39:22 Europe/Berlin] Auth check successful: session_id=g77ogd84iol7v0csfkub70bga1, user_id=STU0003
+[18-May-2025 12:39:22 Europe/Berlin] Database connection successful
+[18-May-2025 12:39:22 Europe/Berlin] Fees fetched: 4
+[18-May-2025 12:39:22 Europe/Berlin] Database connection successful
+[18-May-2025 12:39:22 Europe/Berlin] Notifications.php accessed: method=GET, session_id=g77ogd84iol7v0csfkub70bga1, session_data={"user_id":"STU0003","user_type":"student"}
+[18-May-2025 12:39:22 Europe/Berlin] Notifications fetched: count=2, unread_count=0, student_id=STU0003
+[18-May-2025 12:49:59 Europe/Berlin] Database connection successful
+[18-May-2025 12:49:59 Europe/Berlin] Logout requested: Destroying session, session_id=g77ogd84iol7v0csfkub70bga1
+[18-May-2025 12:50:18 Europe/Berlin] Database connection successful
+[18-May-2025 12:50:18 Europe/Berlin] Login attempt: type=student, email=student2@gmail.com, session_id=g77ogd84iol7v0csfkub70bga1
+[18-May-2025 12:50:18 Europe/Berlin] Student login query result: Found, unique_id=STU0002
+[18-May-2025 12:50:18 Europe/Berlin] Student login successful: user_id=STU0002, session_id=cpuobbat5nddt75k555kc0kmgd
+[18-May-2025 12:50:18 Europe/Berlin] Auth check successful: session_id=cpuobbat5nddt75k555kc0kmgd, user_id=STU0002
+[18-May-2025 12:50:18 Europe/Berlin] Database connection successful
+[18-May-2025 12:50:18 Europe/Berlin] Fees fetched: 2
+[18-May-2025 12:50:18 Europe/Berlin] Database connection successful
+[18-May-2025 12:50:18 Europe/Berlin] Notifications.php accessed: method=GET, session_id=cpuobbat5nddt75k555kc0kmgd, session_data={"user_id":"STU0002","user_type":"student"}
+[18-May-2025 12:50:18 Europe/Berlin] Notifications fetched: count=0, unread_count=0, student_id=STU0002
+[18-May-2025 12:50:27 Europe/Berlin] Auth check successful: session_id=cpuobbat5nddt75k555kc0kmgd, user_id=STU0002
+[18-May-2025 12:50:27 Europe/Berlin] Database connection successful
+[18-May-2025 12:50:27 Europe/Berlin] Fees history fetched: 3
+[18-May-2025 12:50:30 Europe/Berlin] Auth check successful: session_id=cpuobbat5nddt75k555kc0kmgd, user_id=STU0002
+[18-May-2025 12:50:30 Europe/Berlin] Database connection successful
+[18-May-2025 12:50:30 Europe/Berlin] Notifications.php accessed: method=GET, session_id=cpuobbat5nddt75k555kc0kmgd, session_data={"user_id":"STU0002","user_type":"student"}
+[18-May-2025 12:50:30 Europe/Berlin] Notifications fetched: count=0, unread_count=0, student_id=STU0002
+[18-May-2025 12:50:30 Europe/Berlin] Database connection successful
+[18-May-2025 12:50:30 Europe/Berlin] Fees fetched: 2
+[18-May-2025 12:50:31 Europe/Berlin] Auth check successful: session_id=cpuobbat5nddt75k555kc0kmgd, user_id=STU0002
+[18-May-2025 12:50:31 Europe/Berlin] Auth check successful: session_id=cpuobbat5nddt75k555kc0kmgd, user_id=STU0002
+[18-May-2025 12:50:31 Europe/Berlin] Database connection successful
+[18-May-2025 12:50:31 Europe/Berlin] Notifications.php accessed: method=GET, session_id=cpuobbat5nddt75k555kc0kmgd, session_data={"user_id":"STU0002","user_type":"student"}
+[18-May-2025 12:50:31 Europe/Berlin] Notifications fetched: count=0, unread_count=0, student_id=STU0002
+[18-May-2025 12:50:35 Europe/Berlin] Auth check successful: session_id=cpuobbat5nddt75k555kc0kmgd, user_id=STU0002
+[18-May-2025 12:50:35 Europe/Berlin] Database connection successful
+[18-May-2025 12:50:35 Europe/Berlin] Fees fetched: 2
+[18-May-2025 12:50:35 Europe/Berlin] Database connection successful
+[18-May-2025 12:50:35 Europe/Berlin] Notifications.php accessed: method=GET, session_id=cpuobbat5nddt75k555kc0kmgd, session_data={"user_id":"STU0002","user_type":"student"}
+[18-May-2025 12:50:35 Europe/Berlin] Notifications fetched: count=0, unread_count=0, student_id=STU0002
+[18-May-2025 12:51:03 Europe/Berlin] Database connection successful
+[18-May-2025 12:51:03 Europe/Berlin] Logout requested: Destroying session, session_id=cpuobbat5nddt75k555kc0kmgd
+[18-May-2025 12:51:13 Europe/Berlin] Database connection successful
+[18-May-2025 12:51:13 Europe/Berlin] Login attempt: type=admin, email=admin1, session_id=cpuobbat5nddt75k555kc0kmgd
+[18-May-2025 12:51:13 Europe/Berlin] Admin login query result: Found, id=1
+[18-May-2025 12:51:13 Europe/Berlin] Admin login successful: admin_id=1, session_id=7bk922so0larftu77lf5jn0gvk
+[18-May-2025 12:51:13 Europe/Berlin] Auth check successful: session_id=7bk922so0larftu77lf5jn0gvk, user_id=1
+[18-May-2025 12:51:13 Europe/Berlin] Auth check successful: session_id=7bk922so0larftu77lf5jn0gvk, user_id=1
+[18-May-2025 12:51:44 Europe/Berlin] Database connection successful
+[18-May-2025 12:51:44 Europe/Berlin] Fees history fetched: 3
+[18-May-2025 12:52:19 Europe/Berlin] Database connection successful
+[18-May-2025 12:52:19 Europe/Berlin] Notifications.php accessed: method=POST, session_id=7bk922so0larftu77lf5jn0gvk, session_data={"admin_id":1,"user_type":"admin"}
+[18-May-2025 12:52:19 Europe/Berlin] Broadcast notification attempt: filter=semester, value=2nd, message_length=20, type=Info, admin_id=1
+[18-May-2025 12:52:19 Europe/Berlin] Broadcast notifications sent: count=1, filter=semester, value=2nd, admin_id=1
+[18-May-2025 12:52:30 Europe/Berlin] Database connection successful
+[18-May-2025 12:52:30 Europe/Berlin] Logout requested: Destroying session, session_id=7bk922so0larftu77lf5jn0gvk
+[18-May-2025 12:52:43 Europe/Berlin] Database connection successful
+[18-May-2025 12:52:43 Europe/Berlin] Login attempt: type=student, email=student3@gmail.com, session_id=7bk922so0larftu77lf5jn0gvk
+[18-May-2025 12:52:43 Europe/Berlin] Student login query result: Found, unique_id=STU0003
+[18-May-2025 12:52:43 Europe/Berlin] Student login successful: user_id=STU0003, session_id=vu5j48hlm6tab5pqh4tlb67f2p
+[18-May-2025 12:52:43 Europe/Berlin] Auth check successful: session_id=vu5j48hlm6tab5pqh4tlb67f2p, user_id=STU0003
+[18-May-2025 12:52:43 Europe/Berlin] Database connection successful
+[18-May-2025 12:52:43 Europe/Berlin] Fees fetched: 4
+[18-May-2025 12:52:43 Europe/Berlin] Database connection successful
+[18-May-2025 12:52:43 Europe/Berlin] Notifications.php accessed: method=GET, session_id=vu5j48hlm6tab5pqh4tlb67f2p, session_data={"user_id":"STU0003","user_type":"student"}
+[18-May-2025 12:52:43 Europe/Berlin] Notifications fetched: count=3, unread_count=1, student_id=STU0003
+[18-May-2025 12:52:55 Europe/Berlin] Auth check successful: session_id=vu5j48hlm6tab5pqh4tlb67f2p, user_id=STU0003
+[18-May-2025 12:52:55 Europe/Berlin] Auth check successful: session_id=vu5j48hlm6tab5pqh4tlb67f2p, user_id=STU0003
+[18-May-2025 12:52:55 Europe/Berlin] Database connection successful
+[18-May-2025 12:52:55 Europe/Berlin] Notifications.php accessed: method=GET, session_id=vu5j48hlm6tab5pqh4tlb67f2p, session_data={"user_id":"STU0003","user_type":"student"}
+[18-May-2025 12:52:55 Europe/Berlin] Notifications fetched: count=3, unread_count=1, student_id=STU0003
+[18-May-2025 12:53:19 Europe/Berlin] Auth check successful: session_id=vu5j48hlm6tab5pqh4tlb67f2p, user_id=STU0003
+[18-May-2025 12:53:19 Europe/Berlin] Database connection successful
+[18-May-2025 12:53:19 Europe/Berlin] Notifications.php accessed: method=PUT, session_id=vu5j48hlm6tab5pqh4tlb67f2p, session_data={"user_id":"STU0003","user_type":"student"}
+[18-May-2025 12:53:19 Europe/Berlin] Marking notification read: notification_id=3, student_id=STU0003
+[18-May-2025 12:53:19 Europe/Berlin] Notification marked as read: notification_id=3, student_id=STU0003
+[18-May-2025 12:53:19 Europe/Berlin] Auth check successful: session_id=vu5j48hlm6tab5pqh4tlb67f2p, user_id=STU0003
+[18-May-2025 12:53:19 Europe/Berlin] Database connection successful
+[18-May-2025 12:53:19 Europe/Berlin] Notifications.php accessed: method=GET, session_id=vu5j48hlm6tab5pqh4tlb67f2p, session_data={"user_id":"STU0003","user_type":"student"}
+[18-May-2025 12:53:19 Europe/Berlin] Notifications fetched: count=3, unread_count=0, student_id=STU0003
+[18-May-2025 12:53:21 Europe/Berlin] Auth check successful: session_id=vu5j48hlm6tab5pqh4tlb67f2p, user_id=STU0003
+[18-May-2025 12:53:21 Europe/Berlin] Database connection successful
+[18-May-2025 12:53:21 Europe/Berlin] Fees history fetched: 4
+[18-May-2025 12:53:44 Europe/Berlin] Auth check successful: session_id=vu5j48hlm6tab5pqh4tlb67f2p, user_id=STU0003
+[18-May-2025 12:53:44 Europe/Berlin] Database connection successful
+[18-May-2025 12:53:44 Europe/Berlin] Notifications.php accessed: method=GET, session_id=vu5j48hlm6tab5pqh4tlb67f2p, session_data={"user_id":"STU0003","user_type":"student"}
+[18-May-2025 12:53:44 Europe/Berlin] Notifications fetched: count=3, unread_count=0, student_id=STU0003
+[18-May-2025 12:53:44 Europe/Berlin] Database connection successful
+[18-May-2025 12:53:44 Europe/Berlin] Fees fetched: 4
+[18-May-2025 12:54:15 Europe/Berlin] Auth check successful: session_id=vu5j48hlm6tab5pqh4tlb67f2p, user_id=STU0003
+[18-May-2025 12:54:15 Europe/Berlin] Database connection successful
+[18-May-2025 12:54:15 Europe/Berlin] Fees history fetched: 4
+[18-May-2025 12:55:18 Europe/Berlin] Auth check successful: session_id=vu5j48hlm6tab5pqh4tlb67f2p, user_id=STU0003
+[18-May-2025 12:55:18 Europe/Berlin] Database connection successful
+[18-May-2025 12:55:18 Europe/Berlin] Fees fetched: 4
+[18-May-2025 12:55:18 Europe/Berlin] Database connection successful
+[18-May-2025 12:55:18 Europe/Berlin] Notifications.php accessed: method=GET, session_id=vu5j48hlm6tab5pqh4tlb67f2p, session_data={"user_id":"STU0003","user_type":"student"}
+[18-May-2025 12:55:18 Europe/Berlin] Notifications fetched: count=3, unread_count=0, student_id=STU0003
+[18-May-2025 12:56:40 Europe/Berlin] Database connection successful
+[18-May-2025 12:56:40 Europe/Berlin] Logout requested: Destroying session, session_id=vu5j48hlm6tab5pqh4tlb67f2p
+[18-May-2025 12:57:04 Europe/Berlin] Database connection successful
+[18-May-2025 12:57:04 Europe/Berlin] Login attempt: type=student, email=student2@gmail.com, session_id=vu5j48hlm6tab5pqh4tlb67f2p
+[18-May-2025 12:57:04 Europe/Berlin] Student login query result: Found, unique_id=STU0002
+[18-May-2025 12:57:05 Europe/Berlin] Student login successful: user_id=STU0002, session_id=o4gfsvsvejgditavect0onnusg
+[18-May-2025 12:57:05 Europe/Berlin] Auth check successful: session_id=o4gfsvsvejgditavect0onnusg, user_id=STU0002
+[18-May-2025 12:57:05 Europe/Berlin] Database connection successful
+[18-May-2025 12:57:05 Europe/Berlin] Fees fetched: 2
+[18-May-2025 12:57:05 Europe/Berlin] Database connection successful
+[18-May-2025 12:57:05 Europe/Berlin] Notifications.php accessed: method=GET, session_id=o4gfsvsvejgditavect0onnusg, session_data={"user_id":"STU0002","user_type":"student"}
+[18-May-2025 12:57:05 Europe/Berlin] Notifications fetched: count=0, unread_count=0, student_id=STU0002
+[18-May-2025 12:57:52 Europe/Berlin] Database connection successful
+[18-May-2025 12:57:53 Europe/Berlin] Payment not captured for payment_id: pay_QWMo9HLjBeLspK
+[18-May-2025 12:58:01 Europe/Berlin] Auth check successful: session_id=o4gfsvsvejgditavect0onnusg, user_id=STU0002
+[18-May-2025 12:58:01 Europe/Berlin] Database connection successful
+[18-May-2025 12:58:01 Europe/Berlin] Fees history fetched: 3
+[18-May-2025 12:58:05 Europe/Berlin] Auth check successful: session_id=o4gfsvsvejgditavect0onnusg, user_id=STU0002
+[18-May-2025 12:58:05 Europe/Berlin] Database connection successful
+[18-May-2025 12:58:05 Europe/Berlin] Fees fetched: 2
+[18-May-2025 12:58:05 Europe/Berlin] Database connection successful
+[18-May-2025 12:58:05 Europe/Berlin] Notifications.php accessed: method=GET, session_id=o4gfsvsvejgditavect0onnusg, session_data={"user_id":"STU0002","user_type":"student"}
+[18-May-2025 12:58:05 Europe/Berlin] Notifications fetched: count=0, unread_count=0, student_id=STU0002
+[18-May-2025 12:58:31 Europe/Berlin] Database connection successful
+[18-May-2025 12:58:31 Europe/Berlin] Logout requested: Destroying session, session_id=o4gfsvsvejgditavect0onnusg
+[18-May-2025 12:58:41 Europe/Berlin] Database connection successful
+[18-May-2025 12:58:41 Europe/Berlin] Login attempt: type=admin, email=admin1, session_id=o4gfsvsvejgditavect0onnusg
+[18-May-2025 12:58:41 Europe/Berlin] Admin login query result: Found, id=1
+[18-May-2025 12:58:41 Europe/Berlin] Admin login successful: admin_id=1, session_id=jsj6qepqsftcpb39c2mqh7mrti
+[18-May-2025 12:58:41 Europe/Berlin] Auth check successful: session_id=jsj6qepqsftcpb39c2mqh7mrti, user_id=1
+[18-May-2025 12:58:41 Europe/Berlin] Auth check successful: session_id=jsj6qepqsftcpb39c2mqh7mrti, user_id=1
+[18-May-2025 13:00:44 Europe/Berlin] Database connection successful
+[18-May-2025 13:00:44 Europe/Berlin] Notifications.php accessed: method=POST, session_id=jsj6qepqsftcpb39c2mqh7mrti, session_data={"admin_id":1,"user_type":"admin"}
+[18-May-2025 13:00:44 Europe/Berlin] Broadcast notification attempt: filter=semester, value=2nd, message_length=4, type=Info, admin_id=1
+[18-May-2025 13:00:44 Europe/Berlin] Broadcast notifications sent: count=1, filter=semester, value=2nd, admin_id=1
+[18-May-2025 13:00:50 Europe/Berlin] Database connection successful
+[18-May-2025 13:00:50 Europe/Berlin] Logout requested: Destroying session, session_id=jsj6qepqsftcpb39c2mqh7mrti
+[18-May-2025 13:01:01 Europe/Berlin] Database connection successful
+[18-May-2025 13:01:01 Europe/Berlin] Login attempt: type=student, email=student3@gmail.com, session_id=jsj6qepqsftcpb39c2mqh7mrti
+[18-May-2025 13:01:01 Europe/Berlin] Student login query result: Found, unique_id=STU0003
+[18-May-2025 13:01:01 Europe/Berlin] Student login successful: user_id=STU0003, session_id=igfuf4tpp7i6f8v3lmesn3r7k7
+[18-May-2025 13:01:02 Europe/Berlin] Auth check successful: session_id=igfuf4tpp7i6f8v3lmesn3r7k7, user_id=STU0003
+[18-May-2025 13:01:02 Europe/Berlin] Database connection successful
+[18-May-2025 13:01:02 Europe/Berlin] Notifications.php accessed: method=GET, session_id=igfuf4tpp7i6f8v3lmesn3r7k7, session_data={"user_id":"STU0003","user_type":"student"}
+[18-May-2025 13:01:02 Europe/Berlin] Notifications fetched: count=4, unread_count=1, student_id=STU0003
+[18-May-2025 13:01:02 Europe/Berlin] Database connection successful
+[18-May-2025 13:01:02 Europe/Berlin] Fees fetched: 4
+[18-May-2025 13:01:07 Europe/Berlin] Auth check successful: session_id=igfuf4tpp7i6f8v3lmesn3r7k7, user_id=STU0003
+[18-May-2025 13:01:07 Europe/Berlin] Auth check successful: session_id=igfuf4tpp7i6f8v3lmesn3r7k7, user_id=STU0003
+[18-May-2025 13:01:07 Europe/Berlin] Database connection successful
+[18-May-2025 13:01:07 Europe/Berlin] Notifications.php accessed: method=GET, session_id=igfuf4tpp7i6f8v3lmesn3r7k7, session_data={"user_id":"STU0003","user_type":"student"}
+[18-May-2025 13:01:07 Europe/Berlin] Notifications fetched: count=4, unread_count=1, student_id=STU0003
+[18-May-2025 13:01:09 Europe/Berlin] Auth check successful: session_id=igfuf4tpp7i6f8v3lmesn3r7k7, user_id=STU0003
+[18-May-2025 13:01:09 Europe/Berlin] Database connection successful
+[18-May-2025 13:01:09 Europe/Berlin] Notifications.php accessed: method=PUT, session_id=igfuf4tpp7i6f8v3lmesn3r7k7, session_data={"user_id":"STU0003","user_type":"student"}
+[18-May-2025 13:01:09 Europe/Berlin] Marking notification read: notification_id=4, student_id=STU0003
+[18-May-2025 13:01:09 Europe/Berlin] Notification marked as read: notification_id=4, student_id=STU0003
+[18-May-2025 13:01:09 Europe/Berlin] Auth check successful: session_id=igfuf4tpp7i6f8v3lmesn3r7k7, user_id=STU0003
+[18-May-2025 13:01:09 Europe/Berlin] Database connection successful
+[18-May-2025 13:01:09 Europe/Berlin] Notifications.php accessed: method=GET, session_id=igfuf4tpp7i6f8v3lmesn3r7k7, session_data={"user_id":"STU0003","user_type":"student"}
+[18-May-2025 13:01:09 Europe/Berlin] Notifications fetched: count=4, unread_count=0, student_id=STU0003
+[18-May-2025 13:01:45 Europe/Berlin] Auth check successful: session_id=igfuf4tpp7i6f8v3lmesn3r7k7, user_id=STU0003
+[18-May-2025 13:01:45 Europe/Berlin] Database connection successful
+[18-May-2025 13:01:45 Europe/Berlin] Fees history fetched: 4
+[18-May-2025 13:01:57 Europe/Berlin] Auth check successful: session_id=igfuf4tpp7i6f8v3lmesn3r7k7, user_id=STU0003
+[18-May-2025 13:01:57 Europe/Berlin] Database connection successful
+[18-May-2025 13:01:57 Europe/Berlin] Fees fetched: 4
+[18-May-2025 13:01:57 Europe/Berlin] Database connection successful
+[18-May-2025 13:01:57 Europe/Berlin] Notifications.php accessed: method=GET, session_id=igfuf4tpp7i6f8v3lmesn3r7k7, session_data={"user_id":"STU0003","user_type":"student"}
+[18-May-2025 13:01:57 Europe/Berlin] Notifications fetched: count=4, unread_count=0, student_id=STU0003
+[18-May-2025 16:40:19 Europe/Berlin] Database connection successful
+[18-May-2025 16:40:19 Europe/Berlin] Login attempt: type=student, email=student2@gmail.com, session_id=igfuf4tpp7i6f8v3lmesn3r7k7
+[18-May-2025 16:40:19 Europe/Berlin] Student login query result: Found, unique_id=STU0002
+[18-May-2025 16:40:19 Europe/Berlin] Student login successful: user_id=STU0002, session_id=apsfvfnar41sbp2qsg9m11986a
+[18-May-2025 16:40:19 Europe/Berlin] Auth check successful: session_id=apsfvfnar41sbp2qsg9m11986a, user_id=STU0002
+[18-May-2025 16:40:19 Europe/Berlin] Database connection successful
+[18-May-2025 16:40:19 Europe/Berlin] Fees fetched: 2
+[18-May-2025 16:40:19 Europe/Berlin] Database connection successful
+[18-May-2025 16:40:19 Europe/Berlin] Notifications.php accessed: method=GET, session_id=apsfvfnar41sbp2qsg9m11986a, session_data={"user_id":"STU0002","user_type":"student"}
+[18-May-2025 16:40:19 Europe/Berlin] Notifications fetched: count=0, unread_count=0, student_id=STU0002
+[18-May-2025 16:40:25 Europe/Berlin] Auth check successful: session_id=apsfvfnar41sbp2qsg9m11986a, user_id=STU0002
+[18-May-2025 16:40:25 Europe/Berlin] Database connection successful
+[18-May-2025 16:40:27 Europe/Berlin] Auth check successful: session_id=apsfvfnar41sbp2qsg9m11986a, user_id=STU0002
+[18-May-2025 16:40:27 Europe/Berlin] Database connection successful
+[18-May-2025 16:40:27 Europe/Berlin] Notifications.php accessed: method=GET, session_id=apsfvfnar41sbp2qsg9m11986a, session_data={"user_id":"STU0002","user_type":"student"}
+[18-May-2025 16:40:27 Europe/Berlin] Notifications fetched: count=0, unread_count=0, student_id=STU0002
+[18-May-2025 16:40:27 Europe/Berlin] Database connection successful
+[18-May-2025 16:40:27 Europe/Berlin] Fees fetched: 2
+[18-May-2025 16:40:29 Europe/Berlin] Auth check successful: session_id=apsfvfnar41sbp2qsg9m11986a, user_id=STU0002
+[18-May-2025 16:40:29 Europe/Berlin] Database connection successful
+[18-May-2025 16:40:29 Europe/Berlin] Fees history fetched: 3
+[18-May-2025 16:40:34 Europe/Berlin] Auth check successful: session_id=apsfvfnar41sbp2qsg9m11986a, user_id=STU0002
+[18-May-2025 16:40:34 Europe/Berlin] Database connection successful
+[18-May-2025 16:40:34 Europe/Berlin] Fees fetched: 2
+[18-May-2025 16:40:34 Europe/Berlin] Database connection successful
+[18-May-2025 16:40:34 Europe/Berlin] Notifications.php accessed: method=GET, session_id=apsfvfnar41sbp2qsg9m11986a, session_data={"user_id":"STU0002","user_type":"student"}
+[18-May-2025 16:40:34 Europe/Berlin] Notifications fetched: count=0, unread_count=0, student_id=STU0002
+[18-May-2025 16:40:36 Europe/Berlin] Database connection successful
+[18-May-2025 16:40:36 Europe/Berlin] Logout requested: Destroying session, session_id=apsfvfnar41sbp2qsg9m11986a
+[18-May-2025 16:41:06 Europe/Berlin] Database connection successful
+[18-May-2025 16:41:06 Europe/Berlin] Login attempt: type=admin, email=admin1, session_id=apsfvfnar41sbp2qsg9m11986a
+[18-May-2025 16:41:06 Europe/Berlin] Admin login query result: Found, id=1
+[18-May-2025 16:41:06 Europe/Berlin] Admin login successful: admin_id=1, session_id=ioe5um53hvbo7lsjct8rvj4bki
+[18-May-2025 16:41:06 Europe/Berlin] Auth check successful: session_id=ioe5um53hvbo7lsjct8rvj4bki, user_id=1
+[18-May-2025 16:41:06 Europe/Berlin] Auth check successful: session_id=ioe5um53hvbo7lsjct8rvj4bki, user_id=1
+[18-May-2025 16:41:20 Europe/Berlin] Database connection successful
+[18-May-2025 16:41:20 Europe/Berlin] Fees history fetched: 3
+[18-May-2025 16:41:50 Europe/Berlin] Database connection successful
+[18-May-2025 16:41:50 Europe/Berlin] Logout requested: Destroying session, session_id=ioe5um53hvbo7lsjct8rvj4bki
+[19-May-2025 01:48:17 Europe/Berlin] Database connection successful
+[19-May-2025 01:48:17 Europe/Berlin] Login attempt: type=student, email=student3@gmail.com, session_id=ioe5um53hvbo7lsjct8rvj4bki
+[19-May-2025 01:48:17 Europe/Berlin] Student login query result: Found, unique_id=STU0003
+[19-May-2025 01:48:17 Europe/Berlin] Student login successful: user_id=STU0003, session_id=pgq97710nt5sv7o4bd5937ggrj
+[19-May-2025 01:48:17 Europe/Berlin] Auth check successful: session_id=pgq97710nt5sv7o4bd5937ggrj, user_id=STU0003
+[19-May-2025 01:48:17 Europe/Berlin] Database connection successful
+[19-May-2025 01:48:17 Europe/Berlin] Fees fetched: 4
+[19-May-2025 01:48:17 Europe/Berlin] Database connection successful
+[19-May-2025 01:48:17 Europe/Berlin] Notifications.php accessed: method=GET, session_id=pgq97710nt5sv7o4bd5937ggrj, session_data={"user_id":"STU0003","user_type":"student"}
+[19-May-2025 01:48:17 Europe/Berlin] Notifications fetched: count=4, unread_count=0, student_id=STU0003
+[19-May-2025 01:55:08 Europe/Berlin] Auth check successful: session_id=pgq97710nt5sv7o4bd5937ggrj, user_id=STU0003
+[19-May-2025 01:55:08 Europe/Berlin] Database connection successful
+[19-May-2025 01:55:08 Europe/Berlin] Fees fetched: 4
+[19-May-2025 01:55:08 Europe/Berlin] Database connection successful
+[19-May-2025 01:55:08 Europe/Berlin] Notifications.php accessed: method=GET, session_id=pgq97710nt5sv7o4bd5937ggrj, session_data={"user_id":"STU0003","user_type":"student"}
+[19-May-2025 01:55:08 Europe/Berlin] Notifications fetched: count=4, unread_count=0, student_id=STU0003
+[19-May-2025 01:56:41 Europe/Berlin] Auth check successful: session_id=pgq97710nt5sv7o4bd5937ggrj, user_id=STU0003
+[19-May-2025 01:56:41 Europe/Berlin] Database connection successful
+[19-May-2025 01:56:41 Europe/Berlin] Notifications.php accessed: method=GET, session_id=pgq97710nt5sv7o4bd5937ggrj, session_data={"user_id":"STU0003","user_type":"student"}
+[19-May-2025 01:56:41 Europe/Berlin] Notifications fetched: count=4, unread_count=0, student_id=STU0003
+[19-May-2025 01:56:41 Europe/Berlin] Database connection successful
+[19-May-2025 01:56:41 Europe/Berlin] Fees fetched: 4
+[19-May-2025 01:58:07 Europe/Berlin] Auth check successful: session_id=pgq97710nt5sv7o4bd5937ggrj, user_id=STU0003
+[19-May-2025 01:58:07 Europe/Berlin] Database connection successful
+[19-May-2025 01:58:07 Europe/Berlin] Fees fetched: 4
+[19-May-2025 01:58:07 Europe/Berlin] Database connection successful
+[19-May-2025 01:58:07 Europe/Berlin] Notifications.php accessed: method=GET, session_id=pgq97710nt5sv7o4bd5937ggrj, session_data={"user_id":"STU0003","user_type":"student"}
+[19-May-2025 01:58:07 Europe/Berlin] Notifications fetched: count=4, unread_count=0, student_id=STU0003
+[19-May-2025 01:59:10 Europe/Berlin] Auth check successful: session_id=pgq97710nt5sv7o4bd5937ggrj, user_id=STU0003
+[19-May-2025 01:59:10 Europe/Berlin] Database connection successful
+[19-May-2025 01:59:10 Europe/Berlin] Fees fetched: 4
+[19-May-2025 01:59:10 Europe/Berlin] Database connection successful
+[19-May-2025 01:59:10 Europe/Berlin] Notifications.php accessed: method=GET, session_id=pgq97710nt5sv7o4bd5937ggrj, session_data={"user_id":"STU0003","user_type":"student"}
+[19-May-2025 01:59:10 Europe/Berlin] Notifications fetched: count=4, unread_count=0, student_id=STU0003
+[19-May-2025 01:59:46 Europe/Berlin] Auth check successful: session_id=pgq97710nt5sv7o4bd5937ggrj, user_id=STU0003
+[19-May-2025 01:59:46 Europe/Berlin] Database connection successful
+[19-May-2025 01:59:46 Europe/Berlin] Fees fetched: 4
+[19-May-2025 01:59:46 Europe/Berlin] Database connection successful
+[19-May-2025 01:59:46 Europe/Berlin] Notifications.php accessed: method=GET, session_id=pgq97710nt5sv7o4bd5937ggrj, session_data={"user_id":"STU0003","user_type":"student"}
+[19-May-2025 01:59:46 Europe/Berlin] Notifications fetched: count=4, unread_count=0, student_id=STU0003
+[19-May-2025 02:00:50 Europe/Berlin] Auth check successful: session_id=pgq97710nt5sv7o4bd5937ggrj, user_id=STU0003
+[19-May-2025 02:00:50 Europe/Berlin] Database connection successful
+[19-May-2025 02:00:50 Europe/Berlin] Fees fetched: 4
+[19-May-2025 02:00:50 Europe/Berlin] Database connection successful
+[19-May-2025 02:00:50 Europe/Berlin] Notifications.php accessed: method=GET, session_id=pgq97710nt5sv7o4bd5937ggrj, session_data={"user_id":"STU0003","user_type":"student"}
+[19-May-2025 02:00:50 Europe/Berlin] Notifications fetched: count=4, unread_count=0, student_id=STU0003
+[19-May-2025 02:01:06 Europe/Berlin] Database connection successful
+[19-May-2025 02:01:06 Europe/Berlin] Logout requested: Destroying session, session_id=pgq97710nt5sv7o4bd5937ggrj
+[19-May-2025 02:01:19 Europe/Berlin] Database connection successful
+[19-May-2025 02:01:19 Europe/Berlin] Login attempt: type=admin, email=admin1, session_id=pgq97710nt5sv7o4bd5937ggrj
+[19-May-2025 02:01:19 Europe/Berlin] Admin login query result: Found, id=1
+[19-May-2025 02:01:19 Europe/Berlin] Admin login successful: admin_id=1, session_id=gmc2ohbmhuo8hell9jo7q94ajv
+[19-May-2025 02:01:19 Europe/Berlin] Auth check successful: session_id=gmc2ohbmhuo8hell9jo7q94ajv, user_id=1
+[19-May-2025 02:01:19 Europe/Berlin] Auth check successful: session_id=gmc2ohbmhuo8hell9jo7q94ajv, user_id=1
+[19-May-2025 02:06:31 Europe/Berlin] Auth check successful: session_id=gmc2ohbmhuo8hell9jo7q94ajv, user_id=1
+[19-May-2025 02:06:31 Europe/Berlin] Auth check successful: session_id=gmc2ohbmhuo8hell9jo7q94ajv, user_id=1
+[19-May-2025 02:07:00 Europe/Berlin] Database connection successful
+[19-May-2025 02:07:00 Europe/Berlin] Logout requested: Destroying session, session_id=gmc2ohbmhuo8hell9jo7q94ajv
+[19-May-2025 02:07:10 Europe/Berlin] Database connection successful
+[19-May-2025 02:07:10 Europe/Berlin] Login attempt: type=student, email=student3@gmail.com, session_id=gmc2ohbmhuo8hell9jo7q94ajv
+[19-May-2025 02:07:10 Europe/Berlin] Student login query result: Found, unique_id=STU0003
+[19-May-2025 02:07:10 Europe/Berlin] Student login successful: user_id=STU0003, session_id=8giihq2bs0aipu7eso0dr7hqbr
+[19-May-2025 02:07:10 Europe/Berlin] Auth check successful: session_id=8giihq2bs0aipu7eso0dr7hqbr, user_id=STU0003
+[19-May-2025 02:07:10 Europe/Berlin] Database connection successful
+[19-May-2025 02:07:10 Europe/Berlin] Notifications.php accessed: method=GET, session_id=8giihq2bs0aipu7eso0dr7hqbr, session_data={"user_id":"STU0003","user_type":"student"}
+[19-May-2025 02:07:10 Europe/Berlin] Notifications fetched: count=4, unread_count=0, student_id=STU0003
+[19-May-2025 02:07:10 Europe/Berlin] Database connection successful
+[19-May-2025 02:07:11 Europe/Berlin] Fees fetched: 4
+[19-May-2025 02:07:14 Europe/Berlin] Auth check successful: session_id=8giihq2bs0aipu7eso0dr7hqbr, user_id=STU0003
+[19-May-2025 02:07:14 Europe/Berlin] Database connection successful
+[19-May-2025 02:07:14 Europe/Berlin] Fees history fetched: 4
+[19-May-2025 02:07:18 Europe/Berlin] Auth check successful: session_id=8giihq2bs0aipu7eso0dr7hqbr, user_id=STU0003
+[19-May-2025 02:07:18 Europe/Berlin] Database connection successful
+[19-May-2025 02:07:18 Europe/Berlin] Fees fetched: 4
+[19-May-2025 02:07:18 Europe/Berlin] Database connection successful
+[19-May-2025 02:07:18 Europe/Berlin] Notifications.php accessed: method=GET, session_id=8giihq2bs0aipu7eso0dr7hqbr, session_data={"user_id":"STU0003","user_type":"student"}
+[19-May-2025 02:07:18 Europe/Berlin] Notifications fetched: count=4, unread_count=0, student_id=STU0003
+[19-May-2025 06:36:52 Europe/Berlin] Database connection successful
+[19-May-2025 06:36:52 Europe/Berlin] Login attempt: type=admin, email=admin1, session_id=8giihq2bs0aipu7eso0dr7hqbr
+[19-May-2025 06:36:52 Europe/Berlin] Admin login query result: Found, id=1
+[19-May-2025 06:36:52 Europe/Berlin] Admin login successful: admin_id=1, session_id=da8i13j82r0j4gl2811hs9mnn8
+[19-May-2025 06:36:53 Europe/Berlin] Auth check successful: session_id=da8i13j82r0j4gl2811hs9mnn8, user_id=STU0003
+[19-May-2025 06:36:53 Europe/Berlin] Auth check successful: session_id=da8i13j82r0j4gl2811hs9mnn8, user_id=STU0003
+[19-May-2025 06:43:01 Europe/Berlin] Auth check successful: session_id=da8i13j82r0j4gl2811hs9mnn8, user_id=STU0003
+[19-May-2025 06:43:03 Europe/Berlin] Auth check successful: session_id=da8i13j82r0j4gl2811hs9mnn8, user_id=STU0003
+[19-May-2025 06:43:03 Europe/Berlin] Auth check successful: session_id=da8i13j82r0j4gl2811hs9mnn8, user_id=STU0003
+[19-May-2025 06:43:19 Europe/Berlin] Auth check successful: session_id=da8i13j82r0j4gl2811hs9mnn8, user_id=STU0003
+[19-May-2025 06:43:31 Europe/Berlin] Database connection successful
+[19-May-2025 06:43:31 Europe/Berlin] Logout requested: Destroying session, session_id=da8i13j82r0j4gl2811hs9mnn8
+[19-May-2025 06:43:42 Europe/Berlin] Database connection successful
+[19-May-2025 06:43:42 Europe/Berlin] Login attempt: type=student, email=student3@gmail.com, session_id=da8i13j82r0j4gl2811hs9mnn8
+[19-May-2025 06:43:42 Europe/Berlin] Student login query result: Found, unique_id=STU0003
+[19-May-2025 06:43:42 Europe/Berlin] Student login successful: user_id=STU0003, session_id=6jrahq71sm2svcvrrrsefqro8l
+[19-May-2025 06:43:44 Europe/Berlin] Auth check successful: session_id=6jrahq71sm2svcvrrrsefqro8l, user_id=STU0003
+[19-May-2025 06:43:44 Europe/Berlin] Database connection successful
+[19-May-2025 06:43:44 Europe/Berlin] Notifications.php accessed: method=GET, session_id=6jrahq71sm2svcvrrrsefqro8l, session_data={"user_id":"STU0003","user_type":"student"}
+[19-May-2025 06:43:44 Europe/Berlin] Notifications fetched: count=4, unread_count=0, student_id=STU0003
+[19-May-2025 06:43:44 Europe/Berlin] Database connection successful
+[19-May-2025 06:43:44 Europe/Berlin] Fees fetched: 3
+[19-May-2025 06:43:47 Europe/Berlin] Auth check successful: session_id=6jrahq71sm2svcvrrrsefqro8l, user_id=STU0003
+[19-May-2025 06:43:47 Europe/Berlin] Database connection successful
+[19-May-2025 06:43:47 Europe/Berlin] Fees history fetched: 4
+[19-May-2025 06:44:17 Europe/Berlin] Auth check successful: session_id=6jrahq71sm2svcvrrrsefqro8l, user_id=STU0003
+[19-May-2025 06:44:17 Europe/Berlin] Database connection successful
+[19-May-2025 06:44:17 Europe/Berlin] Notifications.php accessed: method=GET, session_id=6jrahq71sm2svcvrrrsefqro8l, session_data={"user_id":"STU0003","user_type":"student"}
+[19-May-2025 06:44:17 Europe/Berlin] Notifications fetched: count=4, unread_count=0, student_id=STU0003
+[19-May-2025 06:44:17 Europe/Berlin] Database connection successful
+[19-May-2025 06:44:17 Europe/Berlin] Fees fetched: 3
+[19-May-2025 06:44:39 Europe/Berlin] Database connection successful
+[19-May-2025 06:44:39 Europe/Berlin] Logout requested: Destroying session, session_id=6jrahq71sm2svcvrrrsefqro8l
+[19-May-2025 06:44:49 Europe/Berlin] Database connection successful
+[19-May-2025 06:44:49 Europe/Berlin] Login attempt: type=admin, email=admin1, session_id=6jrahq71sm2svcvrrrsefqro8l
+[19-May-2025 06:44:49 Europe/Berlin] Admin login query result: Found, id=1
+[19-May-2025 06:44:49 Europe/Berlin] Admin login successful: admin_id=1, session_id=bnee9o37a0tntpj1oq2mj1557k
+[19-May-2025 06:44:49 Europe/Berlin] Auth check successful: session_id=bnee9o37a0tntpj1oq2mj1557k, user_id=1
+[19-May-2025 06:44:50 Europe/Berlin] Auth check successful: session_id=bnee9o37a0tntpj1oq2mj1557k, user_id=1
+[20-May-2025 18:50:08 Europe/Berlin] Database connection successful
+[20-May-2025 18:50:09 Europe/Berlin] Student registered: unique_id=STU0004
+[20-May-2025 18:50:25 Europe/Berlin] Database connection successful
+[20-May-2025 18:50:25 Europe/Berlin] Login attempt: type=student, email=student4@gmail.com, session_id=pojdsuh9mdv9svbkivtjl96kgr
+[20-May-2025 18:50:25 Europe/Berlin] Student login query result: Found, unique_id=STU0004
+[20-May-2025 18:50:25 Europe/Berlin] Student login successful: user_id=STU0004, session_id=r7p04lrqhqu70anpba91v6974q
+[20-May-2025 18:50:25 Europe/Berlin] Auth check successful: session_id=r7p04lrqhqu70anpba91v6974q, user_id=STU0004
+[20-May-2025 18:50:25 Europe/Berlin] Database connection successful
+[20-May-2025 18:50:25 Europe/Berlin] Notifications.php accessed: method=GET, session_id=r7p04lrqhqu70anpba91v6974q, session_data={"user_id":"STU0004","user_type":"student"}
+[20-May-2025 18:50:25 Europe/Berlin] Notifications fetched: count=0, unread_count=0, student_id=STU0004
+[20-May-2025 18:50:26 Europe/Berlin] Database connection successful
+[20-May-2025 18:50:26 Europe/Berlin] Fees fetched: 0
+[20-May-2025 18:50:29 Europe/Berlin] Auth check successful: session_id=r7p04lrqhqu70anpba91v6974q, user_id=STU0004
+[20-May-2025 18:50:29 Europe/Berlin] Database connection successful
+[20-May-2025 18:50:31 Europe/Berlin] Auth check successful: session_id=r7p04lrqhqu70anpba91v6974q, user_id=STU0004
+[20-May-2025 18:50:31 Europe/Berlin] Database connection successful
+[20-May-2025 18:50:31 Europe/Berlin] Fees history fetched: 0
+[20-May-2025 18:50:33 Europe/Berlin] Auth check successful: session_id=r7p04lrqhqu70anpba91v6974q, user_id=STU0004
+[20-May-2025 18:50:33 Europe/Berlin] Database connection successful
+[20-May-2025 18:50:33 Europe/Berlin] Notifications.php accessed: method=GET, session_id=r7p04lrqhqu70anpba91v6974q, session_data={"user_id":"STU0004","user_type":"student"}
+[20-May-2025 18:50:33 Europe/Berlin] Notifications fetched: count=0, unread_count=0, student_id=STU0004
+[20-May-2025 18:50:33 Europe/Berlin] Database connection successful
+[20-May-2025 18:50:33 Europe/Berlin] Fees fetched: 0
+[20-May-2025 18:50:35 Europe/Berlin] Auth check successful: session_id=r7p04lrqhqu70anpba91v6974q, user_id=STU0004
+[20-May-2025 18:50:35 Europe/Berlin] Auth check successful: session_id=r7p04lrqhqu70anpba91v6974q, user_id=STU0004
+[20-May-2025 18:50:35 Europe/Berlin] Database connection successful
+[20-May-2025 18:50:35 Europe/Berlin] Notifications.php accessed: method=GET, session_id=r7p04lrqhqu70anpba91v6974q, session_data={"user_id":"STU0004","user_type":"student"}
+[20-May-2025 18:50:35 Europe/Berlin] Notifications fetched: count=0, unread_count=0, student_id=STU0004
+[20-May-2025 18:50:37 Europe/Berlin] Database connection successful
+[20-May-2025 18:50:37 Europe/Berlin] Logout requested: Destroying session, session_id=r7p04lrqhqu70anpba91v6974q
+[20-May-2025 19:02:03 Europe/Berlin] Database connection successful
+[20-May-2025 19:02:03 Europe/Berlin] Login attempt: type=admin, email=admin2, session_id=r7p04lrqhqu70anpba91v6974q
+[20-May-2025 19:02:03 Europe/Berlin] Admin login query result: Found, id=2
+[20-May-2025 19:02:03 Europe/Berlin] Admin login successful: admin_id=2, session_id=g825ghbr203ohfhoh96b5cu1sm
+[20-May-2025 19:02:03 Europe/Berlin] Auth check successful: session_id=g825ghbr203ohfhoh96b5cu1sm, user_id=2
+[20-May-2025 19:02:03 Europe/Berlin] Auth check successful: session_id=g825ghbr203ohfhoh96b5cu1sm, user_id=2
+[20-May-2025 19:02:52 Europe/Berlin] Auth check successful: session_id=g825ghbr203ohfhoh96b5cu1sm, user_id=2
+[20-May-2025 19:03:02 Europe/Berlin] Database connection successful
+[20-May-2025 19:03:02 Europe/Berlin] Notifications.php accessed: method=POST, session_id=g825ghbr203ohfhoh96b5cu1sm, session_data={"admin_id":2,"user_type":"admin"}
+[20-May-2025 19:03:02 Europe/Berlin] Broadcast notification attempt: filter=all, value=, message_length=7, type=Info, admin_id=2
+[20-May-2025 19:03:02 Europe/Berlin] Broadcast notifications sent: count=4, filter=all, value=, admin_id=2
+[20-May-2025 19:07:55 Europe/Berlin] Auth check successful: session_id=g825ghbr203ohfhoh96b5cu1sm, user_id=2
+[20-May-2025 19:07:55 Europe/Berlin] Auth check successful: session_id=g825ghbr203ohfhoh96b5cu1sm, user_id=2
+[20-May-2025 19:09:02 Europe/Berlin] Auth check successful: session_id=g825ghbr203ohfhoh96b5cu1sm, user_id=2
+[20-May-2025 19:09:02 Europe/Berlin] Auth check successful: session_id=g825ghbr203ohfhoh96b5cu1sm, user_id=2
+[20-May-2025 19:10:21 Europe/Berlin] Auth check successful: session_id=g825ghbr203ohfhoh96b5cu1sm, user_id=2
+[20-May-2025 19:10:21 Europe/Berlin] Auth check successful: session_id=g825ghbr203ohfhoh96b5cu1sm, user_id=2
+[20-May-2025 19:12:53 Europe/Berlin] Database connection successful
+[20-May-2025 19:12:53 Europe/Berlin] Fees history fetched: 4
+[20-May-2025 19:13:03 Europe/Berlin] Database connection successful
+[20-May-2025 19:13:03 Europe/Berlin] Fees history fetched: 4
+[20-May-2025 19:18:45 Europe/Berlin] Auth check successful: session_id=g825ghbr203ohfhoh96b5cu1sm, user_id=2
+[20-May-2025 19:18:45 Europe/Berlin] Auth check successful: session_id=g825ghbr203ohfhoh96b5cu1sm, user_id=2
+[20-May-2025 19:19:10 Europe/Berlin] Auth check successful: session_id=g825ghbr203ohfhoh96b5cu1sm, user_id=2
+[20-May-2025 19:21:00 Europe/Berlin] Auth check successful: session_id=g825ghbr203ohfhoh96b5cu1sm, user_id=2
+[20-May-2025 19:21:00 Europe/Berlin] Auth check successful: session_id=g825ghbr203ohfhoh96b5cu1sm, user_id=2
+[20-May-2025 19:23:23 Europe/Berlin] Auth check successful: session_id=g825ghbr203ohfhoh96b5cu1sm, user_id=2
+[20-May-2025 19:23:23 Europe/Berlin] Auth check successful: session_id=g825ghbr203ohfhoh96b5cu1sm, user_id=2
+[20-May-2025 19:23:24 Europe/Berlin] Auth check successful: session_id=g825ghbr203ohfhoh96b5cu1sm, user_id=2
+[20-May-2025 19:23:24 Europe/Berlin] Auth check successful: session_id=g825ghbr203ohfhoh96b5cu1sm, user_id=2
+[20-May-2025 19:24:35 Europe/Berlin] Database connection successful
+[20-May-2025 19:24:35 Europe/Berlin] Logout requested: Destroying session, session_id=g825ghbr203ohfhoh96b5cu1sm
+[20-May-2025 19:24:46 Europe/Berlin] Database connection successful
+[20-May-2025 19:24:46 Europe/Berlin] Login attempt: type=admin, email=admin1, session_id=g825ghbr203ohfhoh96b5cu1sm
+[20-May-2025 19:24:46 Europe/Berlin] Admin login query result: Found, id=1
+[20-May-2025 19:24:46 Europe/Berlin] Admin login successful: admin_id=1, session_id=stk34t04a8o7mhovmb1d6lo670
+[20-May-2025 19:24:46 Europe/Berlin] Auth check successful: session_id=stk34t04a8o7mhovmb1d6lo670, user_id=1
+[20-May-2025 19:24:46 Europe/Berlin] Auth check successful: session_id=stk34t04a8o7mhovmb1d6lo670, user_id=1
+[20-May-2025 19:32:03 Europe/Berlin] Database connection successful
+[20-May-2025 19:32:03 Europe/Berlin] Logout requested: Destroying session, session_id=stk34t04a8o7mhovmb1d6lo670
+[20-May-2025 19:32:13 Europe/Berlin] Database connection successful
+[20-May-2025 19:32:13 Europe/Berlin] Login attempt: type=student, email=student3@gmail.com, session_id=stk34t04a8o7mhovmb1d6lo670
+[20-May-2025 19:32:13 Europe/Berlin] Student login query result: Found, unique_id=STU0003
+[20-May-2025 19:32:13 Europe/Berlin] Student login successful: user_id=STU0003, session_id=04chs2e7t2dv1tis055dio8i1q
+[20-May-2025 19:32:13 Europe/Berlin] Auth check successful: session_id=04chs2e7t2dv1tis055dio8i1q, user_id=STU0003
+[20-May-2025 19:32:13 Europe/Berlin] Database connection successful
+[20-May-2025 19:32:13 Europe/Berlin] Fees fetched: 3
+[20-May-2025 19:32:13 Europe/Berlin] Database connection successful
+[20-May-2025 19:32:13 Europe/Berlin] Notifications.php accessed: method=GET, session_id=04chs2e7t2dv1tis055dio8i1q, session_data={"user_id":"STU0003","user_type":"student"}
+[20-May-2025 19:32:13 Europe/Berlin] Notifications fetched: count=5, unread_count=1, student_id=STU0003
+[20-May-2025 19:32:58 Europe/Berlin] Auth check successful: session_id=04chs2e7t2dv1tis055dio8i1q, user_id=STU0003
+[20-May-2025 19:32:58 Europe/Berlin] Auth check successful: session_id=04chs2e7t2dv1tis055dio8i1q, user_id=STU0003
+[20-May-2025 19:32:58 Europe/Berlin] Database connection successful
+[20-May-2025 19:32:58 Europe/Berlin] Notifications.php accessed: method=GET, session_id=04chs2e7t2dv1tis055dio8i1q, session_data={"user_id":"STU0003","user_type":"student"}
+[20-May-2025 19:32:58 Europe/Berlin] Notifications fetched: count=5, unread_count=1, student_id=STU0003
+[20-May-2025 19:32:59 Europe/Berlin] Auth check successful: session_id=04chs2e7t2dv1tis055dio8i1q, user_id=STU0003
+[20-May-2025 19:32:59 Europe/Berlin] Database connection successful
+[20-May-2025 19:32:59 Europe/Berlin] Notifications.php accessed: method=PUT, session_id=04chs2e7t2dv1tis055dio8i1q, session_data={"user_id":"STU0003","user_type":"student"}
+[20-May-2025 19:32:59 Europe/Berlin] Marking notification read: notification_id=7, student_id=STU0003
+[20-May-2025 19:32:59 Europe/Berlin] Notification marked as read: notification_id=7, student_id=STU0003
+[20-May-2025 19:32:59 Europe/Berlin] Auth check successful: session_id=04chs2e7t2dv1tis055dio8i1q, user_id=STU0003
+[20-May-2025 19:32:59 Europe/Berlin] Database connection successful
+[20-May-2025 19:32:59 Europe/Berlin] Notifications.php accessed: method=GET, session_id=04chs2e7t2dv1tis055dio8i1q, session_data={"user_id":"STU0003","user_type":"student"}
+[20-May-2025 19:32:59 Europe/Berlin] Notifications fetched: count=5, unread_count=0, student_id=STU0003
+[20-May-2025 19:33:01 Europe/Berlin] Auth check successful: session_id=04chs2e7t2dv1tis055dio8i1q, user_id=STU0003
+[20-May-2025 19:33:01 Europe/Berlin] Database connection successful
+[20-May-2025 19:33:01 Europe/Berlin] Fees fetched: 3
+[20-May-2025 19:33:01 Europe/Berlin] Database connection successful
+[20-May-2025 19:33:01 Europe/Berlin] Notifications.php accessed: method=GET, session_id=04chs2e7t2dv1tis055dio8i1q, session_data={"user_id":"STU0003","user_type":"student"}
+[20-May-2025 19:33:01 Europe/Berlin] Notifications fetched: count=5, unread_count=0, student_id=STU0003
+[20-May-2025 19:43:54 Europe/Berlin] Auth check successful: session_id=04chs2e7t2dv1tis055dio8i1q, user_id=STU0003
+[20-May-2025 19:43:54 Europe/Berlin] Database connection successful
+[20-May-2025 19:43:54 Europe/Berlin] Fees fetched: 3
+[20-May-2025 19:43:54 Europe/Berlin] Database connection successful
+[20-May-2025 19:43:54 Europe/Berlin] Notifications.php accessed: method=GET, session_id=04chs2e7t2dv1tis055dio8i1q, session_data={"user_id":"STU0003","user_type":"student"}
+[20-May-2025 19:43:54 Europe/Berlin] Notifications fetched: count=5, unread_count=0, student_id=STU0003
+[20-May-2025 19:58:29 Europe/Berlin] Database connection successful
+[20-May-2025 19:58:29 Europe/Berlin] Login attempt: type=admin, email=Admin1, session_id=fh1julmtj7l3d4mj78678tmtt7
+[20-May-2025 19:58:30 Europe/Berlin] Admin login query result: Found, id=4
+[20-May-2025 19:58:30 Europe/Berlin] Admin login successful: admin_id=4, session_id=k362o4hgv1i13abfahsnh96rpl
+[20-May-2025 19:58:30 Europe/Berlin] Auth check successful: session_id=k362o4hgv1i13abfahsnh96rpl, user_id=STU0001
+[20-May-2025 19:58:30 Europe/Berlin] Auth check successful: session_id=k362o4hgv1i13abfahsnh96rpl, user_id=STU0001
+[20-May-2025 19:58:36 Europe/Berlin] Database connection successful
+[20-May-2025 19:58:36 Europe/Berlin] Fees history fetched: 3
+[20-May-2025 19:58:44 Europe/Berlin] Database connection successful
+[20-May-2025 19:58:44 Europe/Berlin] Logout requested: Destroying session, session_id=k362o4hgv1i13abfahsnh96rpl
+[20-May-2025 19:58:57 Europe/Berlin] Database connection successful
+[20-May-2025 19:58:57 Europe/Berlin] Login attempt: type=student, email=student1@gmail.com, session_id=k362o4hgv1i13abfahsnh96rpl
+[20-May-2025 19:58:57 Europe/Berlin] Student login query result: Found, unique_id=STU0001
+[20-May-2025 19:58:58 Europe/Berlin] Student login successful: user_id=STU0001, session_id=r2kmdo8b3p17qb6idqon2havsd
+[20-May-2025 19:58:58 Europe/Berlin] Auth check successful: session_id=r2kmdo8b3p17qb6idqon2havsd, user_id=STU0001
+[20-May-2025 19:58:58 Europe/Berlin] Database connection successful
+[20-May-2025 19:58:58 Europe/Berlin] Fees fetched: 0
+[20-May-2025 19:58:58 Europe/Berlin] Database connection successful
+[20-May-2025 19:58:58 Europe/Berlin] Notifications.php accessed: method=GET, session_id=r2kmdo8b3p17qb6idqon2havsd, session_data={"user_id":"STU0001","user_type":"student"}
+[20-May-2025 19:58:58 Europe/Berlin] Notifications fetched: count=1, unread_count=0, student_id=STU0001
+[20-May-2025 19:59:02 Europe/Berlin] Auth check successful: session_id=r2kmdo8b3p17qb6idqon2havsd, user_id=STU0001
+[20-May-2025 19:59:02 Europe/Berlin] Database connection successful
+[20-May-2025 19:59:02 Europe/Berlin] Fees history fetched: 3
+[20-May-2025 19:59:07 Europe/Berlin] Auth check successful: session_id=r2kmdo8b3p17qb6idqon2havsd, user_id=STU0001
+[20-May-2025 19:59:07 Europe/Berlin] Database connection successful
+[20-May-2025 19:59:07 Europe/Berlin] Fees fetched: 0
+[20-May-2025 19:59:07 Europe/Berlin] Database connection successful
+[20-May-2025 19:59:07 Europe/Berlin] Notifications.php accessed: method=GET, session_id=r2kmdo8b3p17qb6idqon2havsd, session_data={"user_id":"STU0001","user_type":"student"}
+[20-May-2025 19:59:07 Europe/Berlin] Notifications fetched: count=1, unread_count=0, student_id=STU0001
+[20-May-2025 20:00:48 Europe/Berlin] Auth check successful: session_id=r2kmdo8b3p17qb6idqon2havsd, user_id=STU0001
+[20-May-2025 20:00:48 Europe/Berlin] Database connection successful
+[20-May-2025 20:00:48 Europe/Berlin] Fees fetched: 0
+[20-May-2025 20:00:48 Europe/Berlin] Database connection successful
+[20-May-2025 20:00:48 Europe/Berlin] Notifications.php accessed: method=GET, session_id=r2kmdo8b3p17qb6idqon2havsd, session_data={"user_id":"STU0001","user_type":"student"}
+[20-May-2025 20:00:48 Europe/Berlin] Notifications fetched: count=1, unread_count=0, student_id=STU0001
+[20-May-2025 20:03:32 Europe/Berlin] Auth check successful: session_id=r2kmdo8b3p17qb6idqon2havsd, user_id=STU0001
+[20-May-2025 20:03:32 Europe/Berlin] Database connection successful
+[20-May-2025 20:13:10 Europe/Berlin] Auth check successful: session_id=r2kmdo8b3p17qb6idqon2havsd, user_id=STU0001
+[20-May-2025 20:13:10 Europe/Berlin] Database connection successful
+[20-May-2025 20:13:10 Europe/Berlin] Fees history fetched: 3
+[20-May-2025 20:13:13 Europe/Berlin] Auth check successful: session_id=r2kmdo8b3p17qb6idqon2havsd, user_id=STU0001
+[20-May-2025 20:13:13 Europe/Berlin] Database connection successful
+[20-May-2025 20:13:13 Europe/Berlin] Fees fetched: 0
+[20-May-2025 20:13:13 Europe/Berlin] Database connection successful
+[20-May-2025 20:13:13 Europe/Berlin] Notifications.php accessed: method=GET, session_id=r2kmdo8b3p17qb6idqon2havsd, session_data={"user_id":"STU0001","user_type":"student"}
+[20-May-2025 20:13:13 Europe/Berlin] Notifications fetched: count=1, unread_count=0, student_id=STU0001
+[20-May-2025 20:13:14 Europe/Berlin] Auth check successful: session_id=r2kmdo8b3p17qb6idqon2havsd, user_id=STU0001
+[20-May-2025 20:13:14 Europe/Berlin] Database connection successful
+[20-May-2025 20:13:22 Europe/Berlin] Database connection successful
+[20-May-2025 20:13:22 Europe/Berlin] Logout requested: Destroying session, session_id=r2kmdo8b3p17qb6idqon2havsd
+[20-May-2025 20:13:44 Europe/Berlin] Database connection successful
+[20-May-2025 20:13:44 Europe/Berlin] Login attempt: type=student, email=student2@gmail.com, session_id=r2kmdo8b3p17qb6idqon2havsd
+[20-May-2025 20:13:44 Europe/Berlin] Student login query result: Found, unique_id=STU0002
+[20-May-2025 20:13:45 Europe/Berlin] Student login successful: user_id=STU0002, session_id=p7kk81m783k9h90qm74v46aqir
+[20-May-2025 20:13:45 Europe/Berlin] Auth check successful: session_id=p7kk81m783k9h90qm74v46aqir, user_id=STU0002
+[20-May-2025 20:13:45 Europe/Berlin] Database connection successful
+[20-May-2025 20:13:45 Europe/Berlin] Fees fetched: 0
+[20-May-2025 20:13:45 Europe/Berlin] Database connection successful
+[20-May-2025 20:13:45 Europe/Berlin] Notifications.php accessed: method=GET, session_id=p7kk81m783k9h90qm74v46aqir, session_data={"user_id":"STU0002","user_type":"student"}
+[20-May-2025 20:13:45 Europe/Berlin] Notifications fetched: count=1, unread_count=0, student_id=STU0002
+[20-May-2025 20:13:50 Europe/Berlin] Auth check successful: session_id=p7kk81m783k9h90qm74v46aqir, user_id=STU0002
+[20-May-2025 20:13:50 Europe/Berlin] Database connection successful
+[20-May-2025 20:13:51 Europe/Berlin] Auth check successful: session_id=p7kk81m783k9h90qm74v46aqir, user_id=STU0002
+[20-May-2025 20:13:51 Europe/Berlin] Database connection successful
+[20-May-2025 20:13:51 Europe/Berlin] Fees history fetched: 3
+[20-May-2025 20:13:55 Europe/Berlin] Auth check successful: session_id=p7kk81m783k9h90qm74v46aqir, user_id=STU0002
+[20-May-2025 20:13:55 Europe/Berlin] Database connection successful
+[20-May-2025 20:13:55 Europe/Berlin] Fees fetched: 0
+[20-May-2025 20:13:55 Europe/Berlin] Database connection successful
+[20-May-2025 20:13:55 Europe/Berlin] Notifications.php accessed: method=GET, session_id=p7kk81m783k9h90qm74v46aqir, session_data={"user_id":"STU0002","user_type":"student"}
+[20-May-2025 20:13:55 Europe/Berlin] Notifications fetched: count=1, unread_count=0, student_id=STU0002
+[20-May-2025 20:13:56 Europe/Berlin] Auth check successful: session_id=p7kk81m783k9h90qm74v46aqir, user_id=STU0002
+[20-May-2025 20:13:56 Europe/Berlin] Auth check successful: session_id=p7kk81m783k9h90qm74v46aqir, user_id=STU0002
+[20-May-2025 20:13:56 Europe/Berlin] Database connection successful
+[20-May-2025 20:13:56 Europe/Berlin] Notifications.php accessed: method=GET, session_id=p7kk81m783k9h90qm74v46aqir, session_data={"user_id":"STU0002","user_type":"student"}
+[20-May-2025 20:13:56 Europe/Berlin] Notifications fetched: count=1, unread_count=0, student_id=STU0002
+[20-May-2025 20:13:57 Europe/Berlin] Auth check successful: session_id=p7kk81m783k9h90qm74v46aqir, user_id=STU0002
+[20-May-2025 20:13:57 Europe/Berlin] Database connection successful
+[20-May-2025 20:13:57 Europe/Berlin] Notifications.php accessed: method=PUT, session_id=p7kk81m783k9h90qm74v46aqir, session_data={"user_id":"STU0002","user_type":"student"}
+[20-May-2025 20:13:57 Europe/Berlin] Marking notification read: notification_id=2, student_id=STU0002
+[20-May-2025 20:13:57 Europe/Berlin] Notification marked as read: notification_id=2, student_id=STU0002
+[20-May-2025 20:13:57 Europe/Berlin] Auth check successful: session_id=p7kk81m783k9h90qm74v46aqir, user_id=STU0002
+[20-May-2025 20:13:57 Europe/Berlin] Database connection successful
+[20-May-2025 20:13:57 Europe/Berlin] Notifications.php accessed: method=GET, session_id=p7kk81m783k9h90qm74v46aqir, session_data={"user_id":"STU0002","user_type":"student"}
+[20-May-2025 20:13:57 Europe/Berlin] Notifications fetched: count=1, unread_count=0, student_id=STU0002
+[20-May-2025 20:14:01 Europe/Berlin] Auth check successful: session_id=p7kk81m783k9h90qm74v46aqir, user_id=STU0002
+[20-May-2025 20:14:01 Europe/Berlin] Database connection successful
+[20-May-2025 20:14:01 Europe/Berlin] Fees fetched: 0
+[20-May-2025 20:14:01 Europe/Berlin] Database connection successful
+[20-May-2025 20:14:01 Europe/Berlin] Notifications.php accessed: method=GET, session_id=p7kk81m783k9h90qm74v46aqir, session_data={"user_id":"STU0002","user_type":"student"}
+[20-May-2025 20:14:01 Europe/Berlin] Notifications fetched: count=1, unread_count=0, student_id=STU0002
+[20-May-2025 20:18:07 Europe/Berlin] Auth check successful: session_id=p7kk81m783k9h90qm74v46aqir, user_id=STU0002
+[20-May-2025 20:18:07 Europe/Berlin] Database connection successful
+[20-May-2025 20:18:07 Europe/Berlin] Fees fetched: 0
+[20-May-2025 20:18:07 Europe/Berlin] Database connection successful
+[20-May-2025 20:18:07 Europe/Berlin] Notifications.php accessed: method=GET, session_id=p7kk81m783k9h90qm74v46aqir, session_data={"user_id":"STU0002","user_type":"student"}
+[20-May-2025 20:18:07 Europe/Berlin] Notifications fetched: count=1, unread_count=0, student_id=STU0002
+[20-May-2025 20:18:08 Europe/Berlin] Auth check successful: session_id=p7kk81m783k9h90qm74v46aqir, user_id=STU0002
+[20-May-2025 20:18:08 Europe/Berlin] Database connection successful
+[20-May-2025 20:18:08 Europe/Berlin] Fees fetched: 0
+[20-May-2025 20:18:08 Europe/Berlin] Database connection successful
+[20-May-2025 20:18:08 Europe/Berlin] Notifications.php accessed: method=GET, session_id=p7kk81m783k9h90qm74v46aqir, session_data={"user_id":"STU0002","user_type":"student"}
+[20-May-2025 20:18:08 Europe/Berlin] Notifications fetched: count=1, unread_count=0, student_id=STU0002
+[20-May-2025 20:18:29 Europe/Berlin] Auth check successful: session_id=p7kk81m783k9h90qm74v46aqir, user_id=STU0002
+[20-May-2025 20:18:29 Europe/Berlin] Database connection successful
+[20-May-2025 20:18:29 Europe/Berlin] Fees fetched: 0
+[20-May-2025 20:18:29 Europe/Berlin] Database connection successful
+[20-May-2025 20:18:29 Europe/Berlin] Notifications.php accessed: method=GET, session_id=p7kk81m783k9h90qm74v46aqir, session_data={"user_id":"STU0002","user_type":"student"}
+[20-May-2025 20:18:29 Europe/Berlin] Notifications fetched: count=1, unread_count=0, student_id=STU0002
+[20-May-2025 20:18:30 Europe/Berlin] Auth check successful: session_id=p7kk81m783k9h90qm74v46aqir, user_id=STU0002
+[20-May-2025 20:18:30 Europe/Berlin] Database connection successful
+[20-May-2025 20:18:30 Europe/Berlin] Fees fetched: 0
+[20-May-2025 20:18:30 Europe/Berlin] Database connection successful
+[20-May-2025 20:18:30 Europe/Berlin] Notifications.php accessed: method=GET, session_id=p7kk81m783k9h90qm74v46aqir, session_data={"user_id":"STU0002","user_type":"student"}
+[20-May-2025 20:18:30 Europe/Berlin] Notifications fetched: count=1, unread_count=0, student_id=STU0002
+[20-May-2025 20:19:27 Europe/Berlin] Auth check successful: session_id=p7kk81m783k9h90qm74v46aqir, user_id=STU0002
+[20-May-2025 20:19:27 Europe/Berlin] Database connection successful
+[20-May-2025 20:19:27 Europe/Berlin] Fees fetched: 0
+[20-May-2025 20:19:27 Europe/Berlin] Database connection successful
+[20-May-2025 20:19:27 Europe/Berlin] Notifications.php accessed: method=GET, session_id=p7kk81m783k9h90qm74v46aqir, session_data={"user_id":"STU0002","user_type":"student"}
+[20-May-2025 20:19:27 Europe/Berlin] Notifications fetched: count=1, unread_count=0, student_id=STU0002
+[20-May-2025 20:19:28 Europe/Berlin] Auth check successful: session_id=p7kk81m783k9h90qm74v46aqir, user_id=STU0002
+[20-May-2025 20:19:28 Europe/Berlin] Database connection successful
+[20-May-2025 20:19:28 Europe/Berlin] Fees fetched: 0
+[20-May-2025 20:19:28 Europe/Berlin] Database connection successful
+[20-May-2025 20:19:28 Europe/Berlin] Notifications.php accessed: method=GET, session_id=p7kk81m783k9h90qm74v46aqir, session_data={"user_id":"STU0002","user_type":"student"}
+[20-May-2025 20:19:28 Europe/Berlin] Notifications fetched: count=1, unread_count=0, student_id=STU0002
+[20-May-2025 20:19:59 Europe/Berlin] Auth check successful: session_id=p7kk81m783k9h90qm74v46aqir, user_id=STU0002
+[20-May-2025 20:19:59 Europe/Berlin] Database connection successful
+[20-May-2025 20:19:59 Europe/Berlin] Fees fetched: 0
+[20-May-2025 20:19:59 Europe/Berlin] Database connection successful
+[20-May-2025 20:19:59 Europe/Berlin] Notifications.php accessed: method=GET, session_id=p7kk81m783k9h90qm74v46aqir, session_data={"user_id":"STU0002","user_type":"student"}
+[20-May-2025 20:19:59 Europe/Berlin] Notifications fetched: count=1, unread_count=0, student_id=STU0002
+[20-May-2025 20:20:00 Europe/Berlin] Auth check successful: session_id=p7kk81m783k9h90qm74v46aqir, user_id=STU0002
+[20-May-2025 20:20:00 Europe/Berlin] Database connection successful
+[20-May-2025 20:20:00 Europe/Berlin] Fees fetched: 0
+[20-May-2025 20:20:00 Europe/Berlin] Database connection successful
+[20-May-2025 20:20:00 Europe/Berlin] Notifications.php accessed: method=GET, session_id=p7kk81m783k9h90qm74v46aqir, session_data={"user_id":"STU0002","user_type":"student"}
+[20-May-2025 20:20:00 Europe/Berlin] Notifications fetched: count=1, unread_count=0, student_id=STU0002
+[20-May-2025 20:20:01 Europe/Berlin] Auth check successful: session_id=p7kk81m783k9h90qm74v46aqir, user_id=STU0002
+[20-May-2025 20:20:01 Europe/Berlin] Database connection successful
+[20-May-2025 20:20:01 Europe/Berlin] Fees fetched: 0
+[20-May-2025 20:20:01 Europe/Berlin] Database connection successful
+[20-May-2025 20:20:01 Europe/Berlin] Notifications.php accessed: method=GET, session_id=p7kk81m783k9h90qm74v46aqir, session_data={"user_id":"STU0002","user_type":"student"}
+[20-May-2025 20:20:01 Europe/Berlin] Notifications fetched: count=1, unread_count=0, student_id=STU0002
+[20-May-2025 20:20:01 Europe/Berlin] Auth check successful: session_id=p7kk81m783k9h90qm74v46aqir, user_id=STU0002
+[20-May-2025 20:20:01 Europe/Berlin] Database connection successful
+[20-May-2025 20:20:01 Europe/Berlin] Fees fetched: 0
+[20-May-2025 20:20:01 Europe/Berlin] Database connection successful
+[20-May-2025 20:20:01 Europe/Berlin] Notifications.php accessed: method=GET, session_id=p7kk81m783k9h90qm74v46aqir, session_data={"user_id":"STU0002","user_type":"student"}
+[20-May-2025 20:20:01 Europe/Berlin] Notifications fetched: count=1, unread_count=0, student_id=STU0002
+[20-May-2025 20:20:11 Europe/Berlin] Auth check successful: session_id=p7kk81m783k9h90qm74v46aqir, user_id=STU0002
+[20-May-2025 20:20:11 Europe/Berlin] Database connection successful
+[20-May-2025 20:20:11 Europe/Berlin] Fees fetched: 0
+[20-May-2025 20:20:11 Europe/Berlin] Database connection successful
+[20-May-2025 20:20:11 Europe/Berlin] Notifications.php accessed: method=GET, session_id=p7kk81m783k9h90qm74v46aqir, session_data={"user_id":"STU0002","user_type":"student"}
+[20-May-2025 20:20:11 Europe/Berlin] Notifications fetched: count=1, unread_count=0, student_id=STU0002
+[20-May-2025 20:20:14 Europe/Berlin] Database connection successful
+[20-May-2025 20:20:14 Europe/Berlin] Logout requested: Destroying session, session_id=p7kk81m783k9h90qm74v46aqir
+[20-May-2025 20:20:28 Europe/Berlin] Database connection successful
+[20-May-2025 20:20:28 Europe/Berlin] Login attempt: type=student, email=student1@gmail.com, session_id=p7kk81m783k9h90qm74v46aqir
+[20-May-2025 20:20:28 Europe/Berlin] Student login query result: Found, unique_id=STU0001
+[20-May-2025 20:20:28 Europe/Berlin] Student login successful: user_id=STU0001, session_id=7k4skpnhu8mo2ksskvr8c14dg0
+[20-May-2025 20:20:28 Europe/Berlin] Auth check successful: session_id=7k4skpnhu8mo2ksskvr8c14dg0, user_id=STU0001
+[20-May-2025 20:20:28 Europe/Berlin] Database connection successful
+[20-May-2025 20:20:28 Europe/Berlin] Fees fetched: 0
+[20-May-2025 20:20:28 Europe/Berlin] Database connection successful
+[20-May-2025 20:20:28 Europe/Berlin] Notifications.php accessed: method=GET, session_id=7k4skpnhu8mo2ksskvr8c14dg0, session_data={"user_id":"STU0001","user_type":"student"}
+[20-May-2025 20:20:28 Europe/Berlin] Notifications fetched: count=1, unread_count=0, student_id=STU0001
+[20-May-2025 20:20:48 Europe/Berlin] Auth check successful: session_id=7k4skpnhu8mo2ksskvr8c14dg0, user_id=STU0001
+[20-May-2025 20:20:48 Europe/Berlin] Database connection successful
+[20-May-2025 20:20:48 Europe/Berlin] Fees fetched: 0
+[20-May-2025 20:20:48 Europe/Berlin] Database connection successful
+[20-May-2025 20:20:48 Europe/Berlin] Notifications.php accessed: method=GET, session_id=7k4skpnhu8mo2ksskvr8c14dg0, session_data={"user_id":"STU0001","user_type":"student"}
+[20-May-2025 20:20:48 Europe/Berlin] Notifications fetched: count=1, unread_count=0, student_id=STU0001
+[21-May-2025 06:21:50 Europe/Berlin] Database connection successful
+[21-May-2025 06:21:50 Europe/Berlin] Login attempt: type=admin, email=Admin1, session_id=7k4skpnhu8mo2ksskvr8c14dg0
+[21-May-2025 06:21:50 Europe/Berlin] Admin login query result: Found, id=4
+[21-May-2025 06:21:50 Europe/Berlin] Admin login successful: admin_id=4, session_id=me2b1j5k4861o07rt00sc9b5qs
+[21-May-2025 06:21:50 Europe/Berlin] Auth check successful: session_id=me2b1j5k4861o07rt00sc9b5qs, user_id=STU0001
+[21-May-2025 06:21:50 Europe/Berlin] Auth check successful: session_id=me2b1j5k4861o07rt00sc9b5qs, user_id=STU0001
+[21-May-2025 06:22:27 Europe/Berlin] Database connection successful
+[21-May-2025 06:22:27 Europe/Berlin] Logout requested: Destroying session, session_id=me2b1j5k4861o07rt00sc9b5qs
+[21-May-2025 06:22:38 Europe/Berlin] Database connection successful
+[21-May-2025 06:22:38 Europe/Berlin] Login attempt: type=student, email=student1@gmail.com, session_id=me2b1j5k4861o07rt00sc9b5qs
+[21-May-2025 06:22:38 Europe/Berlin] Student login query result: Found, unique_id=STU0001
+[21-May-2025 06:22:38 Europe/Berlin] Student login successful: user_id=STU0001, session_id=5nkd9ceh8pj2hkaeddbhcdnq26
+[21-May-2025 06:22:39 Europe/Berlin] Auth check successful: session_id=5nkd9ceh8pj2hkaeddbhcdnq26, user_id=STU0001
+[21-May-2025 06:22:39 Europe/Berlin] Database connection successful
+[21-May-2025 06:22:39 Europe/Berlin] Fees fetched: 0
+[21-May-2025 06:22:39 Europe/Berlin] Database connection successful
+[21-May-2025 06:22:39 Europe/Berlin] Notifications.php accessed: method=GET, session_id=5nkd9ceh8pj2hkaeddbhcdnq26, session_data={"user_id":"STU0001","user_type":"student"}
+[21-May-2025 06:22:39 Europe/Berlin] Notifications fetched: count=1, unread_count=0, student_id=STU0001
+[21-May-2025 06:22:45 Europe/Berlin] Auth check successful: session_id=5nkd9ceh8pj2hkaeddbhcdnq26, user_id=STU0001
+[21-May-2025 06:22:45 Europe/Berlin] Database connection successful
+[21-May-2025 06:22:45 Europe/Berlin] Fees history fetched: 3
+[21-May-2025 06:22:49 Europe/Berlin] Auth check successful: session_id=5nkd9ceh8pj2hkaeddbhcdnq26, user_id=STU0001
+[21-May-2025 06:22:49 Europe/Berlin] Database connection successful
+[21-May-2025 06:22:49 Europe/Berlin] Fees fetched: 0
+[21-May-2025 06:22:49 Europe/Berlin] Database connection successful
+[21-May-2025 06:22:49 Europe/Berlin] Notifications.php accessed: method=GET, session_id=5nkd9ceh8pj2hkaeddbhcdnq26, session_data={"user_id":"STU0001","user_type":"student"}
+[21-May-2025 06:22:49 Europe/Berlin] Notifications fetched: count=1, unread_count=0, student_id=STU0001
+[21-May-2025 06:24:12 Europe/Berlin] Auth check successful: session_id=5nkd9ceh8pj2hkaeddbhcdnq26, user_id=STU0001
+[21-May-2025 06:24:12 Europe/Berlin] Database connection successful
+[21-May-2025 06:24:12 Europe/Berlin] Fees fetched: 1
+[21-May-2025 06:24:12 Europe/Berlin] Database connection successful
+[21-May-2025 06:24:12 Europe/Berlin] Notifications.php accessed: method=GET, session_id=5nkd9ceh8pj2hkaeddbhcdnq26, session_data={"user_id":"STU0001","user_type":"student"}
+[21-May-2025 06:24:12 Europe/Berlin] Notifications fetched: count=1, unread_count=0, student_id=STU0001
+[21-May-2025 06:27:07 Europe/Berlin] Database connection successful
+[21-May-2025 06:27:07 Europe/Berlin] Logout requested: Destroying session, session_id=5nkd9ceh8pj2hkaeddbhcdnq26
+[21-May-2025 06:27:23 Europe/Berlin] Database connection successful
+[21-May-2025 06:27:23 Europe/Berlin] Login attempt: type=admin, email=Admin1, session_id=5nkd9ceh8pj2hkaeddbhcdnq26
+[21-May-2025 06:27:23 Europe/Berlin] Admin login query result: Found, id=4
+[21-May-2025 06:27:23 Europe/Berlin] Admin login successful: admin_id=4, session_id=7t28nobu5vtdkpteiehcpj757d
+[21-May-2025 06:27:24 Europe/Berlin] Auth check successful: session_id=7t28nobu5vtdkpteiehcpj757d, user_id=4
+[21-May-2025 06:27:24 Europe/Berlin] Auth check successful: session_id=7t28nobu5vtdkpteiehcpj757d, user_id=4
+[21-May-2025 06:27:49 Europe/Berlin] Auth check successful: session_id=7t28nobu5vtdkpteiehcpj757d, user_id=4
+[21-May-2025 06:27:56 Europe/Berlin] Database connection successful
+[21-May-2025 06:27:56 Europe/Berlin] Logout requested: Destroying session, session_id=7t28nobu5vtdkpteiehcpj757d
+[21-May-2025 06:28:06 Europe/Berlin] Database connection successful
+[21-May-2025 06:28:06 Europe/Berlin] Login attempt: type=student, email=student1@gmail.com, session_id=7t28nobu5vtdkpteiehcpj757d
+[21-May-2025 06:28:06 Europe/Berlin] Student login query result: Found, unique_id=STU0001
+[21-May-2025 06:28:07 Europe/Berlin] Student login successful: user_id=STU0001, session_id=t2hmokcu7ku3en4cs4660gbo18
+[21-May-2025 06:28:07 Europe/Berlin] Auth check successful: session_id=t2hmokcu7ku3en4cs4660gbo18, user_id=STU0001
+[21-May-2025 06:28:07 Europe/Berlin] Database connection successful
+[21-May-2025 06:28:07 Europe/Berlin] Fees fetched: 2
+[21-May-2025 06:28:07 Europe/Berlin] Database connection successful
+[21-May-2025 06:28:07 Europe/Berlin] Notifications.php accessed: method=GET, session_id=t2hmokcu7ku3en4cs4660gbo18, session_data={"user_id":"STU0001","user_type":"student"}
+[21-May-2025 06:28:07 Europe/Berlin] Notifications fetched: count=1, unread_count=0, student_id=STU0001
+[21-May-2025 06:32:27 Europe/Berlin] Auth check successful: session_id=t2hmokcu7ku3en4cs4660gbo18, user_id=STU0001
+[21-May-2025 06:32:27 Europe/Berlin] Database connection successful
+[21-May-2025 06:32:27 Europe/Berlin] Fees history fetched: 4
+[21-May-2025 06:32:41 Europe/Berlin] Auth check successful: session_id=t2hmokcu7ku3en4cs4660gbo18, user_id=STU0001
+[21-May-2025 06:32:41 Europe/Berlin] Database connection successful
+[21-May-2025 06:32:41 Europe/Berlin] Fees fetched: 2
+[21-May-2025 06:32:41 Europe/Berlin] Database connection successful
+[21-May-2025 06:32:41 Europe/Berlin] Notifications.php accessed: method=GET, session_id=t2hmokcu7ku3en4cs4660gbo18, session_data={"user_id":"STU0001","user_type":"student"}
+[21-May-2025 06:32:41 Europe/Berlin] Notifications fetched: count=1, unread_count=0, student_id=STU0001
+[21-May-2025 06:34:39 Europe/Berlin] Database connection successful
+[21-May-2025 06:34:46 Europe/Berlin] Payment not captured for payment_id: pay_QXRsh5Sif9tScV
+[21-May-2025 06:34:53 Europe/Berlin] Auth check successful: session_id=t2hmokcu7ku3en4cs4660gbo18, user_id=STU0001
+[21-May-2025 06:34:53 Europe/Berlin] Database connection successful
+[21-May-2025 06:34:53 Europe/Berlin] Fees history fetched: 4
+[21-May-2025 06:34:58 Europe/Berlin] Auth check successful: session_id=t2hmokcu7ku3en4cs4660gbo18, user_id=STU0001
+[21-May-2025 06:34:58 Europe/Berlin] Database connection successful
+[21-May-2025 06:34:58 Europe/Berlin] Fees fetched: 2
+[21-May-2025 06:34:58 Europe/Berlin] Database connection successful
+[21-May-2025 06:34:58 Europe/Berlin] Notifications.php accessed: method=GET, session_id=t2hmokcu7ku3en4cs4660gbo18, session_data={"user_id":"STU0001","user_type":"student"}
+[21-May-2025 06:34:58 Europe/Berlin] Notifications fetched: count=1, unread_count=0, student_id=STU0001
+[21-May-2025 07:39:41 Europe/Berlin] Database connection successful
+[21-May-2025 07:39:41 Europe/Berlin] Login attempt: type=admin, email=Admin1, session_id=t2hmokcu7ku3en4cs4660gbo18
+[21-May-2025 07:39:41 Europe/Berlin] Admin login query result: Found, id=4
+[21-May-2025 07:39:41 Europe/Berlin] Admin login successful: admin_id=4, session_id=9bqtbhpd1kfj185u73vrfdbp2j
+[21-May-2025 07:39:41 Europe/Berlin] Auth check successful: session_id=9bqtbhpd1kfj185u73vrfdbp2j, user_id=STU0001
+[21-May-2025 07:39:41 Europe/Berlin] Auth check successful: session_id=9bqtbhpd1kfj185u73vrfdbp2j, user_id=STU0001
+[21-May-2025 07:43:21 Europe/Berlin] Database connection successful
+[21-May-2025 07:43:21 Europe/Berlin] Logout requested: Destroying session, session_id=9bqtbhpd1kfj185u73vrfdbp2j
+[21-May-2025 07:43:29 Europe/Berlin] Database connection successful
+[21-May-2025 07:43:29 Europe/Berlin] Login attempt: type=student, email=student1@gmail.com, session_id=9bqtbhpd1kfj185u73vrfdbp2j
+[21-May-2025 07:43:29 Europe/Berlin] Student login query result: Found, unique_id=STU0001
+[21-May-2025 07:43:29 Europe/Berlin] Student login successful: user_id=STU0001, session_id=orm2e9r6rkvte0m9rfnbjctjcs
+[21-May-2025 07:43:29 Europe/Berlin] Auth check successful: session_id=orm2e9r6rkvte0m9rfnbjctjcs, user_id=STU0001
+[21-May-2025 07:43:29 Europe/Berlin] Database connection successful
+[21-May-2025 07:43:29 Europe/Berlin] Fees fetched: 2
+[21-May-2025 07:43:29 Europe/Berlin] Database connection successful
+[21-May-2025 07:43:29 Europe/Berlin] Notifications.php accessed: method=GET, session_id=orm2e9r6rkvte0m9rfnbjctjcs, session_data={"user_id":"STU0001","user_type":"student"}
+[21-May-2025 07:43:29 Europe/Berlin] Notifications fetched: count=1, unread_count=0, student_id=STU0001
+[21-May-2025 07:44:16 Europe/Berlin] Database connection successful
+[21-May-2025 07:44:16 Europe/Berlin] Logout requested: Destroying session, session_id=orm2e9r6rkvte0m9rfnbjctjcs
+[21-May-2025 07:44:45 Europe/Berlin] Database connection successful
+[21-May-2025 07:44:45 Europe/Berlin] Login attempt: type=admin, email=Admin1, session_id=orm2e9r6rkvte0m9rfnbjctjcs
+[21-May-2025 07:44:45 Europe/Berlin] Admin login query result: Found, id=4
+[21-May-2025 07:44:45 Europe/Berlin] Admin login successful: admin_id=4, session_id=88p42o2b8b6ep589m6js2rfihc
+[21-May-2025 07:44:45 Europe/Berlin] Auth check successful: session_id=88p42o2b8b6ep589m6js2rfihc, user_id=4
+[21-May-2025 07:44:45 Europe/Berlin] Auth check successful: session_id=88p42o2b8b6ep589m6js2rfihc, user_id=4
+[21-May-2025 07:45:41 Europe/Berlin] Database connection successful
+[21-May-2025 07:45:41 Europe/Berlin] Fees history fetched: 4
+[21-May-2025 07:46:12 Europe/Berlin] Database connection successful
+[21-May-2025 07:46:12 Europe/Berlin] Logout requested: Destroying session, session_id=88p42o2b8b6ep589m6js2rfihc
+[21-May-2025 07:46:21 Europe/Berlin] Database connection successful
+[21-May-2025 07:46:21 Europe/Berlin] Login attempt: type=student, email=student1@gmail.com, session_id=88p42o2b8b6ep589m6js2rfihc
+[21-May-2025 07:46:21 Europe/Berlin] Student login query result: Found, unique_id=STU0001
+[21-May-2025 07:46:21 Europe/Berlin] Student login successful: user_id=STU0001, session_id=gv3pp9v4fp4f05gvq4m7hoibb3
+[21-May-2025 07:46:21 Europe/Berlin] Auth check successful: session_id=gv3pp9v4fp4f05gvq4m7hoibb3, user_id=STU0001
+[21-May-2025 07:46:21 Europe/Berlin] Database connection successful
+[21-May-2025 07:46:21 Europe/Berlin] Fees fetched: 2
+[21-May-2025 07:46:21 Europe/Berlin] Database connection successful
+[21-May-2025 07:46:21 Europe/Berlin] Notifications.php accessed: method=GET, session_id=gv3pp9v4fp4f05gvq4m7hoibb3, session_data={"user_id":"STU0001","user_type":"student"}
+[21-May-2025 07:46:21 Europe/Berlin] Notifications fetched: count=1, unread_count=0, student_id=STU0001
+[21-May-2025 07:46:25 Europe/Berlin] Auth check successful: session_id=gv3pp9v4fp4f05gvq4m7hoibb3, user_id=STU0001
+[21-May-2025 07:46:25 Europe/Berlin] Database connection successful
+[21-May-2025 07:46:25 Europe/Berlin] Fees history fetched: 4
+[21-May-2025 07:46:27 Europe/Berlin] Auth check successful: session_id=gv3pp9v4fp4f05gvq4m7hoibb3, user_id=STU0001
+[21-May-2025 07:46:27 Europe/Berlin] Database connection successful
+[21-May-2025 07:46:27 Europe/Berlin] Fees fetched: 2
+[21-May-2025 07:46:27 Europe/Berlin] Database connection successful
+[21-May-2025 07:46:27 Europe/Berlin] Notifications.php accessed: method=GET, session_id=gv3pp9v4fp4f05gvq4m7hoibb3, session_data={"user_id":"STU0001","user_type":"student"}
+[21-May-2025 07:46:27 Europe/Berlin] Notifications fetched: count=1, unread_count=0, student_id=STU0001
+[21-May-2025 07:46:36 Europe/Berlin] Auth check successful: session_id=gv3pp9v4fp4f05gvq4m7hoibb3, user_id=STU0001
+[21-May-2025 07:46:36 Europe/Berlin] Database connection successful
+[21-May-2025 07:46:36 Europe/Berlin] Notifications.php accessed: method=GET, session_id=gv3pp9v4fp4f05gvq4m7hoibb3, session_data={"user_id":"STU0001","user_type":"student"}
+[21-May-2025 07:46:36 Europe/Berlin] Notifications fetched: count=1, unread_count=0, student_id=STU0001
+[21-May-2025 07:46:36 Europe/Berlin] Database connection successful
+[21-May-2025 07:46:36 Europe/Berlin] Fees fetched: 2
+[21-May-2025 07:47:14 Europe/Berlin] Auth check successful: session_id=gv3pp9v4fp4f05gvq4m7hoibb3, user_id=STU0001
+[21-May-2025 07:47:14 Europe/Berlin] Database connection successful
+[21-May-2025 07:47:14 Europe/Berlin] Fees history fetched: 4
+[21-May-2025 07:47:21 Europe/Berlin] Auth check successful: session_id=gv3pp9v4fp4f05gvq4m7hoibb3, user_id=STU0001
+[21-May-2025 07:47:22 Europe/Berlin] Database connection successful
+[21-May-2025 07:47:22 Europe/Berlin] Fees fetched: 2
+[21-May-2025 07:47:22 Europe/Berlin] Database connection successful
+[21-May-2025 07:47:22 Europe/Berlin] Notifications.php accessed: method=GET, session_id=gv3pp9v4fp4f05gvq4m7hoibb3, session_data={"user_id":"STU0001","user_type":"student"}
+[21-May-2025 07:47:22 Europe/Berlin] Notifications fetched: count=1, unread_count=0, student_id=STU0001
+[21-May-2025 07:47:37 Europe/Berlin] Auth check successful: session_id=gv3pp9v4fp4f05gvq4m7hoibb3, user_id=STU0001
+[21-May-2025 07:47:37 Europe/Berlin] Database connection successful
+[21-May-2025 07:47:37 Europe/Berlin] Fees fetched: 2
+[21-May-2025 07:47:37 Europe/Berlin] Database connection successful
+[21-May-2025 07:47:37 Europe/Berlin] Notifications.php accessed: method=GET, session_id=gv3pp9v4fp4f05gvq4m7hoibb3, session_data={"user_id":"STU0001","user_type":"student"}
+[21-May-2025 07:47:37 Europe/Berlin] Notifications fetched: count=1, unread_count=0, student_id=STU0001
+[21-May-2025 07:49:20 Europe/Berlin] Auth check successful: session_id=gv3pp9v4fp4f05gvq4m7hoibb3, user_id=STU0001
+[21-May-2025 07:49:20 Europe/Berlin] Database connection successful
+[21-May-2025 07:49:20 Europe/Berlin] Fees fetched: 2
+[21-May-2025 07:49:20 Europe/Berlin] Database connection successful
+[21-May-2025 07:49:20 Europe/Berlin] Notifications.php accessed: method=GET, session_id=gv3pp9v4fp4f05gvq4m7hoibb3, session_data={"user_id":"STU0001","user_type":"student"}
+[21-May-2025 07:49:20 Europe/Berlin] Notifications fetched: count=1, unread_count=0, student_id=STU0001
+[21-May-2025 07:49:22 Europe/Berlin] Auth check successful: session_id=gv3pp9v4fp4f05gvq4m7hoibb3, user_id=STU0001
+[21-May-2025 07:49:22 Europe/Berlin] Auth check successful: session_id=gv3pp9v4fp4f05gvq4m7hoibb3, user_id=STU0001
+[21-May-2025 07:52:48 Europe/Berlin] Database connection successful
+[21-May-2025 07:52:49 Europe/Berlin] Student registered: unique_id=STU0005
+[21-May-2025 07:53:27 Europe/Berlin] Database connection successful
+[21-May-2025 07:53:27 Europe/Berlin] Login attempt: type=student, email=suhanitale@gmail.com, session_id=gv3pp9v4fp4f05gvq4m7hoibb3
+[21-May-2025 07:53:27 Europe/Berlin] Student login query result: Found, unique_id=STU0005
+[21-May-2025 07:53:27 Europe/Berlin] Student login successful: user_id=STU0005, session_id=2ej0svkrdp7r8q76jusoh0dhjf
+[21-May-2025 07:53:28 Europe/Berlin] Auth check successful: session_id=2ej0svkrdp7r8q76jusoh0dhjf, user_id=STU0005
+[21-May-2025 07:53:28 Europe/Berlin] Database connection successful
+[21-May-2025 07:53:28 Europe/Berlin] Fees fetched: 0
+[21-May-2025 07:53:28 Europe/Berlin] Database connection successful
+[21-May-2025 07:53:28 Europe/Berlin] Notifications.php accessed: method=GET, session_id=2ej0svkrdp7r8q76jusoh0dhjf, session_data={"user_id":"STU0005","user_type":"student"}
+[21-May-2025 07:53:28 Europe/Berlin] Notifications fetched: count=0, unread_count=0, student_id=STU0005
+[21-May-2025 07:53:44 Europe/Berlin] Auth check successful: session_id=2ej0svkrdp7r8q76jusoh0dhjf, user_id=STU0005
+[21-May-2025 07:53:44 Europe/Berlin] Database connection successful
+[21-May-2025 07:53:50 Europe/Berlin] Auth check successful: session_id=2ej0svkrdp7r8q76jusoh0dhjf, user_id=STU0005
+[21-May-2025 07:53:50 Europe/Berlin] Database connection successful
+[21-May-2025 07:53:50 Europe/Berlin] Fees history fetched: 0
+[21-May-2025 07:54:43 Europe/Berlin] Database connection successful
+[21-May-2025 07:54:43 Europe/Berlin] Login attempt: type=admin, email=Admin1, session_id=2ej0svkrdp7r8q76jusoh0dhjf
+[21-May-2025 07:54:43 Europe/Berlin] Admin login query result: Found, id=4
+[21-May-2025 07:54:43 Europe/Berlin] Admin login failed: Invalid credentials for username=Admin1
+[21-May-2025 07:54:57 Europe/Berlin] Database connection successful
+[21-May-2025 07:54:57 Europe/Berlin] Login attempt: type=admin, email=Admin1, session_id=2ej0svkrdp7r8q76jusoh0dhjf
+[21-May-2025 07:54:57 Europe/Berlin] Admin login query result: Found, id=4
+[21-May-2025 07:54:57 Europe/Berlin] Admin login successful: admin_id=4, session_id=db8um5m5nr53etioln0ibod72u
+[21-May-2025 07:54:57 Europe/Berlin] Auth check successful: session_id=db8um5m5nr53etioln0ibod72u, user_id=STU0005
+[21-May-2025 07:54:57 Europe/Berlin] Auth check successful: session_id=db8um5m5nr53etioln0ibod72u, user_id=STU0005
+[21-May-2025 07:55:36 Europe/Berlin] Database connection successful
+[21-May-2025 07:55:36 Europe/Berlin] Fees history fetched: 0
+[21-May-2025 07:56:36 Europe/Berlin] Auth check successful: session_id=db8um5m5nr53etioln0ibod72u, user_id=STU0005
+[21-May-2025 07:56:40 Europe/Berlin] Database connection successful
+[21-May-2025 07:56:40 Europe/Berlin] Fees history fetched: 1
+[21-May-2025 07:56:55 Europe/Berlin] Database connection successful
+[21-May-2025 07:56:55 Europe/Berlin] Fees history fetched: 1
+[21-May-2025 07:58:09 Europe/Berlin] Database connection successful
+[21-May-2025 07:58:09 Europe/Berlin] Login attempt: type=student, email=suhanitale@gmail.com, session_id=db8um5m5nr53etioln0ibod72u
+[21-May-2025 07:58:09 Europe/Berlin] Student login query result: Found, unique_id=STU0005
+[21-May-2025 07:58:09 Europe/Berlin] Student login successful: user_id=STU0005, session_id=e54g7ki20492r4qij7dmbk1ql7
+[21-May-2025 07:58:09 Europe/Berlin] Auth check successful: session_id=e54g7ki20492r4qij7dmbk1ql7, user_id=STU0005
+[21-May-2025 07:58:09 Europe/Berlin] Database connection successful
+[21-May-2025 07:58:09 Europe/Berlin] Fees fetched: 0
+[21-May-2025 07:58:09 Europe/Berlin] Database connection successful
+[21-May-2025 07:58:09 Europe/Berlin] Notifications.php accessed: method=GET, session_id=e54g7ki20492r4qij7dmbk1ql7, session_data={"user_id":"STU0005","user_type":"student","admin_id":4}
+[21-May-2025 07:58:09 Europe/Berlin] Notifications fetched: count=0, unread_count=0, student_id=STU0005
+[21-May-2025 07:58:14 Europe/Berlin] Auth check successful: session_id=e54g7ki20492r4qij7dmbk1ql7, user_id=STU0005
+[21-May-2025 07:58:14 Europe/Berlin] Database connection successful
+[21-May-2025 07:58:14 Europe/Berlin] Fees history fetched: 1

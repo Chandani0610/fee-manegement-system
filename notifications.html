@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Notifications - CollegeSync Fees</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+            font-family: Arial, sans-serif;
+        }
+        body {
+            background: linear-gradient(135deg, #e0f2f1, #80cbc4);
+        }
+        nav {
+            background: #00695c;
+            padding: 15px;
+            box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+        }
+        nav a {
+            color: #fff;
+            text-decoration: none;
+            margin: 0 15px;
+            font-weight: bold;
+        }
+        nav a:hover {
+            text-decoration: underline;
+        }
+        .container {
+            max-width: 800px;
+            margin: 20px auto;
+            padding: 0 20px;
+        }
+        .card {
+            background: #fff;
+            padding: 15px;
+            margin-bottom: 10px;
+            border-radius: 5px;
+            box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+            cursor: pointer;
+        }
+        .card.unread {
+            background: #e3f2fd;
+            border-left: 5px solid #0288d1;
+        }
+        .card h4 {
+            color: #004d40;
+            margin-bottom: 5px;
+        }
+        .card p {
+            color: #37474f;
+        }
+        .no-data {
+            text-align: center;
+            color: #37474f;
+            font-style: italic;
+        }
+        .error {
+            color: #d32f2f;
+            margin-bottom: 10px;
+            padding: 5px;
+            background: #ffebee;
+            border-radius: 5px;
+            display: none;
+            text-align: center;
+        }
+        @media (max-width: 600px) {
+            nav {
+                text-align: center;
+            }
+            nav a {
+                display: inline-block;
+                margin: 5px;
+            }
+            .container {
+                margin: 10px;
+                padding: 0 10px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <nav id="student-nav">
+        <a href="student_dashboard.html">Dashboard</a>
+        <a href="fees_history.html">Fees History</a>
+        <a href="student_profile.html">Profile</a>
+        <a id="notif-count" href="notifications.html">Notifications</a>
+        <a href="#" onclick="logout()">Logout</a>
+    </nav>
+    <div class="container">
+        <h2>Notifications</h2>
+        <div id="error" class="error"></div>
+        <div id="notifications-container"></div>
+    </div>
+    <script src="../js/jquery.min.js"></script>
+    <script src="../js/main.js"></script>
+    <script>
+       
+        $.ajax({
+            url: '../backend/check_auth.php',
+            method: 'GET',
+            credentials: 'include',
+            success: function(response) {
+                if (!response.success) {
+                    console.log('User not authenticated, redirecting to login');
+                    window.location.href = 'student_login.html';
+                }
+            },
+            error: function(xhr) {
+                console.error('Auth check error:', xhr);
+                window.location.href = 'student_login.html';
+            }
+        });
+    </script>
+</body>
+</html>
